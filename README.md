@@ -1,0 +1,1 @@
+# stride-docs-catproject
