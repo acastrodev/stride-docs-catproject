@@ -3223,8 +3223,8 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       <tuv xml:lang="en">
         <seg>Deployments to Azure Web Apps are automated through GitHub Actions, forming an integral part of our Continuous Integration/Continuous Deployment (CI/CD) process.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T143100Z" creationid="alexa" creationdate="20250405T143100Z">
-        <seg>As implantações no Azure Web Apps são automatizadas por meio do GitHub Actions, integrando-se ao nosso processo de Integração Contínua / Entrega Contínua (CI/CD).</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T161048Z" creationid="alexa" creationdate="20250405T143100Z">
+        <seg>As implantações no Azure Aplicativo Web são automatizadas por meio do GitHub Actions, integrando-se ao nosso processo de Integração Contínua / Entrega Contínua (CI/CD).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3503,8 +3503,8 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       <tuv xml:lang="en">
         <seg>Follow these instructions carefully to establish your Azure Web App in a staging environment.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T143322Z" creationid="alexa" creationdate="20250405T143322Z">
-        <seg>Siga atentamente estas instruções para criar seu Azure Web App em um ambiente de staging.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T161105Z" creationid="alexa" creationdate="20250405T143322Z">
+        <seg>Siga atentamente estas instruções para criar seu Azure Aplicativo Web em um ambiente de staging.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3966,8 +3966,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>It provides step-by-step instructions for setting up a new Azure Web App, specifically tailored for staging environments.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T143019Z" creationid="alexa" creationdate="20250405T143019Z">
-        <seg>Ele oferece instruções passo a passo para configurar um novo Azure Web App, especificamente voltado para ambientes de staging (pré-produção).</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T161022Z" creationid="alexa" creationdate="20250405T143019Z">
+        <seg>Ele oferece instruções passo a passo para configurar um novo Azure Aplicativo Web, especificamente voltado para ambientes de staging (pré-produção).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4719,8 +4719,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Run GitHub Action</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T152740Z" creationid="alexa" creationdate="20250405T152740Z">
-        <seg>Executar a GitHub Action</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T161329Z" creationid="alexa" creationdate="20250405T152740Z">
+        <seg>Executar uma GitHub Action</seg>
       </tuv>
     </tu>
     <tu>

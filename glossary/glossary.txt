@@ -10,7 +10,7 @@ Motion blur	Motion blur
 Coding Sea	Coding Sea	Youtube channel
 pull request	pull request
 Pull Request	pull request
-Web App	Aplicativo Web	Microsoft Azure
+Azure Web App	Azure Aplicativo Web	Microsoft Azure
 Runtime stack	Pilha de runtime	Microsoft Azure
 App Service Plan	Plano do Serviço de Aplicativo	Microsoft Azure
 Continuous deployment	Implantação contínua
