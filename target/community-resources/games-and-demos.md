@@ -1,0 +1,45 @@
+# Jogos e demos
+
+## Jogos
+- [Distant Worlds 2](https://store.steampowered.com/app/1531540/Distant_Worlds_2) - Jogo de estratégia espacial 4X em tempo real, pausável
+- [Starbreach](https://github.com/xenko3d/Starbreach) - Atirador em primeira/pessoa terceira
+- [Rollerghoster](https://github.com/Aggror/RollerGhosterOpen) - Corrida contra fantasmas online e locais em pistas procedurais, por Aggror Jorn
+- [FPS Infinite](https://store.steampowered.com/app/1256380/FPS_Infinite/) - FPS procedural com suporte para VR
+- [Once Upon A Lan](https://jarmo.itch.io/once-upon-a-lan) - Brawler multijogador isométrico via LAN
+- [BallsOfSteel](https://github.com/Kryptos-FR/BallsOfSteel)
+- [XenkoSpaceShooter](https://github.com/jayrulez/XenkoSpaceShooter)
+- [XenkoAsteroids](https://github.com/LanceJZ/Xenko_Asteroids)
+- [TurnBasedBattleSim](https://github.com/jayrulez/TurnBasedBattleSim)
+- [Harrowing Flight](https://forums.stride3d.net/t/harrowing-flight-student-game-project/1823) - Projeto de jogo de estudante
+- [Glasses](https://globalgamejam.org/2019/games/glasses) - Jogo submetido na Global Game Jam
+- [vvvv Showcase](https://visualprogramming.net/#Showcase) - Muitos projetos interativos de mídia em grande escala feitos com vvvv
+- [Astroids](https://github.com/LanceJZ/Stride-Asteroids)
+- [Jogo de plataforma básico (Em progresso)](https://github.com/Doprez/stride-platformer)
+- [Rise of the Undeaf](https://github.com/manio143/RiseOfTheUndeaf)
+- [Xenko TPS (Exemplo)](https://github.com/stride3d/Starbreach)
+- [Zerobot](https://github.com/joaovsq/Zerobot)
+- YouTube
+  - [Rescue Drone - Agosto de 2015](https://www.youtube.com/watch?v=wOZ-s7Q4qWY)
+  - [Motor de jogo Xenko: Como os criadores de Bravely Default querem ajudar no desenvolvimento de melhores jogos para VR](https://www.youtube.com/watch?v=1hgh7R38yK8)
+  - [Geração Procedural de Terreno e Testes de Água do Xenko](https://www.youtube.com/watch?v=ba_Tpz4ojHk)
+  - [Xenko 1.8 - Cel Shading](https://www.youtube.com/watch?v=RJDrG1QR3Uo)
+  - [demo da implementação de vxgi no motor de jogo Xenko](https://www.youtube.com/watch?v=AZytf15FRks&t=2s)
+- Twitter
+  - [Sistema de rede do Scythe of Luna](https://twitter.com/scythe_of_luna/status/1616773130495885325)
+- Vimeo
+  - [Escultura de Dados para Herrenknecht renderizada com Stride](https://vimeo.com/797315059)
+- Lançamentos
+  - [Children of the galaxy](https://www.emptykeys.com/games/children-of-the-galaxy/)
+  - [Distant Worlds 2](https://store.steampowered.com/app/1531540/Distant_Worlds_2/)
+  - [Snaaker Friends](https://store.steampowered.com/app/1443760/Snaaker__Friends/)
+  - [VVVVarkle com vvvv renderizado usando Stride](https://github.com/BenTec3d/VVVVarkle/releases/tag/v1.0)
+  - [Virtual Desktop](https://www.vrdesktop.net/)
+    - [Flappy Bird com código fonte](https://nedreid.itch.io/flappy-bird-stride)
+  - [Projetos interativos em grande escala feitos com VVVV](https://visualprogramming.net/#Showcase)
+- Game Jams
+  - [Step up feito por Marian Dziubiak e Youness Kafia](https://manio143.itch.io/project-step-up)
+  - [Stopping the Rogue por manio](https://manio143.itch.io/stopping-the-rogue)
+  - [Once Upon a LAN por Jarmo](https://jarmo.itch.io/once-upon-a-lan)
+  - [Dozer Dash](https://ldjam.com/events/ludum-dare/54/$374737) - feito com uma abordagem somente código [mais repo](https://github.com/Schossi/LD54/tree/main)
+- Projetos
+  - [Astroids](https://github.com/mmujic2/StrideAsteroids)

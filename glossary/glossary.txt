@@ -1,0 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+Asset	Asset
+asset	asset
+tag	marca	Microsoft translation: https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/xmldoc/recommended-tags

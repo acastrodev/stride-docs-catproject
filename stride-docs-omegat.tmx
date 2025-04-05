@@ -1,0 +1,3936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>%% Define styles
+%% Main Graph
+graph TB
+%% Nodes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220608Z" creationid="alexa" creationdate="20250404T220608Z">
+        <seg>%% Define styles
+%% Main Graph
+graph TB
+%% Nodes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>404 - Page or File Not Found</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T172919Z" creationid="alexa" creationdate="20250404T172919Z">
+        <seg>404 - Página ou Arquivo Não Encontrado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+If multiple labels are applied, the release automation will prioritize the generic category first, followed by the Stride-specific category.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215603Z" creationid="alexa" creationdate="20250404T215526Z">
+        <seg>&lt;g1&gt;!NOTE&lt;/g1&gt;
+Se múltiplos rótulos forem aplicados, a automação de releases priorizará a categoria genérica primeiro, seguida pela específica do Stride.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;2D Game Tutorial UI&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212316Z" creationid="alexa" creationdate="20250404T212316Z">
+        <seg>&lt;g1&gt;Tutorial de Interface para Jogo 2D&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;2D Game Tutorial&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212305Z" creationid="alexa" creationdate="20250404T212305Z">
+        <seg>&lt;g1&gt;Tutorial de Jogo 2D&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;2D camera system&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212245Z" creationid="alexa" creationdate="20250404T212245Z">
+        <seg>&lt;g1&gt;Sistema de Câmera 2D&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;3D UI using Stride and VVVV&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213421Z" creationid="alexa" creationdate="20250404T213421Z">
+        <seg>&lt;g1&gt;Interface 3D usando Stride e VVVV&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;3D rendering documentation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180456Z" creationid="alexa" creationdate="20250404T180446Z">
+        <seg>&lt;g1&gt;Documentação de renderização&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;A Minecraft-style game&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182225Z" creationid="alexa" creationdate="20250404T182225Z">
+        <seg>&lt;g1&gt;Jogo estilo Minecraft&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Additional Contributions?&lt;/g1&gt;: Consider whether you want to make further contributions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221347Z" creationid="alexa" creationdate="20250404T221347Z">
+        <seg>&lt;g1&gt;Deseja Contribuir Mais?&lt;/g1&gt;: Avalie se deseja fazer novas contribuições.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Address PR Feedback&lt;/g1&gt;: If maintainers or other contributors have feedback, make the necessary adjustments to your PR.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221243Z" creationid="alexa" creationdate="20250404T221243Z">
+        <seg>&lt;g1&gt;Responda ao Feedback do PR&lt;/g1&gt;: Caso receba sugestões ou observações dos mantenedores ou de outros colaboradores, ajuste seu PR conforme necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Animation Trigger script&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185926Z" creationid="alexa" creationdate="20250404T185926Z">
+        <seg>&lt;g1&gt;Script de Gatilho de Animação&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Arch ECS integrated into Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180150Z" creationid="alexa" creationdate="20250404T180150Z">
+        <seg>&lt;g1&gt;Arch ECS integrado ao Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Astroids&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211547Z" creationid="alexa" creationdate="20250404T211547Z">
+        <seg>&lt;g1&gt;Astroids&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Async shader compilation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193200Z" creationid="alexa" creationdate="20250404T193200Z">
+        <seg>&lt;g1&gt;Compilação assíncrona de shader&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Audio&lt;/g1&gt; fix: Audio emitter multiple references to same asset bugfix</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215835Z" creationid="alexa" creationdate="20250404T215835Z">
+        <seg>&lt;g1&gt;Audio&lt;/g1&gt; fix: Audio emitter multiple references to same asset bugfix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;AutoImportStride: A script to import files into Stride3D.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211031Z" creationid="alexa" creationdate="20250404T211031Z">
+        <seg>&lt;g1&gt;AutoImportStride: Um script para importar arquivos para o Stride.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;BallsOfSteel&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182829Z" creationid="alexa" creationdate="20250404T182829Z">
+        <seg>&lt;g1&gt;BallsOfSteel&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Basic Platformer Movement Tutorial&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212227Z" creationid="alexa" creationdate="20250404T212227Z">
+        <seg>&lt;g1&gt;Tutorial de Movimento Básico de Plataforma&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Basic Platformer WIP&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183108Z" creationid="alexa" creationdate="20250404T183108Z">
+        <seg>Jogo de plataforma básico (Em progresso)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Basic Stride LOD system&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185841Z" creationid="alexa" creationdate="20250404T185841Z">
+        <seg>&lt;g1&gt;Sistema básico de LOD do Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Bepu Navigation&lt;/g1&gt; using &lt;g2&gt;DotRecast&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175436Z" creationid="alexa" creationdate="20250404T175436Z">
+        <seg>&lt;g1&gt;Bepu Navigation&lt;/g1&gt; usando &lt;g2&gt;DotRecast&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Bepu Physics in Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211206Z" creationid="alexa" creationdate="20250404T211206Z">
+        <seg>&lt;g1&gt;Física Bepu no Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Bepu physics integration&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190025Z" creationid="alexa" creationdate="20250404T190025Z">
+        <seg>&lt;g1&gt;Integração da física Bepu&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Blender plugin to export bulk anims for importing into Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T210848Z" creationid="alexa" creationdate="20250404T210848Z">
+        <seg>&lt;g1&gt;Plugin do Blender para exportar animações em massa para importação no Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;BlenderToXenkoAnimationSeparater&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211154Z" creationid="alexa" creationdate="20250404T211154Z">
+        <seg>&lt;g1&gt;BlenderToXenkoAnimationSeparater&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Boids algorithm rendered in Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213445Z" creationid="alexa" creationdate="20250404T213445Z">
+        <seg>&lt;g1&gt;Algoritmo de Boids renderizado no Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Bullet physics constraints in Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212525Z" creationid="alexa" creationdate="20250404T212525Z">
+        <seg>&lt;g1&gt;Restrições de física Bullet no Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Bump in to some useful code&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184626Z" creationid="alexa" creationdate="20250404T184626Z">
+        <seg>&lt;g1&gt;Encontre aquele código útil&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Camera controller&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T191016Z" creationid="alexa" creationdate="20250404T191016Z">
+        <seg>&lt;g1&gt;Controlador de câmera&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;CameraFollow.cs&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T191045Z" creationid="alexa" creationdate="20250404T191045Z">
+        <seg>&lt;g1&gt;CameraFollow.cs&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Checklist&lt;/g1&gt;: A series of verification steps to ensure the PR is comprehensive and tested.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214724Z" creationid="alexa" creationdate="20250404T214724Z">
+        <seg>&lt;g1&gt;Checklist&lt;/g1&gt;: Itens de verificação para garantir completude e testes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Children of the galaxy&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211644Z" creationid="alexa" creationdate="20250404T211644Z">
+        <seg>&lt;g1&gt;Children of the galaxy&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Clean UI with no Post FX in Game Studio and Game&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213157Z" creationid="alexa" creationdate="20250404T213157Z">
+        <seg>&lt;g1&gt;Interface Limpa sem Efeitos de Pós-processamento no Game Studio e no Jogo&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;ClientServerSample&lt;/g1&gt; - Headless server (Physics only, no game tick loop)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T174807Z" creationid="alexa" creationdate="20250404T174807Z">
+        <seg>&lt;g1&gt;ClientServerSample&lt;/g1&gt; - Servidor sem interface gráfica (apenas física, sem loop de jogo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Code Generator for Stride - Day 1&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212433Z" creationid="alexa" creationdate="20250404T212433Z">
+        <seg>&lt;g1&gt;Gerador de Código para Stride - Dia 1&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Code Generator for Stride - Day 2&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212448Z" creationid="alexa" creationdate="20250404T212448Z">
+        <seg>&lt;g1&gt;Gerador de Código para Stride - Dia 2&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Code Generator for Stride - Day 3&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212451Z" creationid="alexa" creationdate="20250404T212451Z">
+        <seg>&lt;g1&gt;Gerador de Código para Stride - Dia 3&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;CodeOnlySample&lt;/g1&gt; - Sample project with code only</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T174722Z" creationid="alexa" creationdate="20250404T174642Z">
+        <seg>&lt;g1&gt;CodeOnlySample&lt;/g1&gt; - Projeto de exemplo apenas com código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Coding Sea&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212221Z" creationid="alexa" creationdate="20250404T212221Z">
+        <seg>&lt;g1&gt;Mar de Código&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Compiling Stride for Linux&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180825Z" creationid="alexa" creationdate="20250404T180825Z">
+        <seg>&lt;g1&gt;Compilando o Stride para Linux&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Compiling Stride with Vulkan to debug local changes on Linux&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212513Z" creationid="alexa" creationdate="20250404T212513Z">
+        <seg>&lt;g1&gt;Compilando o Stride com Vulkan para depurar alterações locais no Linux&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Control - Input Manager&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181250Z" creationid="alexa" creationdate="20250404T181250Z">
+        <seg>&lt;g1&gt;Gerenciador de Entrada – Controle&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Create a Branch 'X'&lt;/g1&gt;: Create a new branch in your forked repository, naming it appropriately for the changes you plan to implement.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221019Z" creationid="alexa" creationdate="20250404T221019Z">
+        <seg>&lt;g1&gt;Crie um Branch 'X'&lt;/g1&gt;: No seu fork, crie um novo branch, nomeando-o de forma apropriada para refletir as alterações que pretende fazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Create a Pull Request (PR)&lt;/g1&gt;: Once satisfied with your changes and testing, &lt;g2&gt;submit a pull request&lt;/g2&gt; to the original repository for review.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221203Z" creationid="alexa" creationdate="20250404T221203Z">
+        <seg>&lt;g1&gt;Crie um Pull Request (PR)&lt;/g1&gt;: Quando estiver satisfeito com suas alterações e os testes, &lt;g2&gt;submeta um pull request&lt;/g2&gt; para o repositório original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Create a custom data asset&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T210836Z" creationid="alexa" creationdate="20250404T210836Z">
+        <seg>&lt;g1&gt;Criar um asset de dados personalizado&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Create button dynamically&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213207Z" creationid="alexa" creationdate="20250404T213207Z">
+        <seg>&lt;g1&gt;Criar botão dinamicamente&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Creating a procedural model&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185755Z" creationid="alexa" creationdate="20250404T185755Z">
+        <seg>&lt;g1&gt;Criando um modelo procedural&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Custom Editor Gizmos&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181609Z" creationid="alexa" creationdate="20250404T181609Z">
+        <seg>&lt;g1&gt;Gizmos personalizados no editor&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Custom Root Renderer&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180813Z" creationid="alexa" creationdate="20250404T180813Z">
+        <seg>&lt;g1&gt;Renderizador Base Personalizado&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Custom UI example using MyraUI&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213302Z" creationid="alexa" creationdate="20250404T213302Z">
+        <seg>&lt;g1&gt;Exemplo de Interface Personalizada usando MyraUI&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;CustomRootRenderer&lt;/g1&gt; - Render custom shaders correctly into a scene</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190649Z" creationid="alexa" creationdate="20250404T190649Z">
+        <seg>&lt;g1&gt;CustomRootRenderer&lt;/g1&gt; - Renderize shaders personalizados corretamente em uma cena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Cutscene Timeline&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181833Z" creationid="alexa" creationdate="20250404T181833Z">
+        <seg>&lt;g1&gt;Linha do tempo para cutscenes&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Data Sculpture for Herrenknecht rendered with Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183531Z" creationid="alexa" creationdate="20250404T183531Z">
+        <seg>&lt;g1&gt;Escultura de Dados para Herrenknecht renderizada com Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Debug shape render&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190402Z" creationid="alexa" creationdate="20250404T190402Z">
+        <seg>&lt;g1&gt;Depuração de renderização de formas&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Demos with a focus on Code-Only approach&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181600Z" creationid="alexa" creationdate="20250404T181600Z">
+        <seg>&lt;g1&gt;Demos focadas na abordagem somente com código&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Description&lt;/g1&gt;: An in-depth explanation of what has been changed or added.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214557Z" creationid="alexa" creationdate="20250404T214557Z">
+        <seg>&lt;g1&gt;Descrição&lt;/g1&gt;: Explicação detalhada do que foi feito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Descriptive Information:&lt;/g1&gt; Comments should clearly describe the purpose, parameters, return values, and any exceptions thrown by the method or property.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091559Z" creationid="alexa" creationdate="20250405T091559Z">
+        <seg>&lt;g1&gt;Informações Descritivas:&lt;/g1&gt; Os comentários devem descrever claramente o propósito, os parâmetros, os valores de retorno e quaisquer exceções lançadas pelo método ou propriedade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Distant Worlds 2&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211648Z" creationid="alexa" creationdate="20250404T211648Z">
+        <seg>&lt;g1&gt;Distant Worlds 2&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Distant Worlds 2&lt;/g1&gt; - Vast, pausable real-time 4X space strategy game</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182752Z" creationid="alexa" creationdate="20250404T182752Z">
+        <seg>&lt;g1&gt;Distant Worlds 2&lt;/g1&gt; - Jogo de estratégia espacial 4X em tempo real, pausável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Doprez.Stride.AI: FSM and GOAP library for Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175352Z" creationid="alexa" creationdate="20250404T175352Z">
+        <seg>&lt;g1&gt;Doprez.Stride.AI: Biblioteca de FSM e GOAP para Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Dozer Dash&lt;/g1&gt; - made with a code only approach &lt;g2&gt;plus repo&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183740Z" creationid="alexa" creationdate="20250404T183721Z">
+        <seg>&lt;g1&gt;Dozer Dash&lt;/g1&gt; - feito com uma abordagem somente código &lt;g2&gt;mais repo&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;ET-Stride: A networking framework based on Stride and ET&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T174903Z" creationid="alexa" creationdate="20250404T174903Z">
+        <seg>&lt;g1&gt;ET-Stride: Um framework de rede baseado em Stride e ET&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Easier input binding configuration&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181527Z" creationid="alexa" creationdate="20250404T181527Z">
+        <seg>&lt;g1&gt;Mapeamento de entrada mais fácil de configurar&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Emanuel-DIY Follow Along Project&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212411Z" creationid="alexa" creationdate="20250404T212411Z">
+        <seg>&lt;g1&gt;Projeto com Emanuel-DIY&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Emanuel-DIY&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212256Z" creationid="alexa" creationdate="20250404T212256Z">
+        <seg>&lt;g1&gt;Emanuel-DIY&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Empty Keys UI for Xenko&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213323Z" creationid="alexa" creationdate="20250404T213323Z">
+        <seg>&lt;g1&gt;Empty Keys UI para Xenko&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;End&lt;/g1&gt;: Conclude your current contribution cycle.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221405Z" creationid="alexa" creationdate="20250404T221405Z">
+        <seg>&lt;g1&gt;Fim&lt;/g1&gt;: Finalize o ciclo de contribuição atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Entity Processor Example&lt;/g1&gt; - Custom Entity Component + Processor</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175252Z" creationid="alexa" creationdate="20250404T175252Z">
+        <seg>&lt;g1&gt;Exemplo de Processador de Entidade&lt;/g1&gt; - Componente de entidade personalizado + processador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Entity Processor&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181922Z" creationid="alexa" creationdate="20250404T181856Z">
+        <seg>&lt;g1&gt;Processador de Entidade&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Experimental mini Stride.Editor in Avalonia&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180835Z" creationid="alexa" creationdate="20250404T180835Z">
+        <seg>&lt;g1&gt;Mini editor experimental do Stride em Avalonia&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Explore games and demos&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184143Z" creationid="alexa" creationdate="20250404T184143Z">
+        <seg>&lt;g1&gt;Explore jogos e demos&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Explore tutorials and articles&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184323Z" creationid="alexa" creationdate="20250404T184323Z">
+        <seg>&lt;g1&gt;Explore os tutoriais e artigos&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Export/save a scene or a group of entities within a running stride game&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181641Z" creationid="alexa" creationdate="20250404T181641Z">
+        <seg>&lt;g1&gt;Exportar/salvar uma cena ou grupo de entidades em tempo de execução&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;FPS Infinite&lt;/g1&gt; - Procedural FPS with VR support</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182818Z" creationid="alexa" creationdate="20250404T182818Z">
+        <seg>&lt;g1&gt;FPS Infinite&lt;/g1&gt; - FPS procedural com suporte para VR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Flappy Bird With Source Code&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183612Z" creationid="alexa" creationdate="20250404T183612Z">
+        <seg>&lt;g1&gt;Flappy Bird com código fonte&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;FlowingWater&lt;/g1&gt; - Flowing water shader implementation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190602Z" creationid="alexa" creationdate="20250404T190602Z">
+        <seg>&lt;g1&gt;FlowingWater&lt;/g1&gt; - Implementação de shader de água fluida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Fog Of War&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190425Z" creationid="alexa" creationdate="20250404T190425Z">
+        <seg>&lt;g1&gt;Névoa de Guerra&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Fork the Repository&lt;/g1&gt;: Begin by forking the repository of the project you're interested in contributing to.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221007Z" creationid="alexa" creationdate="20250404T221007Z">
+        <seg>&lt;g1&gt;Faça um Fork do Repositório&lt;/g1&gt;: Comece fazendo um fork do repositório do projeto com o qual deseja contribuir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;GalaxyCore: Network Solution for Unity, Stride, Xenko, Unigine&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T174925Z" creationid="alexa" creationdate="20250404T174925Z">
+        <seg>&lt;g1&gt;GalaxyCore: Solução de rede para Unity, Stride, Xenko, Unigine&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Game Screen Manager&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181932Z" creationid="alexa" creationdate="20250404T181932Z">
+        <seg>&lt;g1&gt;Gerenciador de Telas de Jogo&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Generate simple mesh and marching cube from computeShader&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T192924Z" creationid="alexa" creationdate="20250404T192924Z">
+        <seg>&lt;g1&gt;Geração de malha simples e marching cube a partir de computeShader&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Generic categories:&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215220Z" creationid="alexa" creationdate="20250404T215220Z">
+        <seg>&lt;g1&gt;Categorias Genéricas:&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Get Vertices and Indices from a mesh&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185814Z" creationid="alexa" creationdate="20250404T185814Z">
+        <seg>&lt;g1&gt;Obtendo vértices e Índices de uma malha&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Get your feet wet&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184442Z" creationid="alexa" creationdate="20250404T184442Z">
+        <seg>&lt;g1&gt;Molhe os seus pés&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Glass shader&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T192932Z" creationid="alexa" creationdate="20250404T192932Z">
+        <seg>&lt;g1&gt;Shader de vidro&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Glasses&lt;/g1&gt; - Global Game Jam Entry</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182951Z" creationid="alexa" creationdate="20250404T182951Z">
+        <seg>&lt;g1&gt;Glasses&lt;/g1&gt; - Jogo submetido na Global Game Jam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Harrowing Flight&lt;/g1&gt; - Student Game Project</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182854Z" creationid="alexa" creationdate="20250404T182854Z">
+        <seg>&lt;g1&gt;Harrowing Flight&lt;/g1&gt; - Projeto de jogo de estudante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Has the Upstream Changed?&lt;/g1&gt;: Regularly check if the original repository has been updated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221106Z" creationid="alexa" creationdate="20250404T221106Z">
+        <seg>Garanta que suas modificações estejam em conformidade com os padrões e diretrizes do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Have a look&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184356Z" creationid="alexa" creationdate="20250404T184356Z">
+        <seg>&lt;g1&gt;Dê uma olhada&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;How To setup Real Time Voxel Global Illumination&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212419Z" creationid="alexa" creationdate="20250404T212419Z">
+        <seg>&lt;g1&gt;Como configurar Iluminação Global Voxel em Tempo Real&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;How to create custom configuration in Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212540Z" creationid="alexa" creationdate="20250404T212540Z">
+        <seg>&lt;g1&gt;Como criar configurações personalizadas no Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;How to use locally built Stride Engine to debug your game&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212535Z" creationid="alexa" creationdate="20250404T212535Z">
+        <seg>&lt;g1&gt;Como usar o Stride compilado localmente para depurar seu jogo&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;ImGuiDebug - Bare-bone implementation of ImGui and a couple of debug tools for Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213317Z" creationid="alexa" creationdate="20250404T213317Z">
+        <seg>&lt;g1&gt;ImGuiDebug – Implementação mínima do ImGui com algumas ferramentas de depuração para o Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Image processing shaders from VVVV community&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193138Z" creationid="alexa" creationdate="20250404T193138Z">
+        <seg>&lt;g1&gt;Shaders de processamento de imagem da comunidade VVVV&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Import files into Stride3D&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211113Z" creationid="alexa" creationdate="20250404T211113Z">
+        <seg>&lt;g1&gt;Importar arquivos para o Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Import some knowledge&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185235Z" creationid="alexa" creationdate="20250404T185235Z">
+        <seg>&lt;g1&gt;Importe um pouco de conhecimento&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Input&lt;/g1&gt; Add haptic support to OpenVR and Oculus runtimes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215829Z" creationid="alexa" creationdate="20250404T215829Z">
+        <seg>&lt;g1&gt;Input&lt;/g1&gt; Add haptic support to OpenVR and Oculus runtimes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Key Points for API Documentation:&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091444Z" creationid="alexa" creationdate="20250405T091444Z">
+        <seg>&lt;g1&gt;Pontos-Chave para a Documentação da API:&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;LOD implementation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185834Z" creationid="alexa" creationdate="20250404T185834Z">
+        <seg>&lt;g1&gt;Implementação de LOD&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Large-scale interactive projects made with VVVV&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183619Z" creationid="alexa" creationdate="20250404T183619Z">
+        <seg>&lt;g1&gt;Projetos interativos em grande escala feitos com VVVV&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Level Editor Extensions&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181940Z" creationid="alexa" creationdate="20250404T181940Z">
+        <seg>&lt;g1&gt;Extensões para editor de fases&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Lights, camera, Action!&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184822Z" creationid="alexa" creationdate="20250404T184822Z">
+        <seg>&lt;g1&gt;Luzes, câmera, ação!&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Lite Entity System&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175008Z" creationid="alexa" creationdate="20250404T175008Z">
+        <seg>&lt;g1&gt;Lite Entity System&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Load Scenes in parallel&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181632Z" creationid="alexa" creationdate="20250404T181632Z">
+        <seg>&lt;g1&gt;Carregamento de cenas em paralelo&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;LoadObjTest&lt;/g1&gt; - Runtime load an asset from a filesystem WavefrontOBJ file in code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T210959Z" creationid="alexa" creationdate="20250404T210959Z">
+        <seg>&lt;g1&gt;LoadObjTest&lt;/g1&gt; - Carrega em tempo de execução um asset de um arquivo WavefrontOBJ do sistema de arquivos no código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Loading GLTF at runtime&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211132Z" creationid="alexa" creationdate="20250404T211132Z">
+        <seg>&lt;g1&gt;Carregando GLTF em tempo de execução&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Loading a Wavefront OBJ file at runtime&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211124Z" creationid="alexa" creationdate="20250404T211124Z">
+        <seg>&lt;g1&gt;Carregando um arquivo Wavefront OBJ em tempo de execução&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Loading additional asset databases&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T210933Z" creationid="alexa" creationdate="20250404T210933Z">
+        <seg>&lt;g1&gt;Carregando bancos de dados de adicional de asset&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Look at script&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181716Z" creationid="alexa" creationdate="20250404T181716Z">
+        <seg>&lt;g1&gt;Script de olhar para o alvo&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;MUD framework for Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175059Z" creationid="alexa" creationdate="20250404T175059Z">
+        <seg>&lt;g1&gt;Framework MUD para Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Maintainers Review&lt;/g1&gt;: The project maintainers will review your PR.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221221Z" creationid="alexa" creationdate="20250404T221221Z">
+        <seg>&lt;g1&gt;Revisão dos Mantenedores&lt;/g1&gt;: Os mantenedores do projeto irão revisar seu PR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Make Updates on Branch 'X'&lt;/g1&gt;: Implement your changes within this new branch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221057Z" creationid="alexa" creationdate="20250404T221029Z">
+        <seg>&lt;g1&gt;Realize as Alterações no Branch 'X'&lt;/g1&gt;: Implemente suas mudanças neste novo branch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Marching Cubes ComputeShader&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T192943Z" creationid="alexa" creationdate="20250404T192943Z">
+        <seg>&lt;g1&gt;ComputeShader de Marching Cubes&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Marian Dziubiak - YouTube&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212425Z" creationid="alexa" creationdate="20250404T212425Z">
+        <seg>&lt;g1&gt;Marian Dziubiak - YouTube&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Microsoft.Extensions.Hosting.Stride3d: Hosting lifetime for Stride3d&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211056Z" creationid="alexa" creationdate="20250404T211056Z">
+        <seg>&lt;g1&gt;Microsoft.Extensions.Hosting.Stride3d: Hosting lifetime para o Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Motivation and Context&lt;/g1&gt;: The reasoning behind the changes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214642Z" creationid="alexa" creationdate="20250404T214642Z">
+        <seg>&lt;g1&gt;Motivação e contexto&lt;/g1&gt;: O porquê das mudanças.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Multi-Mesh Shader&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185913Z" creationid="alexa" creationdate="20250404T185913Z">
+        <seg>&lt;g1&gt;Shader Multi-Malha&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Multiplayer&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181946Z" creationid="alexa" creationdate="20250404T181946Z">
+        <seg>&lt;g1&gt;Multijogador&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Myra UI - Library for Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213255Z" creationid="alexa" creationdate="20250404T213255Z">
+        <seg>&lt;g1&gt;Myra UI - Biblioteca para Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Myra UI - Stride Tutorial&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213249Z" creationid="alexa" creationdate="20250404T213249Z">
+        <seg>&lt;g1&gt;Myra UI - Tutorial Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Networking from Scythe of Luna&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183507Z" creationid="alexa" creationdate="20250404T183507Z">
+        <seg>&lt;g1&gt;Sistema de rede do Scythe of Luna&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;New Stride version&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182319Z" creationid="alexa" creationdate="20250404T182319Z">
+        <seg>&lt;g1&gt;Nova versão do Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;No shady stuff here, we promise&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184747Z" creationid="alexa" creationdate="20250404T184747Z">
+        <seg>&lt;g1&gt;Shaders, shaders, shaders!&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Object Info Render Target Example&lt;/g1&gt; - Renders object information onto a render target</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190804Z" creationid="alexa" creationdate="20250404T190804Z">
+        <seg>&lt;g1&gt;Exemplo de Alvo de Renderização de Informações de Objeto&lt;/g1&gt; - Renderiza informações de objetos em um alvo de renderização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Object Info Renderer&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181951Z" creationid="alexa" creationdate="20250404T181951Z">
+        <seg>&lt;g1&gt;Renderizador de informações de objeto&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Old Stride tutorials from gamefromscratch&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212806Z" creationid="alexa" creationdate="20250404T212806Z">
+        <seg>&lt;g1&gt;Tutoriais antigos do Stride do GameFromScratch&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Old: Debug shape render&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190416Z" creationid="alexa" creationdate="20250404T190416Z">
+        <seg>&lt;g1&gt;Antigo: Depuração de renderização de formas&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Once Upon A Lan&lt;/g1&gt; - Multiplayer isometric arena brawler over LAN</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182824Z" creationid="alexa" creationdate="20250404T182824Z">
+        <seg>&lt;g1&gt;Once Upon A Lan&lt;/g1&gt; - Brawler multijogador isométrico via LAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Once Upon a LAN by Jarmo&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183647Z" creationid="alexa" creationdate="20250404T183647Z">
+        <seg>&lt;g1&gt;Once Upon a LAN por Jarmo&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Pathfinding With Entity Processors&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180128Z" creationid="alexa" creationdate="20250404T180128Z">
+        <seg>&lt;g1&gt;Pathfinding com Processadores de Entidade&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Physics constraints demo&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190014Z" creationid="alexa" creationdate="20250404T190014Z">
+        <seg>&lt;g1&gt;Demonstração de restrições físicas&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Physics&lt;/g1&gt; Bepu codebase refactoring and clean-up</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215822Z" creationid="alexa" creationdate="20250404T215822Z">
+        <seg>&lt;g1&gt;Physics&lt;/g1&gt; Bepu codebase refactoring and clean-up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Plug in and play&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185429Z" creationid="alexa" creationdate="20250404T185429Z">
+        <seg>&lt;g1&gt;Conectar e usar&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Procedural Meshes&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185825Z" creationid="alexa" creationdate="20250404T185825Z">
+        <seg>&lt;g1&gt;Malhas Procedurais&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Proof of Concepts&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181809Z" creationid="alexa" creationdate="20250404T181809Z">
+        <seg>&lt;g1&gt;Provas de conceito&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Quake 3 movement for Stride3D&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181757Z" creationid="alexa" creationdate="20250404T181757Z">
+        <seg>&lt;g1&gt;Movimentação estilo Quake 3 no Stride3D&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Regulus.Remote: A simple C# network library.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T174955Z" creationid="alexa" creationdate="20250404T174955Z">
+        <seg>&lt;g1&gt;Regulus.Remote: Uma biblioteca de rede simples em C#&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Related Issue&lt;/g1&gt;: Linking to discussions or bug reports related to the PR.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214622Z" creationid="alexa" creationdate="20250404T214622Z">
+        <seg>&lt;g1&gt;Issue relacionado&lt;/g1&gt;: Links para bugs ou discussões relacionadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Render objects with invisible background window&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213436Z" creationid="alexa" creationdate="20250404T213436Z">
+        <seg>&lt;g1&gt;Renderizar objetos com janela de fundo invisível&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Rescue Drone - August 2015&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183207Z" creationid="alexa" creationdate="20250404T183207Z">
+        <seg>&lt;g1&gt;Rescue Drone - Agosto de 2015&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Revise and Update PR as Necessary&lt;/g1&gt;: Continue to refine and update your PR based on ongoing feedback until it meets the project's standards for merging.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221257Z" creationid="alexa" creationdate="20250404T221257Z">
+        <seg>&lt;g1&gt;Revise e Atualize o PR se Necessário&lt;/g1&gt;: Continue ajustando seu PR até que ele atenda aos padrões do projeto e esteja pronto para ser mesclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Rise of the Undeaf&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183116Z" creationid="alexa" creationdate="20250404T183116Z">
+        <seg>&lt;g1&gt;Rise of the Undeaf&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Rollerghoster&lt;/g1&gt; - Race against online and local ghosts on procedural tracks by Aggror Jorn</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182809Z" creationid="alexa" creationdate="20250404T182809Z">
+        <seg>&lt;g1&gt;Rollerghoster&lt;/g1&gt; - Corrida contra fantasmas online e locais em pistas procedurais, por Aggror Jorn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Run Stride Gamestudio with only Nuget!&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211217Z" creationid="alexa" creationdate="20250404T211217Z">
+        <seg>&lt;g1&gt;Execute o Stride Gamestudio apenas com Nuget!&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Running Stride headless client/server&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175118Z" creationid="alexa" creationdate="20250404T175118Z">
+        <seg>&lt;g1&gt;Executando Stride como cliente/servidor sem interface gráfica&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;SDSL Overview from Tebjan&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193153Z" creationid="alexa" creationdate="20250404T193153Z">
+        <seg>&lt;g1&gt;Visão geral do SDSL por Tebjan&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Screen Space Decal Example&lt;/g1&gt; - Screen space projected decal system</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190816Z" creationid="alexa" creationdate="20250404T190816Z">
+        <seg>&lt;g1&gt;Exemplo de Decalque em Espaço de Tela&lt;/g1&gt; - Sistema de decalque projetado em espaço de tela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Screen Space Decal Root Renderer Example&lt;/g1&gt; - Screen space projected decal system using RootRenderFeature</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190830Z" creationid="alexa" creationdate="20250404T190830Z">
+        <seg>&lt;g1&gt;Exemplo de Renderizador Raiz de Decalque em Espaço de Tela&lt;/g1&gt; - Sistema de decalque projetado em espaço de tela usando RootRenderFeature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Screen Space Decals With Root Renderer&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182015Z" creationid="alexa" creationdate="20250404T182015Z">
+        <seg>&lt;g1&gt;Decais em espaço de tela com Renderizador Base&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Screen Space Decals&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182036Z" creationid="alexa" creationdate="20250404T181957Z">
+        <seg>&lt;g1&gt;Decais em espaço de tela (Espaço da Tela)&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;ShaderExplorerForStride&lt;/g1&gt; - Explore Stride source shader implementations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190533Z" creationid="alexa" creationdate="20250404T190533Z">
+        <seg>&lt;g1&gt;ShaderExplorerForStride&lt;/g1&gt; - Explore implementações dos shaders no código fonte do Stride</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Simple water 2&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193454Z" creationid="alexa" creationdate="20250404T193454Z">
+        <seg>&lt;g1&gt;Água simples&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Simple water&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193452Z" creationid="alexa" creationdate="20250404T193452Z">
+        <seg>&lt;g1&gt;Água simples&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Singleton Pattern in Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212348Z" creationid="alexa" creationdate="20250404T212348Z">
+        <seg>&lt;g1&gt;Padrão Singleton no Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Smooth Rotation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181743Z" creationid="alexa" creationdate="20250404T181743Z">
+        <seg>&lt;g1&gt;Rotação suave&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Smooth follow&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181737Z" creationid="alexa" creationdate="20250404T181737Z">
+        <seg>&lt;g1&gt;Seguir suave&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Snaaker Friends&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211652Z" creationid="alexa" creationdate="20250404T211652Z">
+        <seg>&lt;g1&gt;Snaaker Friends&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Sound detection in Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182058Z" creationid="alexa" creationdate="20250404T182058Z">
+        <seg>&lt;g1&gt;Detecção de som no Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Source generation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182044Z" creationid="alexa" creationdate="20250404T182044Z">
+        <seg>&lt;g1&gt;Geração de código-fonte&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;SplitScreen&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T191049Z" creationid="alexa" creationdate="20250404T191049Z">
+        <seg>&lt;g1&gt;Teladividida&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;SpriteSheet animation tutorial&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212233Z" creationid="alexa" creationdate="20250404T212233Z">
+        <seg>&lt;g1&gt;Tutorial de Animação com SpriteSheet&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Starbreach&lt;/g1&gt; - First/Third Person Shooter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182757Z" creationid="alexa" creationdate="20250404T182757Z">
+        <seg>&lt;g1&gt;Starbreach&lt;/g1&gt; - Atirador em primeira/pessoa terceira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Start connecting the dots&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184956Z" creationid="alexa" creationdate="20250404T184956Z">
+        <seg>&lt;g1&gt;Comece a ligar os pontos&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Step up Made by Marian Dziubiak and Youness Kafia&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183631Z" creationid="alexa" creationdate="20250404T183631Z">
+        <seg>&lt;g1&gt;Step up feito por Marian Dziubiak e Youness Kafia&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stopping the Rogue by manio&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183640Z" creationid="alexa" creationdate="20250404T183640Z">
+        <seg>&lt;g1&gt;Stopping the Rogue por manio&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Storing game data with an API&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212336Z" creationid="alexa" creationdate="20250404T212336Z">
+        <seg>&lt;g1&gt;Armazenando dados do jogo com uma API&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride 3rd person controller&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181751Z" creationid="alexa" creationdate="20250404T181751Z">
+        <seg>&lt;g1&gt;Controlador de terceira pessoa no Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride C# gists search&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181704Z" creationid="alexa" creationdate="20250404T181704Z">
+        <seg>&lt;g1&gt;Busca por gists em C# com Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride Clean UI tutorial step by step&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212500Z" creationid="alexa" creationdate="20250404T212500Z">
+        <seg>&lt;g1&gt;Tutorial de Interface Limpa no Stride passo a passo&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride Editor current design document&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180905Z" creationid="alexa" creationdate="20250404T180905Z">
+        <seg>&lt;g1&gt;Documento do atual design do Editor Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride Game Engine Extension for code only approach&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181051Z" creationid="alexa" creationdate="20250404T181051Z">
+        <seg>&lt;g1&gt;Extensão da Engine Stride para abordagem somente com código&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride IK implementation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185850Z" creationid="alexa" creationdate="20250404T185850Z">
+        <seg>&lt;g1&gt;Implementação de IK no Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride Instancing Example&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185856Z" creationid="alexa" creationdate="20250404T185856Z">
+        <seg>&lt;g1&gt;Exemplo de Instanciamento no Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride Live Editor for changing entity data at runtime&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211250Z" creationid="alexa" creationdate="20250404T211250Z">
+        <seg>&lt;g1&gt;Editor em tempo real do Stride para alterar dados de entidade em tempo de execução&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride Outline Renderer&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190439Z" creationid="alexa" creationdate="20250404T190439Z">
+        <seg>&lt;g1&gt;Renderizador de Contorno do Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride Ragdoll Tutorial (beta)&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212519Z" creationid="alexa" creationdate="20250404T212519Z">
+        <seg>&lt;g1&gt;Tutorial de Ragdoll no Stride (beta)&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride Voxel Scape&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193427Z" creationid="alexa" creationdate="20250404T193427Z">
+        <seg>&lt;g1&gt;Voxel Scape com Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride config example&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182052Z" creationid="alexa" creationdate="20250404T182052Z">
+        <seg>&lt;g1&gt;Exemplo de configuração do Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride controller UI navigation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213238Z" creationid="alexa" creationdate="20250404T213238Z">
+        <seg>&lt;g1&gt;Navegação de Interface com controle no Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride docs shader stages&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180953Z" creationid="alexa" creationdate="20250404T180953Z">
+        <seg>&lt;g1&gt;Documentação do Stride sobre estágios de shader&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride in Avalonia Control&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180420Z" creationid="alexa" creationdate="20250404T180420Z">
+        <seg>&lt;g1&gt;Stride em Avalonia&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride in Ultralight Blazor&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180308Z" creationid="alexa" creationdate="20250404T180308Z">
+        <seg>&lt;g1&gt;Stride no Ultralight Blazor&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride in WPF Control&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180359Z" creationid="alexa" creationdate="20250404T180333Z">
+        <seg>&lt;g1&gt;Stride em WPF&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride in WinForms&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180315Z" creationid="alexa" creationdate="20250404T180315Z">
+        <seg>&lt;g1&gt;Stride no WinForms&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride integration source code on GitHub&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180508Z" creationid="alexa" creationdate="20250404T180508Z">
+        <seg>&lt;g1&gt;Código-fonte da integração do Stride no GitHub&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride-Awesome-Shaders: Just a repository for cool shaders usable in stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193038Z" creationid="alexa" creationdate="20250404T193038Z">
+        <seg>&lt;g1&gt;Stride-Awesome-Shaders: Um repositório para shaders interessantes que podem ser utilizados no Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride-goap: a very simple implementation of GOAP using MountainGoap&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180040Z" creationid="alexa" creationdate="20250404T180040Z">
+        <seg>&lt;g1&gt;Stride-goap: Implementação simples de GOAP usando MountainGoap&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride-npc: A basic example of a Finite State Machine&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180024Z" creationid="alexa" creationdate="20250404T180024Z">
+        <seg>&lt;g1&gt;Stride-npc: Exemplo básico de uma Máquina de Estados Finitos&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride-specific categories:&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215259Z" creationid="alexa" creationdate="20250404T215259Z">
+        <seg>&lt;g1&gt;Categorias Específicas do Stride:&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride.Networking.Simple&lt;/g1&gt; - Asynchronous NetworkScript example for client-server communication</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T174830Z" creationid="alexa" creationdate="20250404T174830Z">
+        <seg>&lt;g1&gt;Stride.Networking.Simple&lt;/g1&gt; - Exemplo de NetworkScript assíncrono para comunicação cliente-servidor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride.ShaderExplorer: shows the built-in shaders of the Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T192955Z" creationid="alexa" creationdate="20250404T192955Z">
+        <seg>&lt;g1&gt;Stride.ShaderExplorer: mostra os shaders integrados do Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride3D examples in .NET 5 using C# 9.0 or .NET 6 using C# 10&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182118Z" creationid="alexa" creationdate="20250404T182118Z">
+        <seg>&lt;g1&gt;Exemplos Stride3D em .NET 5 com C# 9.0 ou .NET 6 com C# 10&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stride3dSplitScreen&lt;/g1&gt; - Another Split Screen</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T191029Z" creationid="alexa" creationdate="20250404T191029Z">
+        <seg>&lt;g1&gt;Stride3dSplitScreen&lt;/g1&gt; - Outra Tela Dividida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;StrideCameraController&lt;/g1&gt; - Swapping Cameras/Resident Evil Style</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T191040Z" creationid="alexa" creationdate="20250404T191040Z">
+        <seg>&lt;g1&gt;StrideCameraController&lt;/g1&gt; - Troca de Câmeras/Estilo Resident Evil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;StrideFogOfWarPlus&lt;/g1&gt; - Moba/Platformer/RTS FogOfWar System (no LoS)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190659Z" creationid="alexa" creationdate="20250404T190659Z">
+        <seg>&lt;g1&gt;StrideFogOfWarPlus&lt;/g1&gt; - Sistema de Névoa de Guerra para Moba/Plataforma/RTS (sem LoS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;StrideMeshOutlineRenderFeature: Stride Mesh Outline Render Feature&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193051Z" creationid="alexa" creationdate="20250404T193051Z">
+        <seg>&lt;g1&gt;StrideMeshOutlineRenderFeature: Recurso de Renderização de Contorno de Malha para o Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;StrideMeshOutlineRenderFeature&lt;/g1&gt; - Mesh Outline Render Feature</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190745Z" creationid="alexa" creationdate="20250404T190745Z">
+        <seg>&lt;g1&gt;StrideMeshOutlineRenderFeature&lt;/g1&gt; - Recurso de Renderização de Contorno de Malha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;StrideTerrain&lt;/g1&gt; - Height Map Terrain</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211956Z" creationid="alexa" creationdate="20250404T211956Z">
+        <seg>&lt;g1&gt;StrideTerrain&lt;/g1&gt; - Terreno com Mapa de Altura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;StrideTriplanarShader&lt;/g1&gt; - Triplanar Shader for Stride</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190732Z" creationid="alexa" creationdate="20250404T190711Z">
+        <seg>&lt;g1&gt;StrideTriplanarShader&lt;/g1&gt; - Shader Triplanar para o Stride</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;StrideVoxelScape&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213031Z" creationid="alexa" creationdate="20250404T213031Z">
+        <seg>&lt;g1&gt;StrideVoxelScape&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;StrideWireframeShader: single pass wireframe shader for stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193111Z" creationid="alexa" creationdate="20250404T193111Z">
+        <seg>&lt;g1&gt;StrideWireframeShader: shader wireframe de passe único para o Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Stridelonia: Stride plugin which allows running Avalonia on Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213336Z" creationid="alexa" creationdate="20250404T213336Z">
+        <seg>&lt;g1&gt;Stridelonia: Plugin do Stride que permite rodar Avalonia no Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Strideui discussion&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181014Z" creationid="alexa" creationdate="20250404T181014Z">
+        <seg>&lt;g1&gt;Discussão sobre o StrideUI&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Summary&lt;/g1&gt;: A brief overview of the changes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214533Z" creationid="alexa" creationdate="20250404T214533Z">
+        <seg>&lt;g1&gt;Resumo&lt;/g1&gt;: Uma visão geral rápida das alterações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Super Character Controller&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185907Z" creationid="alexa" creationdate="20250404T185907Z">
+        <seg>&lt;g1&gt;Super Controlador de Personagem&lt;/g1&gt;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Svelto Abstraction from OOP&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175919Z" creationid="alexa" creationdate="20250404T175542Z">
+        <seg>&lt;g1&gt;Abstraindo Svelto utilizando POO&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Svelto Doofuses example&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175717Z" creationid="alexa" creationdate="20250404T175612Z">
+        <seg>&lt;g1&gt;Exemplo Doofuses com Svelto&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Svelto ECS mini examples&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180103Z" creationid="alexa" creationdate="20250404T180103Z">
+        <seg>&lt;g1&gt;Mini exemplos utilizando Svelto ECS&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Svelto Turret example&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175728Z" creationid="alexa" creationdate="20250404T175654Z">
+        <seg>&lt;g1&gt;Exemplo de Torretas com Svelto&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Sync/Merge Forked Main Branch with Branch 'X'&lt;/g1&gt;: Ensure your working branch 'X' is also updated with any new changes from the main branch of your fork.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221127Z" creationid="alexa" creationdate="20250404T221127Z">
+        <seg>&lt;g1&gt;Sincronize/Mescle o branch main do Fork com o Branch 'X'&lt;/g1&gt;: Mantenha também seu branch de trabalho atualizado com as alterações mais recentes do seu branch principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Sync/Merge Upstream with Forked Main Branch&lt;/g1&gt;: If the upstream has changed, update your forked repository's main branch to reflect the latest changes from the original project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221121Z" creationid="alexa" creationdate="20250404T221121Z">
+        <seg>&lt;g1&gt;Sincronize/Mescle o Repositório Original com o seu Fork (branch main)&lt;/g1&gt;: Caso existam atualizações, aplique-as ao seu fork para mantê-lo atualizado com o projeto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Sync/Merge Upstream with Your Forked Main Branch&lt;/g1&gt;: Post-merge, ensure your forked repository's main branch is updated to include your newly merged changes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221326Z" creationid="alexa" creationdate="20250404T221326Z">
+        <seg>&lt;g1&gt;Sincronize/Mescle o Repositório Original com o seu Fork (branch main)&lt;/g1&gt;: Depois da mesclagem, atualize o branch principal do seu fork com as últimas mudanças.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;TR.Stride: Various stride environment utilities&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212013Z" creationid="alexa" creationdate="20250404T212013Z">
+        <seg>&lt;g1&gt;TR.Stride: Vários utilitários de ambiente para o Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;TR.Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211754Z" creationid="alexa" creationdate="20250404T211754Z">
+        <seg>&lt;g1&gt;TR.Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Tessellation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182128Z" creationid="alexa" creationdate="20250404T182128Z">
+        <seg>&lt;g1&gt;Tesselamento&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Test Your Updates&lt;/g1&gt;: Thoroughly test your updates to confirm they work as expected and do not introduce new issues.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221149Z" creationid="alexa" creationdate="20250404T221139Z">
+        <seg>&lt;g1&gt;Teste Suas Alterações&lt;/g1&gt;: Teste cuidadosamente suas alterações para garantir que estão funcionando corretamente e que não causam novos problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Text Control&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181850Z" creationid="alexa" creationdate="20250404T181850Z">
+        <seg>&lt;g1&gt;Controle de texto&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Trigger Example&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190030Z" creationid="alexa" creationdate="20250404T190030Z">
+        <seg>&lt;g1&gt;Exemplo de Gatilho&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Triplanar shader&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193117Z" creationid="alexa" creationdate="20250404T193117Z">
+        <seg>&lt;g1&gt;Shader triplanar&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Try it out yourself&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184237Z" creationid="alexa" creationdate="20250404T184237Z">
+        <seg>&lt;g1&gt;Experimente!&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;TurnBasedBattleSim&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182847Z" creationid="alexa" creationdate="20250404T182847Z">
+        <seg>&lt;g1&gt;TurnBasedBattleSim&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Tutorials by Manio143&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212129Z" creationid="alexa" creationdate="20250404T212129Z">
+        <seg>Tutorials por Manio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Tweening library&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182123Z" creationid="alexa" creationdate="20250404T182123Z">
+        <seg>&lt;g1&gt;Biblioteca de interpolação (Tweening)&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Types of Changes&lt;/g1&gt;: Categorizing the nature of the changes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214704Z" creationid="alexa" creationdate="20250404T214704Z">
+        <seg>&lt;g1&gt;Tipos de alterações&lt;/g1&gt;: Classificação do tipo de alteração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;UI Navigation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213244Z" creationid="alexa" creationdate="20250404T213244Z">
+        <seg>&lt;g1&gt;Navegação de Interface&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Unleash your inner coder&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185303Z" creationid="alexa" creationdate="20250404T185303Z">
+        <seg>&lt;g1&gt;Libere o programador que existe em você&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;UnrealMotion: Motion blur for stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193130Z" creationid="alexa" creationdate="20250404T193130Z">
+        <seg>&lt;g1&gt;UnrealMotion: Motion blur para o Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;UnrealMotion&lt;/g1&gt; - Unreal engine motion blur for Stride</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T191001Z" creationid="alexa" creationdate="20250404T190943Z">
+        <seg>&lt;g1&gt;UnrealMotion&lt;/g1&gt; - Desfoque de movimento do motor de jogo Unreal para o Stride</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Update or Add Relevant Documentation&lt;/g1&gt;: &lt;g2&gt;Contribute to the project's documentation&lt;/g2&gt; to reflect your changes, helping future users and contributors understand the new functionalities or fixes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221338Z" creationid="alexa" creationdate="20250404T221338Z">
+        <seg>&lt;g1&gt;Atualize ou Adicione a Documentação Relevante&lt;/g1&gt;: &lt;g2&gt;Contribua com a documentação do projeto&lt;/g2&gt; para refletir suas mudanças e ajudar outros usuários e colaboradores a entenderem as novas funcionalidades ou correções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Use &lt;g2&gt;&lt;remarks&gt;&lt;/remarks&gt;&lt;/g2&gt;:&lt;/g1&gt; For additional context or usage examples, the &lt;g3&gt;&lt;remarks&gt;&lt;/g3&gt; tag can be used within XML comments to provide supplementary information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T092041Z" creationid="alexa" creationdate="20250405T092041Z">
+        <seg>&lt;g1&gt;Utilize &lt;g2&gt;&lt;remarks&gt;&lt;/remarks&gt;&lt;/g2&gt;:&lt;/g1&gt; para incluir contexto adicionais ou exemplos de uso, a marca &lt;g3&gt;&lt;remarks&gt;&lt;/g3&gt; pode ser usada dentro dos comentários XML para fornecer informações complementares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Using Entity Processors for Scene Editor Plugins&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180116Z" creationid="alexa" creationdate="20250404T180116Z">
+        <seg>&lt;g1&gt;Usando Processadores de Entidade para Plugins do Editor de Cenas&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;VL: 1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212733Z" creationid="alexa" creationdate="20250404T212733Z">
+        <seg>&lt;g1&gt;VL: 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;VL: 2.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212737Z" creationid="alexa" creationdate="20250404T212737Z">
+        <seg>&lt;g1&gt;VL: 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;VL: 3.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212740Z" creationid="alexa" creationdate="20250404T212740Z">
+        <seg>&lt;g1&gt;VL: 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;VL: 4.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212742Z" creationid="alexa" creationdate="20250404T212742Z">
+        <seg>&lt;g1&gt;VL: 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;VL: 5.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212744Z" creationid="alexa" creationdate="20250404T212744Z">
+        <seg>&lt;g1&gt;VL: 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;VL: 6.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212746Z" creationid="alexa" creationdate="20250404T212746Z">
+        <seg>&lt;g1&gt;VL: 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;VL: 7.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212748Z" creationid="alexa" creationdate="20250404T212748Z">
+        <seg>&lt;g1&gt;VL: 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;VVVV Visual scripting with Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212546Z" creationid="alexa" creationdate="20250404T212546Z">
+        <seg>&lt;g1&gt;Script visual VVVV com Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;VVVV core shaders&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193146Z" creationid="alexa" creationdate="20250404T193146Z">
+        <seg>&lt;g1&gt;Shaders principais do VVVV&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;VVVV uses Stride for 3D rendering&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213412Z" creationid="alexa" creationdate="20250404T213412Z">
+        <seg>&lt;g1&gt;VVVV utiliza o Stride para renderização 3D&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;VVVVarkle with vvvv rendered using Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183604Z" creationid="alexa" creationdate="20250404T183604Z">
+        <seg>&lt;g1&gt;VVVVarkle com vvvv renderizado usando Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Vehicle Script&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190042Z" creationid="alexa" creationdate="20250404T190042Z">
+        <seg>&lt;g1&gt;Script de Veículo&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Video demo&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182242Z" creationid="alexa" creationdate="20250404T182242Z">
+        <seg>&lt;g1&gt;Demonstração em vídeo&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Virtual Desktop&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211700Z" creationid="alexa" creationdate="20250404T211700Z">
+        <seg>&lt;g1&gt;Virtual Desktop&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Voxel GI example&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182332Z" creationid="alexa" creationdate="20250404T182332Z">
+        <seg>&lt;g1&gt;Exemplo de Iluminação Global com Voxels (Voxel GI)&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;VoxelGIPrototype&lt;/g1&gt; - VXGI inspired Global Illumination shaders (merged as of Stride v4beta2)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190620Z" creationid="alexa" creationdate="20250404T190620Z">
+        <seg>&lt;g1&gt;VoxelGIPrototype&lt;/g1&gt; - Shaders de Iluminação Global inspirados em VXGI (incorporados a partir do Stride v4beta2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Wait for PR to be Merged by Maintainers&lt;/g1&gt;: After approval, maintainers will merge your PR into the project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221308Z" creationid="alexa" creationdate="20250404T221308Z">
+        <seg>&lt;g1&gt;Aguarde a Mesclagem do PR pelos Mantenedores&lt;/g1&gt;: Após a aprovação, os mantenedores irão mesclar seu PR no repositório principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;We will tell you why&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184923Z" creationid="alexa" creationdate="20250404T184923Z">
+        <seg>&lt;g1&gt;Uai sô, bora conferir&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Workshop creating a game with Stride&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182138Z" creationid="alexa" creationdate="20250404T182138Z">
+        <seg>&lt;g1&gt;Oficina: criando um jogo com Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;XML Comments:&lt;/g1&gt; All &lt;g2&gt;public&lt;/g2&gt; members intended for use should include descriptive XML comments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091501Z" creationid="alexa" creationdate="20250405T091501Z">
+        <seg>&lt;g1&gt;Comentários XML:&lt;/g1&gt; Todos os membros &lt;g2&gt;públicos&lt;/g2&gt; destinados ao uso devem conter comentários XML descritivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Xenko 1.8 - Cel Shading&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211626Z" creationid="alexa" creationdate="20250404T211626Z">
+        <seg>&lt;g1&gt;Xenko 1.8 - Cel Shading&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Xenko Game Engine: How The Makers Of Bravely Default Want To Help Develop Better VR Games&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183432Z" creationid="alexa" creationdate="20250404T183252Z">
+        <seg>&lt;g1&gt;Motor de jogo Xenko: Como os criadores de Bravely Default querem ajudar no desenvolvimento de melhores jogos para VR&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Xenko Live Editor&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211450Z" creationid="alexa" creationdate="20250404T182313Z">
+        <seg>&lt;g1&gt;Editor Xenko em tempo real&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Xenko Procedural Terrain Generation &amp; Water tests&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183356Z" creationid="alexa" creationdate="20250404T183356Z">
+        <seg>&lt;g1&gt;Geração Procedural de Terreno e Testes de Água do Xenko&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Xenko TPS example&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183154Z" creationid="alexa" creationdate="20250404T183154Z">
+        <seg>&lt;g1&gt;Xenko TPS (Exemplo)&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Xenko Voxel Scape&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182230Z" creationid="alexa" creationdate="20250404T182230Z">
+        <seg>&lt;g1&gt;Voxel Scape com Xenko&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Xenko/Stride byte-sized project examples&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182146Z" creationid="alexa" creationdate="20250404T182146Z">
+        <seg>&lt;g1&gt;Exemplos compactos de projetos Xenko/Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;XenkoAsteroids&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182840Z" creationid="alexa" creationdate="20250404T182840Z">
+        <seg>&lt;g1&gt;XenkoAsteroids&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;XenkoByteSized&lt;/g1&gt; - Split Screen</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T191022Z" creationid="alexa" creationdate="20250404T191022Z">
+        <seg>&lt;g1&gt;XenkoByteSized&lt;/g1&gt; - Tela Dividida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;XenkoByteSized&lt;/g1&gt; - Subdivided Plane Mesh</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211919Z" creationid="alexa" creationdate="20250404T211919Z">
+        <seg>&lt;g1&gt;XenkoByteSized&lt;/g1&gt; - Malha de Plano Subdividido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;XenkoByteSized&lt;/g1&gt; - Various Procedural Renderings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190453Z" creationid="alexa" creationdate="20250404T190453Z">
+        <seg>&lt;g1&gt;XenkoByteSized&lt;/g1&gt; - Várias Renderizações Procedurais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;XenkoHMTerrain&lt;/g1&gt; - Height Map Terrain</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211942Z" creationid="alexa" creationdate="20250404T211942Z">
+        <seg>&lt;g1&gt;XenkoHMTerrain&lt;/g1&gt; - Terreno com Mapa de Altura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;XenkoMCTerrain&lt;/g1&gt; - Marching Cubes Terrain</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211935Z" creationid="alexa" creationdate="20250404T211935Z">
+        <seg>&lt;g1&gt;XenkoMCTerrain&lt;/g1&gt; - Terreno de Marching Cubes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;XenkoSpaceShooter&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182834Z" creationid="alexa" creationdate="20250404T182834Z">
+        <seg>&lt;g1&gt;XenkoSpaceShooter&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;XenkoTerrain&lt;/g1&gt; - Mesh terrain implementation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211928Z" creationid="alexa" creationdate="20250404T211928Z">
+        <seg>&lt;g1&gt;XenkoTerrain&lt;/g1&gt; - Implementação de terreno em malha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;XenkoVisualStudioTemplates&lt;/g1&gt; - Script and shader templates for Visual Studio</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211148Z" creationid="alexa" creationdate="20250404T211148Z">
+        <seg>&lt;g1&gt;XenkoVisualStudioTemplates&lt;/g1&gt; - Templates de scripts e shaders para Visual Studio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;XenkoVoxelExample&lt;/g1&gt; - minecraft like voxel brick world</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190628Z" creationid="alexa" creationdate="20250404T190628Z">
+        <seg>&lt;g1&gt;XenkoVoxelExample&lt;/g1&gt; - mundo de blocos voxel estilo minecraft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;XenkoWindowFromCode&lt;/g1&gt; - Launch a game window from code only</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T174715Z" creationid="alexa" creationdate="20250404T174708Z">
+        <seg>&lt;g1&gt;XenkoWindowFromCode&lt;/g1&gt; - Iniciar uma janela de jogo apenas com código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Zerobot&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211603Z" creationid="alexa" creationdate="20250404T211603Z">
+        <seg>&lt;g1&gt;Zerobot&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;area-Asset&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215330Z" creationid="alexa" creationdate="20250404T215330Z">
+        <seg>&lt;g1&gt;area-Asset&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;area-Audio&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215335Z" creationid="alexa" creationdate="20250404T215335Z">
+        <seg>&lt;g1&gt;area-Audio&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;area-Build&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215338Z" creationid="alexa" creationdate="20250404T215338Z">
+        <seg>&lt;g1&gt;area-Build&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;area-Doc&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215340Z" creationid="alexa" creationdate="20250404T215340Z">
+        <seg>&lt;g1&gt;area-Doc&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;area-GameStudio&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215343Z" creationid="alexa" creationdate="20250404T215343Z">
+        <seg>&lt;g1&gt;area-GameStudio&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;area-Graphics&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215346Z" creationid="alexa" creationdate="20250404T215346Z">
+        <seg>&lt;g1&gt;area-Graphics&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;area-Input&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215348Z" creationid="alexa" creationdate="20250404T215348Z">
+        <seg>&lt;g1&gt;area-Input&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;area-Launcher&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215350Z" creationid="alexa" creationdate="20250404T215350Z">
+        <seg>&lt;g1&gt;area-Launcher&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;area-Physics&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215353Z" creationid="alexa" creationdate="20250404T215353Z">
+        <seg>&lt;g1&gt;area-Physics&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;area-Rendering&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215403Z" creationid="alexa" creationdate="20250404T215403Z">
+        <seg>&lt;g1&gt;area-Rendering&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;area-Samples&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215356Z" creationid="alexa" creationdate="20250404T215356Z">
+        <seg>&lt;g1&gt;area-Samples&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;area-Shaders&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215358Z" creationid="alexa" creationdate="20250404T215358Z">
+        <seg>&lt;g1&gt;area-Shaders&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;area-UI&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215401Z" creationid="alexa" creationdate="20250404T215401Z">
+        <seg>&lt;g1&gt;area-UI&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;breaking-change&lt;/g1&gt; label: If the PR introduces a breaking change, it should be labelled as such.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215232Z" creationid="alexa" creationdate="20250404T215232Z">
+        <seg>&lt;g1&gt;breaking-change&lt;/g1&gt;: Se o PR introduz uma mudança incompatível com versões anteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;bug-fix&lt;/g1&gt; label: If the PR fixes a bug, it should be labelled as such.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215248Z" creationid="alexa" creationdate="20250404T215248Z">
+        <seg>&lt;g1&gt;bug-fix&lt;/g1&gt;: Se o PR corrige um erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;demo of vxgi implementation in Xenko game engine&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183426Z" creationid="alexa" creationdate="20250404T183426Z">
+        <seg>&lt;g1&gt;demo da implementação de vxgi no motor de jogo Xenko&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;engineering&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215321Z" creationid="alexa" creationdate="20250404T215321Z">
+        <seg>&lt;g1&gt;engineering&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;enhancement&lt;/g1&gt; label: If the PR introduces a new feature or improvement, it should be labelled accordingly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215240Z" creationid="alexa" creationdate="20250404T215240Z">
+        <seg>&lt;g1&gt;enhancement&lt;/g1&gt;: Se o PR traz uma nova funcionalidade ou melhoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;performance&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215307Z" creationid="alexa" creationdate="20250404T215307Z">
+        <seg>&lt;g1&gt;performance&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;vvvv Showcase&lt;/g1&gt; - Many large-scale interactive media projects made with vvvv</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183001Z" creationid="alexa" creationdate="20250404T183001Z">
+        <seg>&lt;g1&gt;vvvv Showcase&lt;/g1&gt; - Muitos projetos interativos de mídia em grande escala feitos com vvvv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A crucial part of this template is the checklist, which includes verifying documentation needs, adding tests for new features, ensuring all tests pass, and notably, confirming that you have &lt;g1&gt;built and run the editor&lt;/g1&gt; to test your changes personally.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214422Z" creationid="alexa" creationdate="20250404T214407Z">
+        <seg>Um dos pontos mais importantes do modelo é o checklist, que inclui tarefas como:
+- Verificar se há necessidade de atualizar a documentação;
+- Adicionar testes para novos recursos;
+- Garantir que todos os testes estejam passando;
+E, principalmente, confirmar que você &lt;g1&gt;construiu e executou o editor&lt;/g1&gt; para testar suas alterações localmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>API Documentation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091346Z" creationid="alexa" creationdate="20250405T091346Z">
+        <seg>Documentação da API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A[Fork the Repository]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223221Z" creationid="alexa" creationdate="20250404T220724Z">
+        <seg>A[Faça um fork do repositório]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Animation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185918Z" creationid="alexa" creationdate="20250404T185918Z">
+        <seg>Animação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Articles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175446Z" creationid="alexa" creationdate="20250404T175446Z">
+        <seg>Artigos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Assets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212040Z" creationid="alexa" creationdate="20250404T212040Z">
+        <seg>Assets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>B[Create Branch 'X']</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223244Z" creationid="alexa" creationdate="20250404T220729Z">
+        <seg>B[Crie um branch 'X']</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Best Practices</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221421Z" creationid="alexa" creationdate="20250404T221421Z">
+        <seg>Boas Práticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C[Make Updates on Branch 'X']</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223254Z" creationid="alexa" creationdate="20250404T220735Z">
+        <seg>C[Realize as alterações no branch 'X']</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Camera</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T191009Z" creationid="alexa" creationdate="20250404T191009Z">
+        <seg>Câmera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Code Only</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T174620Z" creationid="alexa" creationdate="20250404T174620Z">
+        <seg>Somente Código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Code blobs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180325Z" creationid="alexa" creationdate="20250404T180325Z">
+        <seg>Trechos de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Community Resources</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183930Z" creationid="alexa" creationdate="20250404T183930Z">
+        <seg>Recursos da Comunidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contributing to Stride not only involves code changes but also requires keeping the &lt;g1&gt;documentation&lt;/g1&gt;, including the &lt;g2&gt;API Docs&lt;/g2&gt; and &lt;g3&gt;Manual&lt;/g3&gt;, current and comprehensive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091125Z" creationid="alexa" creationdate="20250405T091125Z">
+        <seg>Contribuir com o Stride não envolve apenas alterações no código, mas também requer manter a &lt;g1&gt;documentação&lt;/g1&gt; — incluindo a &lt;g2&gt;Documentação da API&lt;/g2&gt; e o &lt;g3&gt;Manual&lt;/g3&gt; — atualizado e abrangente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contribution Workflow for Stride Projects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220440Z" creationid="alexa" creationdate="20250404T220440Z">
+        <seg>Fluxo de Contribuição para Projetos Stride</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Controlling Patches&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212755Z" creationid="alexa" creationdate="20250404T212755Z">
+        <seg>Controlando Patches&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D --&gt;|No| G</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220926Z" creationid="alexa" creationdate="20250404T220926Z">
+        <seg>D --&gt;|Não| G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D --&gt;|Yes| E</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220922Z" creationid="alexa" creationdate="20250404T220922Z">
+        <seg>D --&gt;|Sim| E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Data Types &amp; IOBoxes&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212622Z" creationid="alexa" creationdate="20250404T212622Z">
+        <seg>Tipos de Dados e IOBoxes&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detailed Steps</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220958Z" creationid="alexa" creationdate="20250404T220958Z">
+        <seg>Passos Detalhados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D{Has the Upstream Changed?}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223312Z" creationid="alexa" creationdate="20250404T220740Z">
+        <seg>D{O repositório original foi atualizado?}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E --&gt; F --&gt; G</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220932Z" creationid="alexa" creationdate="20250404T220932Z">
+        <seg>E --&gt; F --&gt; G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E[Sync/Merge Upstream with Forked Main Branch]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223328Z" creationid="alexa" creationdate="20250404T220747Z">
+        <seg>E["Sincronize/Mescle o repositório original com seu fork &lt;br&gt;(branch main)"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213022Z" creationid="alexa" creationdate="20250404T213022Z">
+        <seg>Editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enforcing Documentation Updates</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091205Z" creationid="alexa" creationdate="20250405T091205Z">
+        <seg>Garantindo as atualizações na documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Engage with the Stride community for support and collaboration</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221445Z" creationid="alexa" creationdate="20250404T221445Z">
+        <seg>Participe da comunidade do Stride para obter suporte e colaborar com outros desenvolvedores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Engine Documentation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180708Z" creationid="alexa" creationdate="20250404T180610Z">
+        <seg>Documentação do Motor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure your modifications align with the project's standards and guidelines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221100Z" creationid="alexa" creationdate="20250404T221100Z">
+        <seg>Garanta que suas modificações estejam em conformidade com os padrões e diretrizes do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure your updates align with the project goals and guidelines</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221428Z" creationid="alexa" creationdate="20250404T221428Z">
+        <seg>Garanta que suas contribuições estejam alinhadas com os objetivos e diretrizes do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensuring documentation updates with every change helps users and contributors alike understand and utilize Stride's features effectively.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091340Z" creationid="alexa" creationdate="20250405T091340Z">
+        <seg>Garantir atualizações na documentação com cada alteração ajuda usuários e colaboradores a entender e utilizar os recursos do Stride de forma eficaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the magical world of shaders.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184639Z" creationid="alexa" creationdate="20250404T184639Z">
+        <seg>Entre no mundo mágico dos shaders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entity Component System</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175211Z" creationid="alexa" creationdate="20250404T175211Z">
+        <seg>Sistema-Componente-Entidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example of a generated PR titles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215735Z" creationid="alexa" creationdate="20250404T215735Z">
+        <seg>Exemplos de títulos de PRs gerados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example projects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181221Z" creationid="alexa" creationdate="20250404T181221Z">
+        <seg>Exemplos de Projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Examples</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215629Z" creationid="alexa" creationdate="20250404T215629Z">
+        <seg>Exemplos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Examples for you to try and dig into.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184211Z" creationid="alexa" creationdate="20250404T184211Z">
+        <seg>Exemplos para você testar e explorar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extension Libraries</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211201Z" creationid="alexa" creationdate="20250404T211201Z">
+        <seg>Bibliotecas de Extensão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>F[Sync/Merge Forked Main Branch with Branch 'X']</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223339Z" creationid="alexa" creationdate="20250404T220753Z">
+        <seg>F[Sincronize/Mescle o branch main do fork com o branch 'X']</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Feel free to browse the API documentation by namespace, and don't hesitate to consult the &lt;g1&gt;Stride community&lt;/g1&gt; or &lt;g2&gt;GitHub repository&lt;/g2&gt; for further assistance and resources.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173946Z" creationid="alexa" creationdate="20250404T173946Z">
+        <seg>Sinta-se à vontade para navegar na documentação da API utilizando os namespaces, e não hesite em consultar a &lt;g1&gt;comunidade do Stride&lt;/g1&gt; ou &lt;g2&gt;o repositório GitHub&lt;/g2&gt; para uma maior assistência e recursos adicionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For Stride-specific labels, the prefix should follow the commit convention, e.g., &lt;g1&gt;feat:&lt;/g1&gt;, &lt;g2&gt;fix:&lt;/g2&gt;, &lt;g3&gt;perf:&lt;/g3&gt;, &lt;g4&gt;docs:&lt;/g4&gt;, &lt;g5&gt;style:&lt;/g5&gt;, &lt;g6&gt;refactor:&lt;/g6&gt;, &lt;g7&gt;test:&lt;/g7&gt;, &lt;g8&gt;chore:&lt;/g8&gt;, or any designation the maintainer sees fit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215011Z" creationid="alexa" creationdate="20250404T215011Z">
+        <seg>Para rótulos específicos do Stride, o prefixo deve seguir a convenção de commits, por exemplo:
+&lt;g1&gt;feat:&lt;/g1&gt;, &lt;g2&gt;fix:&lt;/g2&gt;, &lt;g3&gt;perf:&lt;/g3&gt;, &lt;g4&gt;docs:&lt;/g4&gt;, &lt;g5&gt;style:&lt;/g5&gt;, &lt;g6&gt;refactor:&lt;/g6&gt;, &lt;g7&gt;test:&lt;/g7&gt;, &lt;g8&gt;chore:&lt;/g8&gt;
+ou outro prefixo apropriado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a suggested workflow on contributing to Stride, please check our &lt;g1&gt;Contribution Workflow&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214111Z" creationid="alexa" creationdate="20250404T213925Z">
+        <seg>Para entender melhor como contribuir com o Stride, consulte o nosso &lt;g1&gt;Fluxo de Contribuição&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For generic labels, use square brackets to state the Stride category the PR belongs to, e.g., &lt;g1&gt;[Assets]&lt;/g1&gt;, &lt;g2&gt;[OpenXR]&lt;/g2&gt;, &lt;g3&gt;[Tests]&lt;/g3&gt;, &lt;g4&gt;[Graphics]&lt;/g4&gt;, &lt;g5&gt;[Physics]&lt;/g5&gt;, &lt;g6&gt;[UI]&lt;/g6&gt;, &lt;g7&gt;[Audio]&lt;/g7&gt;, &lt;g8&gt;[Input]&lt;/g8&gt;, &lt;g9&gt;[Launcher]&lt;/g9&gt;, &lt;g10&gt;[GameStudio]&lt;/g10&gt;, &lt;g11&gt;[Build]&lt;/g11&gt;, &lt;g12&gt;[Doc]&lt;/g12&gt;, &lt;g13&gt;[Samples]&lt;/g13&gt;, &lt;g14&gt;[Shaders]&lt;/g14&gt;, &lt;g15&gt;[Performance]&lt;/g15&gt;, &lt;g16&gt;[Engineering]&lt;/g16&gt;, or any category the maintainer sees fit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214933Z" creationid="alexa" creationdate="20250404T214933Z">
+        <seg>Para rótulos genéricos, use colchetes com a categoria do Stride à qual o PR pertence, por exemplo:
+&lt;g1&gt;[Assets]&lt;/g1&gt;, &lt;g2&gt;[OpenXR]&lt;/g2&gt;, &lt;g3&gt;[Tests]&lt;/g3&gt;, &lt;g4&gt;[Graphics]&lt;/g4&gt;, &lt;g5&gt;[Physics]&lt;/g5&gt;, &lt;g6&gt;[UI]&lt;/g6&gt;,
+&lt;g7&gt;[Audio]&lt;/g7&gt;, &lt;g8&gt;[Input]&lt;/g8&gt;, &lt;g9&gt;[Launcher]&lt;/g9&gt;, &lt;g10&gt;[GameStudio]&lt;/g10&gt;, &lt;g11&gt;[Build]&lt;/g11&gt;,
+&lt;g12&gt;[Doc]&lt;/g12&gt;, &lt;g13&gt;[Samples]&lt;/g13&gt;, &lt;g14&gt;[Shaders]&lt;/g14&gt;, &lt;g15&gt;[Performance]&lt;/g15&gt;, &lt;g16&gt;[Engineering]&lt;/g16&gt;
+ou qualquer outra categoria que o mantenedor julgar adequada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more specific guidelines related to each project, refer to their respective contribution documentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221500Z" creationid="alexa" creationdate="20250404T221500Z">
+        <seg>Para diretrizes específicas de cada projeto, consulte a documentação de contribuição correspondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the benefit of both IDE users and those utilizing the generated API Docs, it's crucial that any &lt;g1&gt;public&lt;/g1&gt; interfaces, classes, methods, properties in C# are thoroughly documented with &lt;g2&gt;XML comments&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091416Z" creationid="alexa" creationdate="20250405T091416Z">
+        <seg>Para beneficiar tanto usuários da IDE quanto aqueles que utilizam a documentação da API gerada, é fundamental que todas as interfaces, classes, métodos e propriedades &lt;g1&gt;públicas&lt;/g1&gt; em C# sejam devidamente documentadas com &lt;g2&gt;comentários XML&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From procedural mesh to animation controllers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184348Z" creationid="alexa" creationdate="20250404T184348Z">
+        <seg>De malha procedural a controladores de animação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>G --&gt; H --&gt; I --&gt; J --&gt; K --&gt; L --&gt; M --&gt; N --&gt; O</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220936Z" creationid="alexa" creationdate="20250404T220936Z">
+        <seg>G --&gt; H --&gt; I --&gt; J --&gt; K --&gt; L --&gt; M --&gt; N --&gt; O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>G[Test Your Updates]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223350Z" creationid="alexa" creationdate="20250404T220758Z">
+        <seg>G[Teste suas alterações]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Game Jams</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211706Z" creationid="alexa" creationdate="20250404T211706Z">
+        <seg>Game Jams</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Games</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182727Z" creationid="alexa" creationdate="20250404T182727Z">
+        <seg>Jogos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Games and demos</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182722Z" creationid="alexa" creationdate="20250404T182722Z">
+        <seg>Jogos e demos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Games, demo's and prototypes that people made.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184129Z" creationid="alexa" creationdate="20250404T184129Z">
+        <seg>Jogos, demos e protótipos criados pela comunidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General tools, Asset handling and importer tools</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185217Z" creationid="alexa" creationdate="20250404T185217Z">
+        <seg>Ferramentas gerais, manipulação de assets e ferramentas de importação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Get your hands dirty with code, scripts, and more.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185257Z" creationid="alexa" creationdate="20250404T185257Z">
+        <seg>Coloque as mãos na massa com código, scripts e muito mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GitHub Pull Request Guidelines</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213706Z" creationid="alexa" creationdate="20250404T213706Z">
+        <seg>Diretrizes para realizar Pull Requests no GitHub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Groundbreaking stuff and H2O related topics.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184423Z" creationid="alexa" creationdate="20250404T184423Z">
+        <seg>Coisas inovadoras e tópicos relacionados à água.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>H["Create a Pull Request (PR)"]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220802Z" creationid="alexa" creationdate="20250404T220802Z">
+        <seg>H["Crie um Pull Request (PR)"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Have a look around for inspiration or
+perhaps for something that you can reuse for your project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184039Z" creationid="alexa" creationdate="20250404T184039Z">
+        <seg>Dê uma olhada para se inspirar ou, talvez, encontrar algo que você possa reutilizar no seu projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I[Maintainers Review]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223424Z" creationid="alexa" creationdate="20250404T220807Z">
+        <seg>I[Revisão dos mantenedores]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If so, start the process again by creating a new branch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221353Z" creationid="alexa" creationdate="20250404T221353Z">
+        <seg>Se sim, reinicie o processo criando um novo branch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are new to scripting, we recommend first exploring the &lt;g1&gt;Scripting&lt;/g1&gt; pages in the manual, where you'll find an introduction to scripting, as well as essential concepts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173737Z" creationid="alexa" creationdate="20250404T173737Z">
+        <seg>Se programação de scripts é algo novo para você, recomendamos que primeiro explore as páginas de&lt;g1&gt;Programação de Scripts&lt;/g1&gt; no manual, onde você encontrará uma introdução ao tema, bem como seus conceitos essenciais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you think the address &lt;g1&gt;&lt;/g1&gt; should be valid, &lt;g2&gt;let us know&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173149Z" creationid="alexa" creationdate="20250404T173149Z">
+        <seg>Se você acredita que este endereço&lt;g1&gt;&lt;/g1&gt;deveria ser válido, por favor, &lt;g2&gt;&gt;entre em contato&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to the Scripting pages, you may also find our &lt;g1&gt;manual&lt;/g1&gt; helpful in deepening your understanding of Stride and its features.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173830Z" creationid="alexa" creationdate="20250404T173830Z">
+        <seg>Além das páginas de Programação de Scripts, você também encontrará nosso&lt;g1&gt;manual&lt;/g1&gt;, que lhe ajudará a aprofundar a compreensão do Stride e de suas funcionalidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Input</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181233Z" creationid="alexa" creationdate="20250404T181233Z">
+        <seg>Entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Integration/Tools</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211138Z" creationid="alexa" creationdate="20250404T211138Z">
+        <seg>Integração/Ferramentas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interfaces, interactions and 3rd party tools.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184832Z" creationid="alexa" creationdate="20250404T184832Z">
+        <seg>Interfaces, interações e ferramentas de terceiros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's essential that these updates accurately reflect the changes to provide users with the latest information on utilizing Stride's capabilities.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T092349Z" creationid="alexa" creationdate="20250405T092349Z">
+        <seg>É essencial que essas atualizações reflitam com precisão as mudanças, fornecendo aos usuários as informações mais recentes sobre como utilizar os recursos do Stride.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's up to the Stride team, alongside our amazing contributors, to make sure that any new contributions bring along updates to the manual.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T094229Z" creationid="alexa" creationdate="20250405T094229Z">
+        <seg>Cabe à equipe do Stride, junto com nossos incríveis colaboradores, garantir que qualquer nova contribuição inclua também as atualizações necessárias no manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>J[Address PR Feedback]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223434Z" creationid="alexa" creationdate="20250404T220811Z">
+        <seg>J[Responda ao feedback do PR]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>K[Revise and Update PR as Necessary]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223805Z" creationid="alexa" creationdate="20250404T220817Z">
+        <seg>K[Revise e atualize o PR se necessário]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep your fork synchronized with the main repository to avoid conflicts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221434Z" creationid="alexa" creationdate="20250404T221434Z">
+        <seg>Mantenha seu fork sincronizado com o repositório principal para evitar conflitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keeping this document current is vital for ensuring that the release notes are both accurate and exhaustive, thereby &lt;g1&gt;streamlining the release process&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T094436Z" creationid="alexa" creationdate="20250405T094436Z">
+        <seg>Manter esse documento atualizado é essencial para garantir que as notas de versão sejam precisas e completas, &lt;g1&gt;facilitando o processo de lançamento&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keeping your fork in sync with the upstream ensures compatibility and reduces conflicts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221112Z" creationid="alexa" creationdate="20250404T221112Z">
+        <seg>Manter seu fork sincronizado evita conflitos e melhora a compatibilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>L[Wait for PR to be Merged by Maintainers]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223508Z" creationid="alexa" creationdate="20250404T220823Z">
+        <seg>L[Aguarde a mesclagem do PR pelos mantenedores]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Labelling</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215025Z" creationid="alexa" creationdate="20250404T215025Z">
+        <seg>Rotulando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Labels should be applied based on the following rules and order of priority:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215208Z" creationid="alexa" creationdate="20250404T215208Z">
+        <seg>Os rótulos devem ser aplicadas com base nas seguintes regras e ordem de prioridade:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Libraries</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175307Z" creationid="alexa" creationdate="20250404T175307Z">
+        <seg>Bibliotecas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>M[Sync/Merge Upstream with Your Forked Main Branch]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223559Z" creationid="alexa" creationdate="20250404T220828Z">
+        <seg>M[Sincronize/Mescle o repositório original com o seu fork do branch main]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merging Pull Requests</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214742Z" creationid="alexa" creationdate="20250404T214742Z">
+        <seg>Mesclando Pull Requests</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Meshes and Models</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185746Z" creationid="alexa" creationdate="20250404T185746Z">
+        <seg>Malhas e Modelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Models and Animations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185710Z" creationid="alexa" creationdate="20250404T185451Z">
+        <seg>Modelos e Animações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>N[Update or Add relevant Documentation]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223616Z" creationid="alexa" creationdate="20250404T220833Z">
+        <seg>N[Atualize ou adicione a documentação relevante]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigating the Environment&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212558Z" creationid="alexa" creationdate="20250404T212558Z">
+        <seg>Navegando pelo Ambiente&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Networking</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T174734Z" creationid="alexa" creationdate="20250404T174734Z">
+        <seg>Rede</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nodes &amp; Pins&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212633Z" creationid="alexa" creationdate="20250404T212633Z">
+        <seg>Nós e Pinos&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note the different prefixes for generic and Stride-specific categories:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215807Z" creationid="alexa" creationdate="20250404T215807Z">
+        <seg>Observe os diferentes prefixos utilizados para as categorias genéricas e as categorias específicas do Stride:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>O --&gt;|No| Z</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220947Z" creationid="alexa" creationdate="20250404T220947Z">
+        <seg>O --&gt;|Não| Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>O --&gt;|Yes| B</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220942Z" creationid="alexa" creationdate="20250404T220942Z">
+        <seg>O --&gt;|Sim| B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oh no,  this is embarrassing 🙈!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173029Z" creationid="alexa" creationdate="20250404T172935Z">
+        <seg>Ops, que constrangedor 🙈!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Old projects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182151Z" creationid="alexa" creationdate="20250404T182151Z">
+        <seg>Projetos antigos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the PR is merged, the Stride team will apply a label &lt;g1&gt;(only one per PR)&lt;/g1&gt; to categorize the PR based on the type of changes it introduces.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215101Z" creationid="alexa" creationdate="20250404T215101Z">
+        <seg>Após o PR ser mesclado, a equipe do Stride aplicará um único rótulo para categorizar o PR com base no tipo de alteração introduzida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181802Z" creationid="alexa" creationdate="20250404T181802Z">
+        <seg>Outros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overview</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220520Z" creationid="alexa" creationdate="20250404T220520Z">
+        <seg>Visão Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>O{Additional Contributions?}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223624Z" creationid="alexa" creationdate="20250404T220846Z">
+        <seg>O{Deseja contribuir Mais?}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PRs with other labels or those that are unlabelled will automatically fall under the &lt;g1&gt;Other Changes&lt;/g1&gt; category.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215446Z" creationid="alexa" creationdate="20250404T215446Z">
+        <seg>PRs com outros rótulos ou sem rótulos serão automaticamente incluídos na categoria &lt;g1&gt;Other Changes&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Physics</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190001Z" creationid="alexa" creationdate="20250404T190001Z">
+        <seg>Física</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Physics, colliders, triggers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184559Z" creationid="alexa" creationdate="20250404T184559Z">
+        <seg>Física, colisores, gatilhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plug Stride into other apps and make magic happen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185335Z" creationid="alexa" creationdate="20250404T185335Z">
+        <seg>Conecte o Stride com outros aplicativos e faça acontecer.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project examples</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180246Z" creationid="alexa" creationdate="20250404T180246Z">
+        <seg>Exemplos de projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183746Z" creationid="alexa" creationdate="20250404T183746Z">
+        <seg>Projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ReleaseNotesNext.md</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T094323Z" creationid="alexa" creationdate="20250405T094323Z">
+        <seg>ReleaseNotesNext.md</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Releases</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183548Z" creationid="alexa" creationdate="20250404T183548Z">
+        <seg>Lançamentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rendering</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190252Z" creationid="alexa" creationdate="20250404T190252Z">
+        <seg>Renderização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rendering and Camera</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190104Z" creationid="alexa" creationdate="20250404T190104Z">
+        <seg>Renderização e Câmera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rendering, Camera's, render groups and more.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184817Z" creationid="alexa" creationdate="20250404T184817Z">
+        <seg>Renderização, câmeras, grupos de renderização e mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repositories</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175957Z" creationid="alexa" creationdate="20250404T175957Z">
+        <seg>Repositórios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scene</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181619Z" creationid="alexa" creationdate="20250404T181619Z">
+        <seg>Cena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shaders</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T192831Z" creationid="alexa" creationdate="20250404T192831Z">
+        <seg>&lt;g1&gt;Shader Multi-Malha&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Significant changes, such as the introduction of new features or modifications to existing ones, necessitate updates to the Stride user manual.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T092336Z" creationid="alexa" creationdate="20250405T092336Z">
+        <seg>Mudanças significativas, como a introdução de novos recursos ou modificações em funcionalidades existentes, exigem atualizações no manual do usuário do Stride.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spreads &amp; Iteration&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212657Z" creationid="alexa" creationdate="20250404T212657Z">
+        <seg>Propagações e Iterações&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Squashing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220139Z" creationid="alexa" creationdate="20250404T220139Z">
+        <seg>Squash de Commits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start --&gt; A --&gt; B --&gt; C --&gt; D</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223640Z" creationid="alexa" creationdate="20250404T223640Z">
+        <seg>Start --&gt; A --&gt; B --&gt; C --&gt; D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start[Start]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220717Z" creationid="alexa" creationdate="20250404T220717Z">
+        <seg>Start[Início]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stride API</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173515Z" creationid="alexa" creationdate="20250404T173515Z">
+        <seg>API do Stride</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stride's community has made and shared all kinds of awesome stuff over the years.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184014Z" creationid="alexa" creationdate="20250404T184014Z">
+        <seg>A comunidade do Stride criou e compartilhou coisas incríveis ao longo dos anos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TR.Stride.Atmosphere - Implementation of UE4 atmosphere rendering</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190845Z" creationid="alexa" creationdate="20250404T190845Z">
+        <seg>TR.Stride.Atmosphere - Implementação da renderização de atmosfera do UE4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TR.Stride.Gameplay - Manage save games</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190923Z" creationid="alexa" creationdate="20250404T190923Z">
+        <seg>TR.Stride.Gameplay - Gerenciamento de jogos salvos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TR.Stride.Ocean - Ocean Water rendering</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190900Z" creationid="alexa" creationdate="20250404T190900Z">
+        <seg>TR.Stride.Ocean - Renderização de água do oceano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TR.Stride.Terrain- Height Map Terrain</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T190911Z" creationid="alexa" creationdate="20250404T190911Z">
+        <seg>TR.Stride.Terrain - Terreno com mapa de altura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terrain</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193222Z" creationid="alexa" creationdate="20250404T193222Z">
+        <seg>Terreno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terrain and Water</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193209Z" creationid="alexa" creationdate="20250404T193209Z">
+        <seg>Terreno e Água</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g1&gt;ReleaseNotesNext.md&lt;/g1&gt; file is a crucial document that should be continuously updated with summaries of important/major PRs that have been merged and are noteworthy for the community, such as new features.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T094413Z" creationid="alexa" creationdate="20250405T094413Z">
+        <seg>O arquivo &lt;g1&gt;ReleaseNotesNext.md&lt;/g1&gt; é um documento crucial que deve ser continuamente atualizado com resumos dos PRs importantes ou com grandes alterações que foram mesclados e são relevantes para a comunidade, como novos recursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The API documentation covers methods, properties, and other relevant information to help you effectively use the Stride engine in your projects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173619Z" creationid="alexa" creationdate="20250404T173619Z">
+        <seg>A documentação da API inclui métodos, propriedades e outras informações relevantes para ajudar a você a utilizar de maneira eficaz o Stride em seus projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Stride Rendering Pipeline&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212650Z" creationid="alexa" creationdate="20250404T212650Z">
+        <seg>Pipeline de Renderização do Stride&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Stride team prioritizes documentation as part of the PR review process to maintain the accuracy and completeness of information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091318Z" creationid="alexa" creationdate="20250405T091318Z">
+        <seg>A equipe do Stride prioriza a documentação como parte do processo de revisão de Pull Requests (PR), a fim de manter a precisão e a integridade das informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The categorization is set in the &lt;g1&gt;release.yml&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215139Z" creationid="alexa" creationdate="20250404T215139Z">
+        <seg>A categorização é definida no arquivo &lt;g1&gt;release.yml&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The community has agreed to use a hybrid categorization based on generic categories and Stride-specific categories.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215152Z" creationid="alexa" creationdate="20250404T215152Z">
+        <seg>A comunidade decidiu usar uma categorização híbrida baseada em categorias genéricas e categorias específicas do Stride.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contribution process involves several key steps, from forking the repository to having your changes merged into the main project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220541Z" creationid="alexa" creationdate="20250404T220541Z">
+        <seg>O processo de contribuição envolve várias etapas-chave, desde o fork do repositório até a integração das suas alterações ao projeto principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The page you're looking for doesn't exist or has been moved to another address.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173035Z" creationid="alexa" creationdate="20250404T173035Z">
+        <seg>A página que você está procurando não existe ou foi movida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The template includes sections for a concise summary of your changes, a detailed description, any related issues, the motivation behind the changes, and the types of changes being proposed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214245Z" creationid="alexa" creationdate="20250404T214245Z">
+        <seg>Esse modelo inclui seções para um resumo das alterações, uma descrição detalhada, eventuais Issues relacionados, a motivação por trás das mudanças e o tipo de alteração proposta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The template is structured to cover:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214501Z" creationid="alexa" creationdate="20250404T214501Z">
+        <seg>Estrutura do modelo de Pull Request:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are projects that definitely will not work with Stride 4.x without massive rewrites but were made with the old versions of Stride FKA Xenko or Paradox game engine.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T182217Z" creationid="alexa" creationdate="20250404T182217Z">
+        <seg>Esses projetos não funcionam com o Stride 4.x sem grandes reescritas. Foram criados com versões antigas do motor Stride, anteriormente conhecido como Xenko ou Paradox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These comments are integral to generating useful API documentation and provide essential guidance directly in the IDE.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091531Z" creationid="alexa" creationdate="20250405T091531Z">
+        <seg>Esses comentários são essenciais para gerar a documentação da API útil e fornecem orientações diretamente na IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These labels are utilized by GitHub Releases automation to sort changes in the changelog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215130Z" creationid="alexa" creationdate="20250404T215130Z">
+        <seg>Esses rótulos são utilizados pela automação do GitHub Releases para organizar as mudanças no changelog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These pages contain detailed information about the Stride scripting API, grouped by namespace.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173545Z" creationid="alexa" creationdate="20250404T173545Z">
+        <seg>Estas páginas contêm informações detalhadas sobre a API de programação de scripts do Stride, agrupadas por namespace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can enhance understanding and demonstrate practical applications of API elements.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T092315Z" creationid="alexa" creationdate="20250405T092315Z">
+        <seg>Isso aumenta a compreensão e demonstrar aplicações práticas dos elementos da API.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This collaborative effort enhances the project's quality.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221250Z" creationid="alexa" creationdate="20250404T221250Z">
+        <seg>Essa colaboração ajuda a melhorar a qualidade do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a personal copy for you to work on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221014Z" creationid="alexa" creationdate="20250404T221014Z">
+        <seg>Isso criará uma cópia pessoal do repositório para você trabalhar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document serves as a running log of all significant changes slated for inclusion in the next release.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T094425Z" creationid="alexa" creationdate="20250405T094425Z">
+        <seg>Esse documento serve como um registro contínuo de todas as mudanças significativas previstas para a próxima versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This guide assumes familiarity with the basics of Git and GitHub, focusing on providing instructions for creating pull requests (PRs) that are straightforward for the Stride team to review and merge.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214046Z" creationid="alexa" creationdate="20250404T213741Z">
+        <seg>Este guia assume que você já tem familiaridade com os conceitos básicos de Git e GitHub, e tem como objetivo fornecer instruções para criar pull requests (PRs) que sejam fáceis para a equipe do Stride revisar e mesclar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This guide outlines the fundamental workflow for contributing to various Stride projects, including the Stride engine, Stride website, and Stride documentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220457Z" creationid="alexa" creationdate="20250404T220457Z">
+        <seg>Este guia descreve o fluxo de trabalho fundamental para contribuir com diversos projetos do Stride, incluindo o motor Stride, o site do Stride e a documentação do Stride.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information is invaluable for developers integrating these features into their projects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091612Z" creationid="alexa" creationdate="20250405T091612Z">
+        <seg>Essas informações são inestimáveis para os desenvolvedores que integram esses recursos em seus projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is to keep the git history clean and to make it easier to understand the changes that were made in the future.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220222Z" creationid="alexa" creationdate="20250404T220222Z">
+        <seg>Isso mantém o histórico do Git mais limpo e facilita o entendimento das mudanças no futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that only one label will be automatically applied to the release notes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215623Z" creationid="alexa" creationdate="20250404T215623Z">
+        <seg>Isso significa que apenas um rótulo será usada automaticamente nas notas de versão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This practice allows users to receive contextual information within their IDEs and aids in generating comprehensive API documentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091437Z" creationid="alexa" creationdate="20250405T091437Z">
+        <seg>Essa prática permite que os usuários recebam informações contextuais diretamente nas IDEs e contribui para gerar uma documentação da API completa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This process ensures that contributions are beneficial and fit the project's goals.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221227Z" creationid="alexa" creationdate="20250404T221227Z">
+        <seg>Esse processo garante que as contribuições estejam alinhadas com os objetivos do projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This step integrates your contribution with the main codebase.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221314Z" creationid="alexa" creationdate="20250404T221314Z">
+        <seg>Assim, sua contribuição será oficialmente integrada ao projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This step is especially important as it demonstrates due diligence in testing your contribution, significantly aiding the review process by ensuring functionality and reducing potential integration issues.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214450Z" creationid="alexa" creationdate="20250404T214450Z">
+        <seg>Esse último passo é essencial, pois demonstra cuidado ao validar a funcionalidade do que foi proposto, facilitando a revisão e evitando problemas futuros na integração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This systematic approach helps streamline the review process, making it easier for the Stride team to understand, review, and merge your contributions efficiently.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214734Z" creationid="alexa" creationdate="20250404T214734Z">
+        <seg>Esse formato sistematizado ajuda a equipe do Stride a entender, revisar e aceitar as contribuições com mais agilidade e clareza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This teamwork between the contributors and our review team helps keep our documentation a rich and invaluable resource for everyone in our community.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T094314Z" creationid="alexa" creationdate="20250405T094314Z">
+        <seg>Essa parceria com a equipe de revisão ajuda a manter a documentação um recurso rico e valioso para toda a comunidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This workflow is applicable to contributions to the Stride engine, Stride website, and Stride documentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220556Z" creationid="alexa" creationdate="20250404T220556Z">
+        <seg>Esse fluxo é aplicável às contribuições para o motor Stride, o site do Stride e a documentação do Stride.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Title Prefixing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214748Z" creationid="alexa" creationdate="20250404T214748Z">
+        <seg>Prefixos no Título</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To make the most out of this section, you should be familiar with scripting concepts and have some experience in programming.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173630Z" creationid="alexa" creationdate="20250404T173630Z">
+        <seg>Para aproveitar ao máximo esta seção, você deve estar familiarizado com conceitos de programação de scripts e ter alguma experiência em programação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tools and Importers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193501Z" creationid="alexa" creationdate="20250404T193501Z">
+        <seg>Ferramentas e importadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212117Z" creationid="alexa" creationdate="20250404T212117Z">
+        <seg>Tutorials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tutorials and articles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184306Z" creationid="alexa" creationdate="20250404T184306Z">
+        <seg>Tutoriais e artigos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211631Z" creationid="alexa" creationdate="20250404T211631Z">
+        <seg>Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type Conversion&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212642Z" creationid="alexa" creationdate="20250404T212642Z">
+        <seg>Conversão de Tipos&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UI</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212947Z" creationid="alexa" creationdate="20250404T212719Z">
+        <seg>Interface de Usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating the Manual</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T092321Z" creationid="alexa" creationdate="20250405T092321Z">
+        <seg>Atualizando o Manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>VVVV integration</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180429Z" creationid="alexa" creationdate="20250404T180429Z">
+        <seg>Integração com VVVV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vimeo</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211636Z" creationid="alexa" creationdate="20250404T211636Z">
+        <seg>Vimeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visual Programming</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213355Z" creationid="alexa" creationdate="20250404T213355Z">
+        <seg>Programação Visual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visual programming, VVVV.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184945Z" creationid="alexa" creationdate="20250404T184945Z">
+        <seg>Programação visual, VVVV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Water</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T193433Z" creationid="alexa" creationdate="20250404T193433Z">
+        <seg>Água</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to the Stride API documentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173532Z" creationid="alexa" creationdate="20250404T173532Z">
+        <seg>Bem-vindo à documentação da API do Stride.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When merging a pull request, the Stride team might squash the commits into a single commit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220202Z" creationid="alexa" creationdate="20250404T220202Z">
+        <seg>Ao mesclar um pull request, a equipe do Stride pode fazer squash dos commits em um único commit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When merging a pull request, the title should be prefixed based on the label:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214759Z" creationid="alexa" creationdate="20250404T214759Z">
+        <seg>Ao mesclar um PR, o título deve conter um prefixo baseado nos rótulos (labels):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When submitting a pull request, you'll use a &lt;g1&gt;template&lt;/g1&gt; that guides you through providing all the necessary details for a smooth review process.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214128Z" creationid="alexa" creationdate="20250404T214128Z">
+        <seg>Ao enviar um pull request, você utilizará um &lt;g1&gt;modelo&lt;/g1&gt; que ajuda a fornecer todas as informações necessárias para uma revisão eficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whether you decide to contribute more or take a break, your efforts have now been integrated into the project.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221415Z" creationid="alexa" creationdate="20250404T221415Z">
+        <seg>Seja para continuar contribuindo ou fazer uma pausa, suas mudanças já foram integradas ao projeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whether you're a seasoned contributor or new to the project, this workflow ensures your contributions are effectively integrated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220515Z" creationid="alexa" creationdate="20250404T220515Z">
+        <seg>Seja você um colaborador experiente ou esteja começando agora, este fluxo garante que suas contribuições sejam integradas de forma eficaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML Comments and Docs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091252Z" creationid="alexa" creationdate="20250405T091032Z">
+        <seg>Comentários XML e documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YouTube</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211612Z" creationid="alexa" creationdate="20250404T211612Z">
+        <seg>YouTube</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Z[End]
+%% Edges</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220910Z" creationid="alexa" creationdate="20250404T220910Z">
+        <seg>Z[Fim]
+%% Edges</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>feat: Add editor settings for the camera speed increase/decrease hotkeys</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215840Z" creationid="alexa" creationdate="20250404T215840Z">
+        <seg>feat: Add editor settings for the camera speed increase/decrease hotkeys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>feat: Add ray test flags</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220126Z" creationid="alexa" creationdate="20250404T220126Z">
+        <seg>feat: Add ray test flags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fix: Fixes detecting WinForms right shift key (fixes #754, fixes #929)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220050Z" creationid="alexa" creationdate="20250404T220050Z">
+        <seg>fix: Fixes detecting WinForms right shift key (fixes #754, fixes #929)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fix: Fixes inconsistent box2D collision, see #1707 and #2019</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220122Z" creationid="alexa" creationdate="20250404T220122Z">
+        <seg>fix: Fixes inconsistent box2D collision, see #1707 and #2019</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fix: Fixes mouse release for Winforms</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220044Z" creationid="alexa" creationdate="20250404T220044Z">
+        <seg>fix: Fixes mouse release for Winforms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⌨️ Input</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215909Z" creationid="alexa" creationdate="20250404T215847Z">
+        <seg>⌨️ Entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⚙️ Example projects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184203Z" creationid="alexa" creationdate="20250404T184203Z">
+        <seg>⚙ Exemplos de Projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⚙️ Physics</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220114Z" creationid="alexa" creationdate="20250404T220102Z">
+        <seg>⚙️ Física</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⛰️ Terrain and Water</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184406Z" creationid="alexa" creationdate="20250404T184406Z">
+        <seg>⛰️ Terreno e Água</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⨺ Models and Animations</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184335Z" creationid="alexa" creationdate="20250404T184335Z">
+        <seg>⨺ Modelos e Animações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>🌈 Shaders</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211739Z" creationid="alexa" creationdate="20250404T211739Z">
+        <seg>🌈 Shaders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>🍎 Physics</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184453Z" creationid="alexa" creationdate="20250404T184453Z">
+        <seg>🍎 Física</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>🎉 New Features</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220011Z" creationid="alexa" creationdate="20250404T215825Z">
+        <seg>🎉 Novas Funcionalidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>🎓 Tutorials and Articles</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184249Z" creationid="alexa" creationdate="20250404T184249Z">
+        <seg>🎓 Tutoriais e Artigos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>🎥 Rendering and camera</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184801Z" creationid="alexa" creationdate="20250404T184801Z">
+        <seg>🎥 Renderização e Câmera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>🐞 Bug Fixes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220019Z" creationid="alexa" creationdate="20250404T215832Z">
+        <seg>🐞 Correções de Bugs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>👨‍💻 Programming and Scripting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T174613Z" creationid="alexa" creationdate="20250404T174613Z">
+        <seg>👨‍💻Programação e Scripting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>👾 Games and demos</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184103Z" creationid="alexa" creationdate="20250404T184054Z">
+        <seg>👾 Jogos e demos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>💥 Breaking Changes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215958Z" creationid="alexa" creationdate="20250404T215811Z">
+        <seg>💥 Quebras de Compatibilidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>🔌 Embedding and Integration</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180239Z" creationid="alexa" creationdate="20250404T180239Z">
+        <seg>🔌Incorporação e Integração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>🔧 Engineering</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220027Z" creationid="alexa" creationdate="20250404T215838Z">
+        <seg>🔧 Engenharia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>🗠 Visual programming</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184935Z" creationid="alexa" creationdate="20250404T184935Z">
+        <seg>🗠 Programação Visual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>🛠️ Tools and importers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185009Z" creationid="alexa" creationdate="20250404T185009Z">
+        <seg>🛠 Ferramentas e importadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>🪟 UI</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T212912Z" creationid="alexa" creationdate="20250404T211748Z">
+        <seg>🪟 Interface de Usuário</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

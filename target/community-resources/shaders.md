@@ -1,0 +1,15 @@
+# <g1>Shader Multi-Malha</g1>
+
+- [Geração de malha simples e marching cube a partir de computeShader](https://github.com/Nicogo1705/Stride-Generate-Mesh-from-ComputeShader)
+- [Shader de vidro](https://github.com/stride3d/stride/discussions/1011)
+- [ComputeShader de Marching Cubes](https://github.com/Nicogo1705/Stride-Generate-Simple-Mesh-And-Marching-Cube-From-ComputeShader)
+- [Stride.ShaderExplorer: mostra os shaders integrados do Stride](https://github.com/tebjan/Stride.ShaderExplorer)
+- [Stride-Awesome-Shaders: Um repositório para shaders interessantes que podem ser utilizados no Stride](https://github.com/ykafia/Stride-Awesome-Shaders)
+- [StrideMeshOutlineRenderFeature: Recurso de Renderização de Contorno de Malha para o Stride](https://github.com/herocrab/StrideMeshOutlineRenderFeature)
+- [StrideWireframeShader: shader wireframe de passe único para o Stride](https://github.com/jeske/StrideWireframeShader)
+- [Shader triplanar](https://github.com/herocrab/StrideTriplanarShader)
+- [UnrealMotion: Motion blur para o Stride](https://github.com/ykafia/UnrealMotion)
+- [Shaders de processamento de imagem da comunidade VVVV](https://github.com/bj-rn/VL.Addons/tree/main/vl/shaders)
+- [Shaders principais do VVVV](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.Runtime/src/Effects)
+- [Visão geral do SDSL por Tebjan](https://hackmd.io/@vN9HDo5XQAGVCM_epmoJBA/S1LxeorWT)
+- [Compilação assíncrona de shader](https://gist.github.com/Eideren/ef6be9508d8d3b0e460d8a6d15f0937b)
