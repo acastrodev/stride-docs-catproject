@@ -555,7 +555,7 @@ This should happen automatically but you might need a few tweaks afterwise (i.e.
 
 *   Fixed missing generic info when initializing parent serializer
 
-### <g1>Shader Multi-Malha</g1>
+### <g1>Shader multi-malha</g1>
 
 *   Explicitly qualify Annotations namespace to avoid future conflicts with Xenko.Core.Annotations namespace.
 *   Removed glsl-optimizer (causing some issues on Android)

@@ -1,4 +1,4 @@
-# Equipe Principal
+# Equipe principal
 
 A equipe principal é formada por um pequeno grupo de desenvolvedores voluntários, cada um com experiência em diferentes áreas do desenvolvimento. Não há desenvolvedores em tempo integral exclusivamente dedicados ao avanço do Stride; em vez disso, o motor evolui graças às contribuições voluntárias tanto da equipe principal quanto da [comunidade em geral](https://github.com/stride3d/stride?tab=readme-ov-file#contributors-). Esses colaboradores dedicam seu tempo livre para aprimorar e expandir o motor, movidos por interesse pessoal, paixão pelo projeto e seu conhecimento técnico especializado.
 
@@ -44,7 +44,7 @@ A equipe principal é composta por membros que contribuem com frequência para o
               <li>C# em geral</li>
               <li>Pipeline de renderização</li>
               <li>Gráficos</li>
-              <li><g1>Shader Multi-Malha</g1></li>
+              <li><g1>Shader multi-malha</g1></li>
           </ul>
       </td>
     </tr>
@@ -55,7 +55,7 @@ A equipe principal é composta por membros que contribuem com frequência para o
       <td>
           <ul>
               <li>C# em geral</li>
-              <li><g1>Shader Multi-Malha</g1></li>
+              <li><g1>Shader multi-malha</g1></li>
               <li>Física</li>
               <li>Multithreading</li>
               <li>Entrada/Jogabilidade</li>

@@ -25,11 +25,11 @@
 - Artigos
   - [Abstraindo Svelto utilizando POO](https://www.sebaslab.com/ecs-abstraction-layers-and-modules-encapsulation/)
   - [Exemplo Doofuses com Svelto](https://www.sebaslab.com/svelto-ecs-3-3-and-the-new-filters-api/#:~:text=shiny%20new%20Doofuses%20Stride%20example.)
-  - [Exemplo de Torretas com Svelto](https://www.sebaslab.com/svelto-miniexample-7-stride-engine-demo/)
+  - [Exemplo de torretas com Svelto](https://www.sebaslab.com/svelto-miniexample-7-stride-engine-demo/)
 - Repositórios
-  - [Stride-npc: Exemplo básico de uma Máquina de Estados Finitos](https://github.com/Doprez/stride-npc)
+  - [Stride-npc: Exemplo básico de uma máquina de estados finitos](https://github.com/Doprez/stride-npc)
   - [Stride-goap: Implementação simples de GOAP usando MountainGoap](https://github.com/Doprez/stride-goap)
   - [Mini exemplos utilizando Svelto ECS](https://github.com/sebas77/Svelto.MiniExamples)
-  - [Usando Processadores de Entidade para Plugins do Editor de Cenas](https://github.com/Doprez/lod-example)
-  - [Pathfinding com Processadores de Entidade](https://github.com/Doprez/stride-pathfinding-demo)
+  - [Utilizando processadores de entidade para plugins do Editor de Cenas](https://github.com/Doprez/lod-example)
+  - [Pathfinding com processadores de entidade](https://github.com/Doprez/stride-pathfinding-demo)
   - [Arch ECS integrado ao Stride](https://github.com/Doprez/stride-arch-ecs#add-arch-components-in-strides-editor)

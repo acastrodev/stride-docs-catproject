@@ -4,7 +4,7 @@
 - [Criar um asset de dados personalizado](https://github.com/manio143/StrideCustomAsset)
 - [Plugin do Blender para exportar animações em massa para importação no Stride](https://github.com/JackPilley/BlenderToStrideAnimationSeparator)
 - [Carregando bancos de dados de adicional de asset](https://gist.github.com/aikixd/b0decb0cfc28bbdacb46d953691f76fd)
-- [LoadObjTest](https://github.com/jeske/LoadObjTest) - Carrega em tempo de execução um asset de um arquivo WavefrontOBJ do sistema de arquivos no código.
+- [LoadObjTest](https://github.com/jeske/LoadObjTest) - Carrega em tempo de execução um asset de um arquivo Wavefront OBJ do sistema de arquivos no código.
 - [AutoImportStride: Um script para importar arquivos para o Stride.](https://github.com/VirtualBrightPlayz/AutoImportStride)
 - [Microsoft.Extensions.Hosting.Stride3d: Hosting lifetime para o Stride](https://github.com/spasarto/Microsoft.Extensions.Hosting.Stride3d)
 - [Importar arquivos para o Stride](https://github.com/VirtualBrightPlayz/AutoImportStride)
@@ -17,7 +17,7 @@
 
 ## Bibliotecas de extensão
 - [Física Bepu no Stride](https://www.nuget.org/packages/Stride.BepuPhysics)
-- [Execute o Stride Gamestudio apenas com Nuget!](https://github.com/Doprez/stride-gamestudio-nuget)
+- [Execute o Stride Game Studio apenas com Nuget!](https://github.com/Doprez/stride-gamestudio-nuget)
 - [Editor em tempo real do Stride para alterar dados de entidade em tempo de execução](https://github.com/tebjan/StrideLiveEditor)
 
 

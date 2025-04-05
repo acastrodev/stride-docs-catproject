@@ -2,7 +2,7 @@
 
 [!INCLUDE [stride-studio-note](../../../includes/under-construction-note.md)]
 
-## Visão Geral
+## Visão geral
 
 User usually want to manipulate Component contained in a specific entity, while engine wants to access component by types (i.e. all Mesh Component while drawing, all animation components while updating animations, etc...):
 

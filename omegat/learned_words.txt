@@ -49,3 +49,4 @@ checklist
 fork
 assets
 plugins
+site

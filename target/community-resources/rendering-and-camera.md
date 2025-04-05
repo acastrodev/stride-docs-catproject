@@ -26,8 +26,8 @@
 
 ## Câmera
 - [Controlador de câmera](https://github.com/herocrab/StrideCameraController)
-- [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Tela Dividida
-- [Stride3dSplitScreen](https://github.com/spasarto/Stride3dSplitScreen) - Outra Tela Dividida
+- [XenkoByteSized](https://github.com/profan/XenkoByteSized) - Tela dividida
+- [Stride3dSplitScreen](https://github.com/spasarto/Stride3dSplitScreen) - Outra tela dividida
 - [StrideCameraController](https://github.com/herocrab/StrideCameraController) - Troca de câmeras estilo Resident Evil
 - [CameraFollow.cs](https://gist.github.com/ykafia/371b310de1ba7bb8ab3d2feffce2a190)
 - [Tela dividida](https://github.com/profan/XenkoByteSized#xenkobytesizedsplitscreen)

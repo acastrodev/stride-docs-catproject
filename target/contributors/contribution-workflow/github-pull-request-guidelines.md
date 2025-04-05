@@ -1,8 +1,8 @@
-# Diretrizes para realizar Pull Requests no GitHub
+# Diretrizes para realizar pull requests no GitHub
 
 Este guia assume que você já tem familiaridade com os conceitos básicos de Git e GitHub, e tem como objetivo fornecer instruções para criar pull requests (PRs) que sejam fáceis para a equipe do Stride revisar e mesclar.
 
-Para entender melhor como contribuir com o Stride, consulte o nosso [Fluxo de Contribuição](index.md).
+Para entender melhor como contribuir com o Stride, consulte o nosso [fluxo de contribuição](index.md).
 
 Ao enviar um pull request, você utilizará um [modelo](https://github.com/stride3d/stride/blob/master/.github/pull_request_template.md) que ajuda a fornecer todas as informações necessárias para uma revisão eficiente. Esse modelo inclui seções para um resumo das alterações, uma descrição detalhada, eventuais issues relacionados, a motivação por trás das mudanças e o tipo de alteração proposta.
 
@@ -12,7 +12,7 @@ Um dos pontos mais importantes do modelo é o checklist, que inclui tarefas como
 - Garantir que todos os testes estejam passando;
 E, principalmente, confirmar que você **construiu e executou o editor** para testar suas alterações localmente. Esse último passo é essencial, pois demonstra cuidado ao validar a funcionalidade do que foi proposto, facilitando a revisão e evitando problemas futuros na integração.
 
-Estrutura do modelo de Pull Request:
+Estrutura do modelo de pull request:
 - **Resumo**: Uma visão geral rápida das alterações.
 - **Descrição**: Explicação detalhada do que foi feito.
 - **Issue relacionado**: Links para bugs ou discussões relacionadas.
@@ -22,9 +22,9 @@ Estrutura do modelo de Pull Request:
 
 Esse formato sistematizado ajuda a equipe do Stride a entender, revisar e aceitar as contribuições com mais agilidade e clareza.
 
-## Mesclando Pull Requests
+## Mesclando pull requests
 
-### Prefixos no Título
+### Prefixos no título
 
 Ao mesclar um PR, o título deve conter um prefixo baseado nos rótulos (labels):
 
@@ -37,7 +37,7 @@ ou qualquer outra categoria que o mantenedor julgar adequada.
 `feat:`, `fix:`, `perf:`, `docs:`, `style:`, `refactor:`, `test:`, `chore:`
 ou outro prefixo apropriado.
 
-### Rotulando
+### Rotulação
 
 Após o PR ser mesclado, a equipe do Stride aplicará um único rótulo para categorizar o PR com base no tipo de alteração introduzida. Esses rótulos são utilizados pela automação do GitHub Releases para organizar as mudanças no changelog.****
 
@@ -47,13 +47,13 @@ A comunidade decidiu usar uma categorização híbrida baseada em categorias gen
 
 Os rótulos devem ser aplicadas com base nas seguintes regras e ordem de prioridade:
 
-**Categorias Genéricas:**
+**Categorias genéricas:**
 
 - `breaking-change`: Se o PR introduz uma mudança incompatível com versões anteriores.
 - `enhancement`: Se o PR traz uma nova funcionalidade ou melhoria.
 - `bug-fix`: Se o PR corrige um erro.
 
-**Categorias Específicas do Stride:**
+**Categorias específicas do Stride:**
 
 - `performance`
 - `engineering`
@@ -71,7 +71,7 @@ Os rótulos devem ser aplicadas com base nas seguintes regras e ordem de priorid
 - `area-UI`
 - `area-Rendering`
 
-PRs com outros rótulos ou sem rótulos serão automaticamente incluídos na categoria **Outras alterações**.
+PRs com outros rótulos ou sem rótulos serão automaticamente incluídos na categoria **Other Changes**.
 
 > [!NOTE]
 > Se múltiplos rótulos forem aplicados, a automação de versão priorizará a categoria genérica primeiro, seguida pela específica do Stride. Isso significa que apenas um rótulo será usada automaticamente nas notas de versão
@@ -80,13 +80,13 @@ PRs com outros rótulos ou sem rótulos serão automaticamente incluídos na cat
 
 Exemplos de títulos de PRs gerados. Observe os diferentes prefixos utilizados para as categorias genéricas e as categorias específicas do Stride:
 
-### 💥 Quebras de Compatibilidade
+### 💥 Quebras de compatibilidade
 - [Physics] Bepu codebase refactoring and clean-up
 
-### 🎉 Novas Funcionalidades
+### 🎉 Novas funcionalidades
 - [Input] Add haptic support to OpenVR and Oculus runtimes
 
-### 🐞 Correções de Bugs
+### 🐞 Correções de bugs
 
 - [Audio] fix: Audio emitter multiple references to same asset bugfix
 

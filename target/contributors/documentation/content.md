@@ -4,7 +4,7 @@
 
 Se você deseja contribuir e atualizar o site, siga as instruções abaixo.
 
-Pequenas atualizações podem ser feitas diretamente pela interface web do GitHub. Já para atualizações maiores, é necessário configurar um ambiente de desenvolvimento local, conforme descrito na seção [Instalação](installation.md).
+Pequenas atualizações podem ser feitas diretamente pela interface web do GitHub. Já para atualizações maiores, é necessário configurar um ambiente de desenvolvimento local, conforme descrito na seção [Instalação local](installation.md).
 
 Você pode usar qualquer editor de texto para fazer modificações. Se estiver utilizando o **Visual Studio**, é possível abrir o arquivo de solução `Stride.Docs.sln`, localizado na raiz do repositório, e começar a editar a partir do próprio IDE.
 
@@ -41,7 +41,7 @@ Atualizações maiores envolvem mudanças estruturais no site, onde é útil vis
 - Modificações em layouts
 - Reformulação de elementos visuais
 
-Comece configurando seu ambiente de desenvolvimento local, conforme descrito na seção [Instalação](installation.md). Após realizar e testar suas mudanças localmente, envie um pull request para mesclá-las na branch `master`.
+Comece configurando seu ambiente de desenvolvimento local, conforme descrito na seção [Instalação local](installation.md). Após realizar e testar suas mudanças localmente, envie um pull request para mesclá-las na branch `master`.
 
 Ao enviar um pull request, especialmente para mudanças grandes, recomenda-se incluir **capturas de tela** ou um link para a versão local do site. Essa abordagem ajuda os mantenedores a visualizar e avaliar suas alterações propostas de forma mais eficaz. Caso prefira usar a infraestrutura do GitHub para isso, consulte nosso [guia de implantação no GitHub Pages](deployment-azure.md#deployment-to-github-pages).
 
@@ -54,10 +54,10 @@ Essas páginas contêm informações sobre como usar o Stride, um motor de jogos
 
 ### Criando uma nova página de manual
 
-1. Crie um novo arquivo na pasta manual, em uma das pastas já existentes (por exemplo, animation, audio, etc.) ou crie uma nova pasta dentro da pasta manual.````
-   - Se você criou uma nova pasta, certifique-se também de criar um arquivo index.md dentro dela.``
+1. Crie um novo arquivo na pasta `manual`, em uma das pastas já existentes (por exemplo, animation, audio, etc.) ou crie uma nova pasta dentro da pasta `manual`.
+   - Se você criou uma nova pasta, certifique-se também de criar um arquivo `index.md` dentro dela.
 1. Use qualquer página existente como modelo para a nova página.
-1. Atualize o arquivo toc.yml (ou toc.md) dentro da pasta manual para incluir a nova página ou pasta. O arquivo toc.yml contém o índice das páginas do manual, que é exibido no lado esquerdo das páginas do manual. Essas páginas também são incluídas no arquivo PDF gerado opcionalmente.````````
+1. Atualize o arquivo `toc.yml` (ou `toc.md`) dentro da pasta `manual` para incluir a nova página ou pasta. O arquivo `toc.yml` contém o índice das páginas do manual, que é exibido no lado esquerdo das páginas do manual. Essas páginas também são incluídas no arquivo PDF gerado opcionalmente.
 
 ### Convenção de nomes
 
@@ -65,7 +65,7 @@ Verifique as páginas e pastas existentes para seguir a convenção de nomes.
 
 ### Mídia
 
-Observe que algumas pastas existentes possuem uma pasta media. Essa pasta contém imagens e vídeos usados nas páginas do manual. Você pode usar essa pasta ou criar uma nova dentro da sua própria pasta. Se possível, certifique-se de que as imagens estejam no formato `webp` e os vídeos no formato `.mp4`.``
+Observe que algumas pastas existentes possuem uma pasta `media`. Essa pasta contém imagens e vídeos usados nas páginas do manual. Você pode usar essa pasta ou criar uma nova dentro da sua própria pasta. Se possível, certifique-se de que as imagens estejam no formato `webp` e os vídeos no formato `.mp4`.
 
 ## Tutorial
 

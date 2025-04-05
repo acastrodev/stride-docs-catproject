@@ -118,16 +118,16 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Additional Contributions?<ept i="1">&lt;/g1&gt;</ept>: Consider whether you want to make further contributions.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221347Z" creationid="alexa" creationdate="20250404T221347Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Deseja Contribuir Mais?<ept i="1">&lt;/g1&gt;</ept>: Avalie se deseja fazer novas contribuições.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140659Z" creationid="alexa" creationdate="20250404T221347Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Gostaria de contribuir mais?<ept i="1">&lt;/g1&gt;</ept>: Avalie se deseja fazer novas contribuições.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Address PR Feedback<ept i="1">&lt;/g1&gt;</ept>: If maintainers or other contributors have feedback, make the necessary adjustments to your PR.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221243Z" creationid="alexa" creationdate="20250404T221243Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Responda ao Feedback do PR<ept i="1">&lt;/g1&gt;</ept>: Caso receba sugestões ou observações dos mantenedores ou de outros colaboradores, ajuste seu PR conforme necessário.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140554Z" creationid="alexa" creationdate="20250404T221243Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Responda ao feedback do PR<ept i="1">&lt;/g1&gt;</ept>: Caso receba sugestões ou observações dos mantenedores ou de outros colaboradores, ajuste seu PR conforme necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,8 +286,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Bump in to some useful code<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184626Z" creationid="alexa" creationdate="20250404T184626Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Encontre aquele código útil<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134731Z" creationid="alexa" creationdate="20250404T184626Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Encontre aquele código útil que estava procurando!<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -414,16 +414,16 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Create a Branch 'X'<ept i="1">&lt;/g1&gt;</ept>: Create a new branch in your forked repository, naming it appropriately for the changes you plan to implement.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221019Z" creationid="alexa" creationdate="20250404T221019Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Crie um Branch 'X'<ept i="1">&lt;/g1&gt;</ept>: No seu fork, crie um novo branch, nomeando-o de forma apropriada para refletir as alterações que pretende fazer.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140438Z" creationid="alexa" creationdate="20250404T221019Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Crie um branch 'X'<ept i="1">&lt;/g1&gt;</ept>: No seu fork, crie um novo branch, nomeando-o de forma apropriada para refletir as alterações que pretende fazer.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Create a Pull Request (PR)<ept i="1">&lt;/g1&gt;</ept>: Once satisfied with your changes and testing, <bpt i="2" x="2">&lt;g2&gt;</bpt>submit a pull request<ept i="2">&lt;/g2&gt;</ept> to the original repository for review.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221203Z" creationid="alexa" creationdate="20250404T221203Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Crie um Pull Request (PR)<ept i="1">&lt;/g1&gt;</ept>: Quando estiver satisfeito com suas alterações e os testes, <bpt i="2" x="2">&lt;g2&gt;</bpt>submeta um pull request<ept i="2">&lt;/g2&gt;</ept> para o repositório original.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140541Z" creationid="alexa" creationdate="20250404T221203Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Crie um pull request (PR)<ept i="1">&lt;/g1&gt;</ept>: Quando estiver satisfeito com suas alterações e os testes, <bpt i="2" x="2">&lt;g2&gt;</bpt>submeta um pull request<ept i="2">&lt;/g2&gt;</ept> para o repositório original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,8 +534,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Descriptive Information:<ept i="1">&lt;/g1&gt;</ept> Comments should clearly describe the purpose, parameters, return values, and any exceptions thrown by the method or property.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T091559Z" creationid="alexa" creationdate="20250405T091559Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Informações Descritivas:<ept i="1">&lt;/g1&gt;</ept> Os comentários devem descrever claramente o propósito, os parâmetros, os valores de retorno e quaisquer exceções lançadas pelo método ou propriedade.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140803Z" creationid="alexa" creationdate="20250405T091559Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Informações descritivas:<ept i="1">&lt;/g1&gt;</ept> Os comentários devem descrever claramente o propósito, os parâmetros, os valores de retorno e quaisquer exceções lançadas pelo método ou propriedade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,16 +662,16 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Explore games and demos<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184143Z" creationid="alexa" creationdate="20250404T184143Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Explore jogos e demos<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134635Z" creationid="alexa" creationdate="20250404T184143Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Explore jogos e demos!<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Explore tutorials and articles<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184323Z" creationid="alexa" creationdate="20250404T184323Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Explore os tutoriais e artigos<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134651Z" creationid="alexa" creationdate="20250404T184323Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Explore os tutoriais e artigos!<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -718,8 +718,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Fork the Repository<ept i="1">&lt;/g1&gt;</ept>: Begin by forking the repository of the project you're interested in contributing to.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221007Z" creationid="alexa" creationdate="20250404T221007Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Faça um Fork do Repositório<ept i="1">&lt;/g1&gt;</ept>: Comece fazendo um fork do repositório do projeto com o qual deseja contribuir.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140434Z" creationid="alexa" creationdate="20250404T221007Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Faça um fork do repositório<ept i="1">&lt;/g1&gt;</ept>: Comece fazendo um fork do repositório do projeto com o qual deseja contribuir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,8 +750,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Generic categories:<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T215220Z" creationid="alexa" creationdate="20250404T215220Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Categorias Genéricas:<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140050Z" creationid="alexa" creationdate="20250404T215220Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Categorias genéricas:<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -766,8 +766,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Get your feet wet<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112907Z" creationid="alexa" creationdate="20250404T184442Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Dê uma molhada!<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134718Z" creationid="alexa" creationdate="20250404T184442Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>É hora de molhar os seus pés!<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -806,8 +806,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Have a look<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184356Z" creationid="alexa" creationdate="20250404T184356Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Dê uma olhada<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134655Z" creationid="alexa" creationdate="20250404T184356Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Dê uma olhada!<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -878,8 +878,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Import some knowledge<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T185235Z" creationid="alexa" creationdate="20250404T185235Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Importe um pouco de conhecimento<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134750Z" creationid="alexa" creationdate="20250404T185235Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Importe um pouco de conhecimento!<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -918,8 +918,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Key Points for API Documentation:<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T091444Z" creationid="alexa" creationdate="20250405T091444Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Pontos-Chave para a Documentação da API:<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140751Z" creationid="alexa" creationdate="20250405T091444Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Pontos-chave da documentação da API:<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -982,8 +982,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>LoadObjTest<ept i="1">&lt;/g1&gt;</ept> - Runtime load an asset from a filesystem WavefrontOBJ file in code.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T210959Z" creationid="alexa" creationdate="20250404T210959Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>LoadObjTest<ept i="1">&lt;/g1&gt;</ept> - Carrega em tempo de execução um asset de um arquivo WavefrontOBJ do sistema de arquivos no código.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T135535Z" creationid="alexa" creationdate="20250404T210959Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>LoadObjTest<ept i="1">&lt;/g1&gt;</ept> - Carrega em tempo de execução um asset de um arquivo Wavefront OBJ do sistema de arquivos no código.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,16 +1030,16 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Maintainers Review<ept i="1">&lt;/g1&gt;</ept>: The project maintainers will review your PR.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221221Z" creationid="alexa" creationdate="20250404T221221Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Revisão dos Mantenedores<ept i="1">&lt;/g1&gt;</ept>: Os mantenedores do projeto irão revisar seu PR.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140546Z" creationid="alexa" creationdate="20250404T221221Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Revisão dos mantenedores<ept i="1">&lt;/g1&gt;</ept>: Os mantenedores do projeto irão revisar seu PR.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Make Updates on Branch 'X'<ept i="1">&lt;/g1&gt;</ept>: Implement your changes within this new branch.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221057Z" creationid="alexa" creationdate="20250404T221029Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Realize as Alterações no Branch 'X'<ept i="1">&lt;/g1&gt;</ept>: Implemente suas mudanças neste novo branch.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140450Z" creationid="alexa" creationdate="20250404T221029Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Realize as alterações no branch 'X'<ept i="1">&lt;/g1&gt;</ept>: Implemente suas mudanças neste novo branch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,8 +1054,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Marching Cubes ComputeShader<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T114533Z" creationid="alexa" creationdate="20250404T192943Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>ComputeShader de marching cubes<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T135317Z" creationid="alexa" creationdate="20250404T192943Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>ComputeShader e marching cubes<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,8 +1206,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Pathfinding With Entity Processors<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T180128Z" creationid="alexa" creationdate="20250404T180128Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Pathfinding com Processadores de Entidade<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T125149Z" creationid="alexa" creationdate="20250404T180128Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Pathfinding com processadores de entidade<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,8 +1230,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Plug in and play<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T185429Z" creationid="alexa" creationdate="20250404T185429Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Conectar e usar<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134811Z" creationid="alexa" creationdate="20250404T185429Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>É só conectar e usar!<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1294,8 +1294,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Revise and Update PR as Necessary<ept i="1">&lt;/g1&gt;</ept>: Continue to refine and update your PR based on ongoing feedback until it meets the project's standards for merging.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221257Z" creationid="alexa" creationdate="20250404T221257Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Revise e Atualize o PR se Necessário<ept i="1">&lt;/g1&gt;</ept>: Continue ajustando seu PR até que ele atenda aos padrões do projeto e esteja pronto para ser mesclado.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140601Z" creationid="alexa" creationdate="20250404T221257Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Revise e atualize o PR se necessário<ept i="1">&lt;/g1&gt;</ept>: Continue ajustando seu PR até que ele atenda aos padrões do projeto e esteja pronto para ser mesclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,8 +1318,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Run Stride Gamestudio with only Nuget!<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T211217Z" creationid="alexa" creationdate="20250404T211217Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Execute o Stride Gamestudio apenas com Nuget!<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T135606Z" creationid="alexa" creationdate="20250404T211217Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Execute o Stride Game Studio apenas com Nuget!<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1478,8 +1478,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Start connecting the dots<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184956Z" creationid="alexa" creationdate="20250404T184956Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Comece a ligar os pontos<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134622Z" creationid="alexa" creationdate="20250404T184956Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Ligando os pontos!<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,16 +1678,16 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride-npc: A basic example of a Finite State Machine<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T180024Z" creationid="alexa" creationdate="20250404T180024Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride-npc: Exemplo básico de uma Máquina de Estados Finitos<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T125107Z" creationid="alexa" creationdate="20250404T180024Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride-npc: Exemplo básico de uma máquina de estados finitos<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride-specific categories:<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T215259Z" creationid="alexa" creationdate="20250404T215259Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Categorias Específicas do Stride:<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140104Z" creationid="alexa" creationdate="20250404T215259Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Categorias específicas do Stride:<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1702,8 +1702,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride.ShaderExplorer: shows the built-in shaders of the Stride<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T192955Z" creationid="alexa" creationdate="20250404T192955Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride.ShaderExplorer: mostra os shaders integrados do Stride<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T135346Z" creationid="alexa" creationdate="20250404T192955Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride.ShaderExplorer: Visualize os shaders integrados do Stride<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1718,8 +1718,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride3dSplitScreen<ept i="1">&lt;/g1&gt;</ept> - Another Split Screen</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T191029Z" creationid="alexa" creationdate="20250404T191029Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride3dSplitScreen<ept i="1">&lt;/g1&gt;</ept> - Outra Tela Dividida</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T135154Z" creationid="alexa" creationdate="20250404T191029Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride3dSplitScreen<ept i="1">&lt;/g1&gt;</ept> - Outra tela dividida</seg>
       </tuv>
     </tu>
     <tu>
@@ -1847,32 +1847,32 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Svelto Turret example<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T175728Z" creationid="alexa" creationdate="20250404T175654Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Exemplo de Torretas com Svelto<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T125054Z" creationid="alexa" creationdate="20250404T175654Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Exemplo de torretas com Svelto<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Sync/Merge Forked Main Branch with Branch 'X'<ept i="1">&lt;/g1&gt;</ept>: Ensure your working branch 'X' is also updated with any new changes from the main branch of your fork.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221127Z" creationid="alexa" creationdate="20250404T221127Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Sincronize/Mescle o branch main do Fork com o Branch 'X'<ept i="1">&lt;/g1&gt;</ept>: Mantenha também seu branch de trabalho atualizado com as alterações mais recentes do seu branch principal.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140525Z" creationid="alexa" creationdate="20250404T221127Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Sincronize/Mescle o branch main do fork com o branch 'X'<ept i="1">&lt;/g1&gt;</ept>: Mantenha também seu branch de trabalho atualizado com as alterações mais recentes do seu branch principal.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Sync/Merge Upstream with Forked Main Branch<ept i="1">&lt;/g1&gt;</ept>: If the upstream has changed, update your forked repository's main branch to reflect the latest changes from the original project.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221121Z" creationid="alexa" creationdate="20250404T221121Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Sincronize/Mescle o Repositório Original com o seu Fork (branch main)<ept i="1">&lt;/g1&gt;</ept>: Caso existam atualizações, aplique-as ao seu fork para mantê-lo atualizado com o projeto original.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140515Z" creationid="alexa" creationdate="20250404T221121Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Sincronize/Mescle o repositório original com o seu fork (branch main)<ept i="1">&lt;/g1&gt;</ept>: Caso existam atualizações, aplique-as ao seu fork para mantê-lo atualizado com o projeto original.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Sync/Merge Upstream with Your Forked Main Branch<ept i="1">&lt;/g1&gt;</ept>: Post-merge, ensure your forked repository's main branch is updated to include your newly merged changes.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221326Z" creationid="alexa" creationdate="20250404T221326Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Sincronize/Mescle o Repositório Original com o seu Fork (branch main)<ept i="1">&lt;/g1&gt;</ept>: Depois da mesclagem, atualize o branch principal do seu fork com as últimas mudanças.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140627Z" creationid="alexa" creationdate="20250404T221326Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Sincronize/Mescle o repositório original com o seu fork (branch main)<ept i="1">&lt;/g1&gt;</ept>: Depois da mesclagem, atualize o branch principal do seu fork com as últimas mudanças.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1911,8 +1911,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Test Your Updates<ept i="1">&lt;/g1&gt;</ept>: Thoroughly test your updates to confirm they work as expected and do not introduce new issues.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221149Z" creationid="alexa" creationdate="20250404T221139Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Teste Suas Alterações<ept i="1">&lt;/g1&gt;</ept>: Teste cuidadosamente suas alterações para garantir que estão funcionando corretamente e que não causam novos problemas.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140533Z" creationid="alexa" creationdate="20250404T221139Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Teste suas alterações<ept i="1">&lt;/g1&gt;</ept>: Teste cuidadosamente suas alterações para garantir que estão funcionando corretamente e que não causam novos problemas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1943,8 +1943,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Try it out yourself<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184237Z" creationid="alexa" creationdate="20250404T184237Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Experimente!<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134644Z" creationid="alexa" creationdate="20250404T184237Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Experimente agora mesmo!<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1991,8 +1991,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Unleash your inner coder<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T185303Z" creationid="alexa" creationdate="20250404T185303Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Libere o programador que existe em você<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134800Z" creationid="alexa" creationdate="20250404T185303Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Libere o programador que existe em você!<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -2031,8 +2031,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Using Entity Processors for Scene Editor Plugins<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T180116Z" creationid="alexa" creationdate="20250404T180116Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Usando Processadores de Entidade para Plugins do Editor de Cenas<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T125138Z" creationid="alexa" creationdate="20250404T180116Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Utilizando processadores de entidade para plugins do Editor de Cenas<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -2191,16 +2191,16 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Wait for PR to be Merged by Maintainers<ept i="1">&lt;/g1&gt;</ept>: After approval, maintainers will merge your PR into the project.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221308Z" creationid="alexa" creationdate="20250404T221308Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Aguarde a Mesclagem do PR pelos Mantenedores<ept i="1">&lt;/g1&gt;</ept>: Após a aprovação, os mantenedores irão mesclar seu PR no repositório principal.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140608Z" creationid="alexa" creationdate="20250404T221308Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Aguarde a mesclagem do PR pelos mantenedores<ept i="1">&lt;/g1&gt;</ept>: Após a aprovação, os mantenedores irão mesclar seu PR no repositório principal.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>We will tell you why<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184923Z" creationid="alexa" creationdate="20250404T184923Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Uai sô, bora conferir<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134604Z" creationid="alexa" creationdate="20250404T184923Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Confira agora!<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -2287,8 +2287,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoByteSized<ept i="1">&lt;/g1&gt;</ept> - Split Screen</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T191022Z" creationid="alexa" creationdate="20250404T191022Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoByteSized<ept i="1">&lt;/g1&gt;</ept> - Tela Dividida</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T135148Z" creationid="alexa" creationdate="20250404T191022Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoByteSized<ept i="1">&lt;/g1&gt;</ept> - Tela dividida</seg>
       </tuv>
     </tu>
     <tu>
@@ -2755,8 +2755,8 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       <tuv xml:lang="en">
         <seg>Best Practices</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221421Z" creationid="alexa" creationdate="20250404T221421Z">
-        <seg>Boas Práticas</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140709Z" creationid="alexa" creationdate="20250404T221421Z">
+        <seg>Boas práticas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2891,8 +2891,8 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       <tuv xml:lang="en">
         <seg>Core Team</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T095213Z" creationid="alexa" creationdate="20250405T095213Z">
-        <seg>Equipe Principal</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140915Z" creationid="alexa" creationdate="20250405T095213Z">
+        <seg>Equipe principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -2907,8 +2907,8 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       <tuv xml:lang="en">
         <seg>Create a new file in the <bpt i="1" x="1">&lt;g1&gt;</bpt>manual<ept i="1">&lt;/g1&gt;</ept> folder, in the already existing folders (e.g. animation, audio, ..) or create a new folder in the <bpt i="2" x="2">&lt;g2&gt;</bpt>manual<ept i="2">&lt;/g2&gt;</ept> folder.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105145Z" creationid="alexa" creationdate="20250405T105145Z">
-        <seg>Crie um novo arquivo na pasta manual, em uma das pastas já existentes (por exemplo, animation, audio, etc.) ou crie uma nova pasta dentro da pasta manual.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T141325Z" creationid="alexa" creationdate="20250405T105145Z">
+        <seg>Crie um novo arquivo na pasta <bpt i="1" x="1">&lt;g1&gt;</bpt>manual<ept i="1">&lt;/g1&gt;</ept>, em uma das pastas já existentes (por exemplo, animation, audio, etc.) ou crie uma nova pasta dentro da pasta <bpt i="2" x="2">&lt;g2&gt;</bpt>manual<ept i="2">&lt;/g2&gt;</ept>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2979,8 +2979,8 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       <tuv xml:lang="en">
         <seg>Detailed Steps</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T220958Z" creationid="alexa" creationdate="20250404T220958Z">
-        <seg>Passos Detalhados</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140427Z" creationid="alexa" creationdate="20250404T220958Z">
+        <seg>Passos detalhados</seg>
       </tuv>
     </tu>
     <tu>
@@ -3179,8 +3179,8 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       <tuv xml:lang="en">
         <seg>Feel free to browse the API documentation by namespace, and don't hesitate to consult the <bpt i="1" x="1">&lt;g1&gt;</bpt>Stride community<ept i="1">&lt;/g1&gt;</ept> or <bpt i="2" x="2">&lt;g2&gt;</bpt>GitHub repository<ept i="2">&lt;/g2&gt;</ept> for further assistance and resources.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T173946Z" creationid="alexa" creationdate="20250404T173946Z">
-        <seg>Sinta-se à vontade para navegar na documentação da API utilizando os namespaces, e não hesite em consultar a <bpt i="1" x="1">&lt;g1&gt;</bpt>comunidade do Stride<ept i="1">&lt;/g1&gt;</ept> ou <bpt i="2" x="2">&lt;g2&gt;</bpt>o repositório GitHub<ept i="2">&lt;/g2&gt;</ept> para uma maior assistência e recursos adicionais.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T124858Z" creationid="alexa" creationdate="20250404T173946Z">
+        <seg>Sinta-se à vontade para navegar na documentação da API utilizando os namespaces, e não hesite em consultar a <bpt i="1" x="1">&lt;g1&gt;</bpt>comunidade do Stride<ept i="1">&lt;/g1&gt;</ept> ou o <bpt i="2" x="2">&lt;g2&gt;</bpt>repositório GitHub<ept i="2">&lt;/g2&gt;</ept> para uma maior assistência e recursos adicionais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3221,8 +3221,8 @@ ou outro prefixo apropriado.</seg>
       <tuv xml:lang="en">
         <seg>For a suggested workflow on contributing to Stride, please check our <bpt i="1" x="1">&lt;g1&gt;</bpt>Contribution Workflow<ept i="1">&lt;/g1&gt;</ept>.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T214111Z" creationid="alexa" creationdate="20250404T213925Z">
-        <seg>Para entender melhor como contribuir com o Stride, consulte o nosso <bpt i="1" x="1">&lt;g1&gt;</bpt>Fluxo de Contribuição<ept i="1">&lt;/g1&gt;</ept>.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T135858Z" creationid="alexa" creationdate="20250404T213925Z">
+        <seg>Para entender melhor como contribuir com o Stride, consulte o nosso <bpt i="1" x="1">&lt;g1&gt;</bpt>fluxo de contribuição<ept i="1">&lt;/g1&gt;</ept>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3377,8 +3377,8 @@ ou qualquer outra categoria que o mantenedor julgar adequada.</seg>
       <tuv xml:lang="en">
         <seg>GitHub Pull Request Guidelines</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T213706Z" creationid="alexa" creationdate="20250404T213706Z">
-        <seg>Diretrizes para realizar Pull Requests no GitHub</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T135838Z" creationid="alexa" creationdate="20250404T213706Z">
+        <seg>Diretrizes para realizar pull requests no GitHub</seg>
       </tuv>
     </tu>
     <tu>
@@ -3393,8 +3393,8 @@ ou qualquer outra categoria que o mantenedor julgar adequada.</seg>
       <tuv xml:lang="en">
         <seg>Groundbreaking stuff and H2O related topics.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184423Z" creationid="alexa" creationdate="20250404T184423Z">
-        <seg>Coisas inovadoras e tópicos relacionados à água.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134429Z" creationid="alexa" creationdate="20250404T184423Z">
+        <seg>Por terra ou pela água, este é o lugar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3450,8 +3450,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>If you are new to scripting, we recommend first exploring the <bpt i="1" x="1">&lt;g1&gt;</bpt>Scripting<ept i="1">&lt;/g1&gt;</ept> pages in the manual, where you'll find an introduction to scripting, as well as essential concepts.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T173737Z" creationid="alexa" creationdate="20250404T173737Z">
-        <seg>Se programação de scripts é algo novo para você, recomendamos que primeiro explore as páginas de<bpt i="1" x="1">&lt;g1&gt;</bpt>Programação de Scripts<ept i="1">&lt;/g1&gt;</ept> no manual, onde você encontrará uma introdução ao tema, bem como seus conceitos essenciais.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T124823Z" creationid="alexa" creationdate="20250404T173737Z">
+        <seg>Se programação de scripts é algo novo para você, recomendamos que primeiro explore as páginas de <bpt i="1" x="1">&lt;g1&gt;</bpt>programação de scripts<ept i="1">&lt;/g1&gt;</ept> no manual, onde você encontrará uma introdução ao tema, bem como seus conceitos essenciais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3474,8 +3474,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>If you created a new folder, make sue that you create also <bpt i="1" x="1">&lt;g1&gt;</bpt>index.md<ept i="1">&lt;/g1&gt;</ept> file in this folder.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105156Z" creationid="alexa" creationdate="20250405T105156Z">
-        <seg>Se você criou uma nova pasta, certifique-se também de criar um arquivo index.md dentro dela.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T141340Z" creationid="alexa" creationdate="20250405T105156Z">
+        <seg>Se você criou uma nova pasta, certifique-se também de criar um arquivo <bpt i="1" x="1">&lt;g1&gt;</bpt>index.md<ept i="1">&lt;/g1&gt;</ept> dentro dela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3514,8 +3514,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>In addition to the Scripting pages, you may also find our <bpt i="1" x="1">&lt;g1&gt;</bpt>manual<ept i="1">&lt;/g1&gt;</ept> helpful in deepening your understanding of Stride and its features.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T173830Z" creationid="alexa" creationdate="20250404T173830Z">
-        <seg>Além das páginas de Programação de Scripts, você também encontrará nosso<bpt i="1" x="1">&lt;g1&gt;</bpt>manual<ept i="1">&lt;/g1&gt;</ept>, que lhe ajudará a aprofundar a compreensão do Stride e de suas funcionalidades.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T124833Z" creationid="alexa" creationdate="20250404T173830Z">
+        <seg>Além das páginas de Programação de Scripts, você também encontrará nosso <bpt i="1" x="1">&lt;g1&gt;</bpt>manual<ept i="1">&lt;/g1&gt;</ept>, que lhe ajudará a aprofundar a compreensão do Stride e de suas funcionalidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3650,8 +3650,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Labelling</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T215025Z" creationid="alexa" creationdate="20250404T215025Z">
-        <seg>Rotulando</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140031Z" creationid="alexa" creationdate="20250404T215025Z">
+        <seg>Rotulação</seg>
       </tuv>
     </tu>
     <tu>
@@ -3738,8 +3738,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Merging Pull Requests</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T214742Z" creationid="alexa" creationdate="20250404T214742Z">
-        <seg>Mesclando Pull Requests</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T135947Z" creationid="alexa" creationdate="20250404T214742Z">
+        <seg>Mesclando pull requests</seg>
       </tuv>
     </tu>
     <tu>
@@ -3962,24 +3962,24 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Overview</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T220520Z" creationid="alexa" creationdate="20250404T220520Z">
-        <seg>Visão Geral</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140245Z" creationid="alexa" creationdate="20250404T220520Z">
+        <seg>Visão geral</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg>O{Additional Contributions?}</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T223624Z" creationid="alexa" creationdate="20250404T220846Z">
-        <seg>O{Deseja contribuir Mais?}</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140420Z" creationid="alexa" creationdate="20250404T220846Z">
+        <seg>O{Gostaria contribuir mais?}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg>PRs with other labels or those that are unlabelled will automatically fall under the <bpt i="1" x="1">&lt;g1&gt;</bpt>Other Changes<ept i="1">&lt;/g1&gt;</ept> category.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T121731Z" creationid="alexa" creationdate="20250404T215446Z">
-        <seg>PRs com outros rótulos ou sem rótulos serão automaticamente incluídos na categoria <bpt i="1" x="1">&lt;g1&gt;</bpt>Outras alterações<ept i="1">&lt;/g1&gt;</ept>.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140131Z" creationid="alexa" creationdate="20250404T215446Z">
+        <seg>PRs com outros rótulos ou sem rótulos serão automaticamente incluídos na categoria <bpt i="1" x="1">&lt;g1&gt;</bpt>Other Changes<ept i="1">&lt;/g1&gt;</ept>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4155,8 +4155,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Shaders</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T192831Z" creationid="alexa" creationdate="20250404T192831Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Shader Multi-Malha<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140946Z" creationid="alexa" creationdate="20250404T192831Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Shader multi-malha<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -4187,8 +4187,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Small updates can be done directly in the GitHub web interface, for bigger updates the local development environment is required, which is described in the <bpt i="1" x="1">&lt;g1&gt;</bpt>Installation<ept i="1">&lt;/g1&gt;</ept> section.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104059Z" creationid="alexa" creationdate="20250405T104059Z">
-        <seg>Pequenas atualizações podem ser feitas diretamente pela interface web do GitHub. Já para atualizações maiores, é necessário configurar um ambiente de desenvolvimento local, conforme descrito na seção <bpt i="1" x="1">&lt;g1&gt;</bpt>Instalação<ept i="1">&lt;/g1&gt;</ept>.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T141112Z" creationid="alexa" creationdate="20250405T104059Z">
+        <seg>Pequenas atualizações podem ser feitas diretamente pela interface web do GitHub. Já para atualizações maiores, é necessário configurar um ambiente de desenvolvimento local, conforme descrito na seção <bpt i="1" x="1">&lt;g1&gt;</bpt>Instalação local<ept i="1">&lt;/g1&gt;</ept>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4227,8 +4227,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Start by setting up your local development environment, as described in the <bpt i="1" x="1">&lt;g1&gt;</bpt>Installation<ept i="1">&lt;/g1&gt;</ept> section.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104648Z" creationid="alexa" creationdate="20250405T104648Z">
-        <seg>Comece configurando seu ambiente de desenvolvimento local, conforme descrito na seção <bpt i="1" x="1">&lt;g1&gt;</bpt>Instalação<ept i="1">&lt;/g1&gt;</ept>.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T141153Z" creationid="alexa" creationdate="20250405T104648Z">
+        <seg>Comece configurando seu ambiente de desenvolvimento local, conforme descrito na seção <bpt i="1" x="1">&lt;g1&gt;</bpt>Instalação local<ept i="1">&lt;/g1&gt;</ept>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4363,8 +4363,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>The <bpt i="4" x="4">&lt;g4&gt;</bpt>toc.yml<ept i="4">&lt;/g4&gt;</ept> file contains the table of contents for the manual pages, which is displayed on the left side of the manual pages.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105237Z" creationid="alexa" creationdate="20250405T105237Z">
-        <seg>O arquivo toc.yml contém o índice das páginas do manual, que é exibido no lado esquerdo das páginas do manual.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T141444Z" creationid="alexa" creationdate="20250405T105237Z">
+        <seg>O arquivo <bpt i="4" x="4">&lt;g4&gt;</bpt>toc.yml<ept i="4">&lt;/g4&gt;</ept> contém o índice das páginas do manual, que é exibido no lado esquerdo das páginas do manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4451,8 +4451,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>The template is structured to cover:</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T214501Z" creationid="alexa" creationdate="20250404T214501Z">
-        <seg>Estrutura do modelo de Pull Request:</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T135924Z" creationid="alexa" creationdate="20250404T214501Z">
+        <seg>Estrutura do modelo de pull request:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4715,16 +4715,16 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>This workflow is applicable to contributions to the Stride engine, Stride website, and Stride documentation.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T220556Z" creationid="alexa" creationdate="20250404T220556Z">
-        <seg>Esse fluxo é aplicável às contribuições para o motor Stride, o site do Stride e a documentação do Stride.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140332Z" creationid="alexa" creationdate="20250404T220556Z">
+        <seg>Esse fluxo é aplicável às contribuições para o motor de jogos, o site e a documentação do Stride.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg>Title Prefixing</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T214748Z" creationid="alexa" creationdate="20250404T214748Z">
-        <seg>Prefixos no Título</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T135955Z" creationid="alexa" creationdate="20250404T214748Z">
+        <seg>Prefixos no título</seg>
       </tuv>
     </tu>
     <tu>
@@ -4803,8 +4803,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Update <bpt i="1" x="1">&lt;g1&gt;</bpt>toc.yml<ept i="1">&lt;/g1&gt;</ept> (or <bpt i="2" x="2">&lt;g2&gt;</bpt>toc.md<ept i="2">&lt;/g2&gt;</ept>) file in the <bpt i="3" x="3">&lt;g3&gt;</bpt>manual<ept i="3">&lt;/g3&gt;</ept> folder to include the new page or folder.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105224Z" creationid="alexa" creationdate="20250405T105224Z">
-        <seg>Atualize o arquivo toc.yml (ou toc.md) dentro da pasta manual para incluir a nova página ou pasta.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T141433Z" creationid="alexa" creationdate="20250405T105224Z">
+        <seg>Atualize o arquivo <bpt i="1" x="1">&lt;g1&gt;</bpt>toc.yml<ept i="1">&lt;/g1&gt;</ept> (ou <bpt i="2" x="2">&lt;g2&gt;</bpt>toc.md<ept i="2">&lt;/g2&gt;</ept>) dentro da pasta <bpt i="3" x="3">&lt;g3&gt;</bpt>manual<ept i="3">&lt;/g3&gt;</ept> para incluir a nova página ou pasta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4835,8 +4835,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Updating the Manual</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T092321Z" creationid="alexa" creationdate="20250405T092321Z">
-        <seg>Atualizando o Manual</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140848Z" creationid="alexa" creationdate="20250405T092321Z">
+        <seg>Atualizando o manual</seg>
       </tuv>
     </tu>
     <tu>
@@ -4875,7 +4875,7 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Visual Programming</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T121016Z" creationid="alexa" creationdate="20250404T213355Z">
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T135729Z" creationid="alexa" creationdate="20250404T213355Z">
         <seg>Programação visual</seg>
       </tuv>
     </tu>
@@ -5019,8 +5019,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>You can observe that existing folders might have a <bpt i="1" x="1">&lt;g1&gt;</bpt>media<ept i="1">&lt;/g1&gt;</ept> folder.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105355Z" creationid="alexa" creationdate="20250405T105321Z">
-        <seg>Observe que algumas pastas existentes possuem uma pasta media.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T141510Z" creationid="alexa" creationdate="20250405T105321Z">
+        <seg>Observe que algumas pastas existentes possuem uma pasta <bpt i="1" x="1">&lt;g1&gt;</bpt>media<ept i="1">&lt;/g1&gt;</ept>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5141,8 +5141,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>⚙️ Example projects</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184203Z" creationid="alexa" creationdate="20250404T184203Z">
-        <seg>⚙ Exemplos de Projetos</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134055Z" creationid="alexa" creationdate="20250404T184203Z">
+        <seg>⚙ Exemplos de projetos</seg>
       </tuv>
     </tu>
     <tu>
@@ -5157,16 +5157,16 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>⛰️ Terrain and Water</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184406Z" creationid="alexa" creationdate="20250404T184406Z">
-        <seg>⛰️ Terreno e Água</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134230Z" creationid="alexa" creationdate="20250404T184406Z">
+        <seg>⛰️ Terreno e água</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg>⨺ Models and Animations</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184335Z" creationid="alexa" creationdate="20250404T184335Z">
-        <seg>⨺ Modelos e Animações</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134205Z" creationid="alexa" creationdate="20250404T184335Z">
+        <seg>⨺ Modelos e animações</seg>
       </tuv>
     </tu>
     <tu>
@@ -5189,16 +5189,16 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>🎉 New Features</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T220011Z" creationid="alexa" creationdate="20250404T215825Z">
-        <seg>🎉 Novas Funcionalidades</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140200Z" creationid="alexa" creationdate="20250404T215825Z">
+        <seg>🎉 Novas funcionalidades</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg>🎓 Tutorials and Articles</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184249Z" creationid="alexa" creationdate="20250404T184249Z">
-        <seg>🎓 Tutoriais e Artigos</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134149Z" creationid="alexa" creationdate="20250404T184249Z">
+        <seg>🎓 Tutoriais e artigos</seg>
       </tuv>
     </tu>
     <tu>
@@ -5213,8 +5213,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>🐞 Bug Fixes</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T220019Z" creationid="alexa" creationdate="20250404T215832Z">
-        <seg>🐞 Correções de Bugs</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140205Z" creationid="alexa" creationdate="20250404T215832Z">
+        <seg>🐞 Correções de bugs</seg>
       </tuv>
     </tu>
     <tu>
@@ -5237,8 +5237,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>💥 Breaking Changes</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T215958Z" creationid="alexa" creationdate="20250404T215811Z">
-        <seg>💥 Quebras de Compatibilidade</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T140155Z" creationid="alexa" creationdate="20250404T215811Z">
+        <seg>💥 Quebras de compatibilidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -5277,8 +5277,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>🪟 UI</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120712Z" creationid="alexa" creationdate="20250404T211748Z">
-        <seg>🪟 Interface do usuário</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T134545Z" creationid="alexa" creationdate="20250404T211748Z">
+        <seg>🪟 Interface de usuário</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

@@ -9,4 +9,4 @@ wireframe	aramado	Used Blender translation
 Motion blur	Motion blur
 Coding Sea	Coding Sea	Youtube channel
 pull request	pull request
-Pull Request	Pull Request
+Pull Request	pull request

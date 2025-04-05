@@ -4,7 +4,7 @@
 
 Se você deseja contribuir e atualizar o site, siga as instruções abaixo.
 
-Pequenas atualizações podem ser feitas diretamente pela interface web do GitHub. Já para atualizações maiores, é necessário configurar um ambiente de desenvolvimento local, conforme descrito na seção [Instalação](installation.md).
+Pequenas atualizações podem ser feitas diretamente pela interface web do GitHub. Já para atualizações maiores, é necessário configurar um ambiente de desenvolvimento local, conforme descrito na seção [Instalação local](installation.md).
 
 Você pode usar qualquer editor de texto para fazer modificações. If you are using **Visual Studio**, you can open `Stride.Web.sln` solution file in the root of the repository and start making your updates directly from this IDE.
 
@@ -45,7 +45,7 @@ Atualizações maiores envolvem mudanças estruturais no site, onde é útil vis
 - Modificações em layouts
 - Reformulação de elementos visuais
 
-Comece configurando seu ambiente de desenvolvimento local, conforme descrito na seção [Instalação](installation.md). Após realizar e testar suas mudanças localmente, envie um pull request para mesclá-las na branch `master`.
+Comece configurando seu ambiente de desenvolvimento local, conforme descrito na seção [Instalação local](installation.md). Após realizar e testar suas mudanças localmente, envie um pull request para mesclá-las na branch `master`.
 
 Ao enviar um pull request, especialmente para mudanças grandes, recomenda-se incluir **capturas de tela** ou um link para a versão local do site. Essa abordagem ajuda os mantenedores a visualizar e avaliar suas alterações propostas de forma mais eficaz. Caso prefira usar a infraestrutura do GitHub para isso, consulte nosso [guia de implantação no GitHub Pages](deployment-azure.md#deployment-to-github-pages).
 

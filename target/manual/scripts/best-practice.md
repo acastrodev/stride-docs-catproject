@@ -1,4 +1,4 @@
-# Boas Práticas
+# Boas práticas
 
 Tips to build a robust and maintainable codebase for your Stride project.
 

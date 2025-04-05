@@ -14,7 +14,7 @@ You can then bind the effect as [pipeline state](../low-level-api/pipeline-state
 
 An effect also often defines a set of parameters. To set these, you need to [bind resources](../low-level-api/resources.md) before drawing.
 
-## <g1>Shader Multi-Malha</g1>
+## <g1>Shader multi-malha</g1>
 
 Shaders are authored in the [Stride's shading language](shading-language/index.md), which is an extension of `HLSL`. They provide true composition of modular shaders via [inheritance](shading-language/shader-classes-mixins-and-inheritance.md), shader [mixins](shading-language/composition.md) and [automatic weaving of shader in-out attributes](shading-language/automatic-shader-stage-input-output.md).
 

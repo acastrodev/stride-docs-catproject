@@ -1,9 +1,9 @@
-# <g1>Shader Multi-Malha</g1>
+# <g1>Shader multi-malha</g1>
 
 - [Geração de malha simples e marching cube a partir de computeShader](https://github.com/Nicogo1705/Stride-Generate-Mesh-from-ComputeShader)
 - [Shader de vidro](https://github.com/stride3d/stride/discussions/1011)
-- [ComputeShader de marching cubes](https://github.com/Nicogo1705/Stride-Generate-Simple-Mesh-And-Marching-Cube-From-ComputeShader)
-- [Stride.ShaderExplorer: mostra os shaders integrados do Stride](https://github.com/tebjan/Stride.ShaderExplorer)
+- [ComputeShader e marching cubes](https://github.com/Nicogo1705/Stride-Generate-Simple-Mesh-And-Marching-Cube-From-ComputeShader)
+- [Stride.ShaderExplorer: Visualize os shaders integrados do Stride](https://github.com/tebjan/Stride.ShaderExplorer)
 - [Stride-Awesome-Shaders: Um repositório para shaders interessantes que podem ser utilizados no Stride](https://github.com/ykafia/Stride-Awesome-Shaders)
 - [StrideMeshOutlineRenderFeature: Recurso de renderização de contorno de malha para o Stride](https://github.com/herocrab/StrideMeshOutlineRenderFeature)
 - [StrideWireframeShader: shader aramado de passe único para o Stride](https://github.com/jeske/StrideWireframeShader)

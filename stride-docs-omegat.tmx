@@ -118,16 +118,16 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Additional Contributions?&lt;/g1&gt;: Consider whether you want to make further contributions.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221347Z" creationid="alexa" creationdate="20250404T221347Z">
-        <seg>&lt;g1&gt;Deseja Contribuir Mais?&lt;/g1&gt;: Avalie se deseja fazer novas contribuições.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140659Z" creationid="alexa" creationdate="20250404T221347Z">
+        <seg>&lt;g1&gt;Gostaria de contribuir mais?&lt;/g1&gt;: Avalie se deseja fazer novas contribuições.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g1&gt;Address PR Feedback&lt;/g1&gt;: If maintainers or other contributors have feedback, make the necessary adjustments to your PR.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221243Z" creationid="alexa" creationdate="20250404T221243Z">
-        <seg>&lt;g1&gt;Responda ao Feedback do PR&lt;/g1&gt;: Caso receba sugestões ou observações dos mantenedores ou de outros colaboradores, ajuste seu PR conforme necessário.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140554Z" creationid="alexa" creationdate="20250404T221243Z">
+        <seg>&lt;g1&gt;Responda ao feedback do PR&lt;/g1&gt;: Caso receba sugestões ou observações dos mantenedores ou de outros colaboradores, ajuste seu PR conforme necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,8 +286,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Bump in to some useful code&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184626Z" creationid="alexa" creationdate="20250404T184626Z">
-        <seg>&lt;g1&gt;Encontre aquele código útil&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134731Z" creationid="alexa" creationdate="20250404T184626Z">
+        <seg>&lt;g1&gt;Encontre aquele código útil que estava procurando!&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,16 +414,16 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Create a Branch 'X'&lt;/g1&gt;: Create a new branch in your forked repository, naming it appropriately for the changes you plan to implement.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221019Z" creationid="alexa" creationdate="20250404T221019Z">
-        <seg>&lt;g1&gt;Crie um Branch 'X'&lt;/g1&gt;: No seu fork, crie um novo branch, nomeando-o de forma apropriada para refletir as alterações que pretende fazer.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140438Z" creationid="alexa" creationdate="20250404T221019Z">
+        <seg>&lt;g1&gt;Crie um branch 'X'&lt;/g1&gt;: No seu fork, crie um novo branch, nomeando-o de forma apropriada para refletir as alterações que pretende fazer.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g1&gt;Create a Pull Request (PR)&lt;/g1&gt;: Once satisfied with your changes and testing, &lt;g2&gt;submit a pull request&lt;/g2&gt; to the original repository for review.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221203Z" creationid="alexa" creationdate="20250404T221203Z">
-        <seg>&lt;g1&gt;Crie um Pull Request (PR)&lt;/g1&gt;: Quando estiver satisfeito com suas alterações e os testes, &lt;g2&gt;submeta um pull request&lt;/g2&gt; para o repositório original.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140541Z" creationid="alexa" creationdate="20250404T221203Z">
+        <seg>&lt;g1&gt;Crie um pull request (PR)&lt;/g1&gt;: Quando estiver satisfeito com suas alterações e os testes, &lt;g2&gt;submeta um pull request&lt;/g2&gt; para o repositório original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,8 +534,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Descriptive Information:&lt;/g1&gt; Comments should clearly describe the purpose, parameters, return values, and any exceptions thrown by the method or property.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091559Z" creationid="alexa" creationdate="20250405T091559Z">
-        <seg>&lt;g1&gt;Informações Descritivas:&lt;/g1&gt; Os comentários devem descrever claramente o propósito, os parâmetros, os valores de retorno e quaisquer exceções lançadas pelo método ou propriedade.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140803Z" creationid="alexa" creationdate="20250405T091559Z">
+        <seg>&lt;g1&gt;Informações descritivas:&lt;/g1&gt; Os comentários devem descrever claramente o propósito, os parâmetros, os valores de retorno e quaisquer exceções lançadas pelo método ou propriedade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,16 +662,16 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Explore games and demos&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184143Z" creationid="alexa" creationdate="20250404T184143Z">
-        <seg>&lt;g1&gt;Explore jogos e demos&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134635Z" creationid="alexa" creationdate="20250404T184143Z">
+        <seg>&lt;g1&gt;Explore jogos e demos!&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g1&gt;Explore tutorials and articles&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184323Z" creationid="alexa" creationdate="20250404T184323Z">
-        <seg>&lt;g1&gt;Explore os tutoriais e artigos&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134651Z" creationid="alexa" creationdate="20250404T184323Z">
+        <seg>&lt;g1&gt;Explore os tutoriais e artigos!&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,8 +718,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Fork the Repository&lt;/g1&gt;: Begin by forking the repository of the project you're interested in contributing to.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221007Z" creationid="alexa" creationdate="20250404T221007Z">
-        <seg>&lt;g1&gt;Faça um Fork do Repositório&lt;/g1&gt;: Comece fazendo um fork do repositório do projeto com o qual deseja contribuir.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140434Z" creationid="alexa" creationdate="20250404T221007Z">
+        <seg>&lt;g1&gt;Faça um fork do repositório&lt;/g1&gt;: Comece fazendo um fork do repositório do projeto com o qual deseja contribuir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,8 +750,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Generic categories:&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215220Z" creationid="alexa" creationdate="20250404T215220Z">
-        <seg>&lt;g1&gt;Categorias Genéricas:&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140050Z" creationid="alexa" creationdate="20250404T215220Z">
+        <seg>&lt;g1&gt;Categorias genéricas:&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,8 +766,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Get your feet wet&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T112907Z" creationid="alexa" creationdate="20250404T184442Z">
-        <seg>&lt;g1&gt;Dê uma molhada!&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134718Z" creationid="alexa" creationdate="20250404T184442Z">
+        <seg>&lt;g1&gt;É hora de molhar os seus pés!&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,8 +806,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Have a look&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184356Z" creationid="alexa" creationdate="20250404T184356Z">
-        <seg>&lt;g1&gt;Dê uma olhada&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134655Z" creationid="alexa" creationdate="20250404T184356Z">
+        <seg>&lt;g1&gt;Dê uma olhada!&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,8 +878,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Import some knowledge&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185235Z" creationid="alexa" creationdate="20250404T185235Z">
-        <seg>&lt;g1&gt;Importe um pouco de conhecimento&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134750Z" creationid="alexa" creationdate="20250404T185235Z">
+        <seg>&lt;g1&gt;Importe um pouco de conhecimento!&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,8 +918,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Key Points for API Documentation:&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091444Z" creationid="alexa" creationdate="20250405T091444Z">
-        <seg>&lt;g1&gt;Pontos-Chave para a Documentação da API:&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140751Z" creationid="alexa" creationdate="20250405T091444Z">
+        <seg>&lt;g1&gt;Pontos-chave da documentação da API:&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,8 +982,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;LoadObjTest&lt;/g1&gt; - Runtime load an asset from a filesystem WavefrontOBJ file in code.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T210959Z" creationid="alexa" creationdate="20250404T210959Z">
-        <seg>&lt;g1&gt;LoadObjTest&lt;/g1&gt; - Carrega em tempo de execução um asset de um arquivo WavefrontOBJ do sistema de arquivos no código.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T135535Z" creationid="alexa" creationdate="20250404T210959Z">
+        <seg>&lt;g1&gt;LoadObjTest&lt;/g1&gt; - Carrega em tempo de execução um asset de um arquivo Wavefront OBJ do sistema de arquivos no código.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,16 +1030,16 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Maintainers Review&lt;/g1&gt;: The project maintainers will review your PR.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221221Z" creationid="alexa" creationdate="20250404T221221Z">
-        <seg>&lt;g1&gt;Revisão dos Mantenedores&lt;/g1&gt;: Os mantenedores do projeto irão revisar seu PR.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140546Z" creationid="alexa" creationdate="20250404T221221Z">
+        <seg>&lt;g1&gt;Revisão dos mantenedores&lt;/g1&gt;: Os mantenedores do projeto irão revisar seu PR.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g1&gt;Make Updates on Branch 'X'&lt;/g1&gt;: Implement your changes within this new branch.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221057Z" creationid="alexa" creationdate="20250404T221029Z">
-        <seg>&lt;g1&gt;Realize as Alterações no Branch 'X'&lt;/g1&gt;: Implemente suas mudanças neste novo branch.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140450Z" creationid="alexa" creationdate="20250404T221029Z">
+        <seg>&lt;g1&gt;Realize as alterações no branch 'X'&lt;/g1&gt;: Implemente suas mudanças neste novo branch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,8 +1054,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Marching Cubes ComputeShader&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T114533Z" creationid="alexa" creationdate="20250404T192943Z">
-        <seg>&lt;g1&gt;ComputeShader de marching cubes&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T135317Z" creationid="alexa" creationdate="20250404T192943Z">
+        <seg>&lt;g1&gt;ComputeShader e marching cubes&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,8 +1206,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Pathfinding With Entity Processors&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180128Z" creationid="alexa" creationdate="20250404T180128Z">
-        <seg>&lt;g1&gt;Pathfinding com Processadores de Entidade&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T125149Z" creationid="alexa" creationdate="20250404T180128Z">
+        <seg>&lt;g1&gt;Pathfinding com processadores de entidade&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,8 +1230,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Plug in and play&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185429Z" creationid="alexa" creationdate="20250404T185429Z">
-        <seg>&lt;g1&gt;Conectar e usar&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134811Z" creationid="alexa" creationdate="20250404T185429Z">
+        <seg>&lt;g1&gt;É só conectar e usar!&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1294,8 +1294,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Revise and Update PR as Necessary&lt;/g1&gt;: Continue to refine and update your PR based on ongoing feedback until it meets the project's standards for merging.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221257Z" creationid="alexa" creationdate="20250404T221257Z">
-        <seg>&lt;g1&gt;Revise e Atualize o PR se Necessário&lt;/g1&gt;: Continue ajustando seu PR até que ele atenda aos padrões do projeto e esteja pronto para ser mesclado.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140601Z" creationid="alexa" creationdate="20250404T221257Z">
+        <seg>&lt;g1&gt;Revise e atualize o PR se necessário&lt;/g1&gt;: Continue ajustando seu PR até que ele atenda aos padrões do projeto e esteja pronto para ser mesclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,8 +1318,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Run Stride Gamestudio with only Nuget!&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211217Z" creationid="alexa" creationdate="20250404T211217Z">
-        <seg>&lt;g1&gt;Execute o Stride Gamestudio apenas com Nuget!&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T135606Z" creationid="alexa" creationdate="20250404T211217Z">
+        <seg>&lt;g1&gt;Execute o Stride Game Studio apenas com Nuget!&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1478,8 +1478,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Start connecting the dots&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184956Z" creationid="alexa" creationdate="20250404T184956Z">
-        <seg>&lt;g1&gt;Comece a ligar os pontos&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134622Z" creationid="alexa" creationdate="20250404T184956Z">
+        <seg>&lt;g1&gt;Ligando os pontos!&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,16 +1678,16 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Stride-npc: A basic example of a Finite State Machine&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180024Z" creationid="alexa" creationdate="20250404T180024Z">
-        <seg>&lt;g1&gt;Stride-npc: Exemplo básico de uma Máquina de Estados Finitos&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T125107Z" creationid="alexa" creationdate="20250404T180024Z">
+        <seg>&lt;g1&gt;Stride-npc: Exemplo básico de uma máquina de estados finitos&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g1&gt;Stride-specific categories:&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215259Z" creationid="alexa" creationdate="20250404T215259Z">
-        <seg>&lt;g1&gt;Categorias Específicas do Stride:&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140104Z" creationid="alexa" creationdate="20250404T215259Z">
+        <seg>&lt;g1&gt;Categorias específicas do Stride:&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1702,8 +1702,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Stride.ShaderExplorer: shows the built-in shaders of the Stride&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T192955Z" creationid="alexa" creationdate="20250404T192955Z">
-        <seg>&lt;g1&gt;Stride.ShaderExplorer: mostra os shaders integrados do Stride&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T135346Z" creationid="alexa" creationdate="20250404T192955Z">
+        <seg>&lt;g1&gt;Stride.ShaderExplorer: Visualize os shaders integrados do Stride&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1718,8 +1718,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Stride3dSplitScreen&lt;/g1&gt; - Another Split Screen</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T191029Z" creationid="alexa" creationdate="20250404T191029Z">
-        <seg>&lt;g1&gt;Stride3dSplitScreen&lt;/g1&gt; - Outra Tela Dividida</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T135154Z" creationid="alexa" creationdate="20250404T191029Z">
+        <seg>&lt;g1&gt;Stride3dSplitScreen&lt;/g1&gt; - Outra tela dividida</seg>
       </tuv>
     </tu>
     <tu>
@@ -1847,32 +1847,32 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Svelto Turret example&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175728Z" creationid="alexa" creationdate="20250404T175654Z">
-        <seg>&lt;g1&gt;Exemplo de Torretas com Svelto&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T125054Z" creationid="alexa" creationdate="20250404T175654Z">
+        <seg>&lt;g1&gt;Exemplo de torretas com Svelto&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g1&gt;Sync/Merge Forked Main Branch with Branch 'X'&lt;/g1&gt;: Ensure your working branch 'X' is also updated with any new changes from the main branch of your fork.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221127Z" creationid="alexa" creationdate="20250404T221127Z">
-        <seg>&lt;g1&gt;Sincronize/Mescle o branch main do Fork com o Branch 'X'&lt;/g1&gt;: Mantenha também seu branch de trabalho atualizado com as alterações mais recentes do seu branch principal.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140525Z" creationid="alexa" creationdate="20250404T221127Z">
+        <seg>&lt;g1&gt;Sincronize/Mescle o branch main do fork com o branch 'X'&lt;/g1&gt;: Mantenha também seu branch de trabalho atualizado com as alterações mais recentes do seu branch principal.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g1&gt;Sync/Merge Upstream with Forked Main Branch&lt;/g1&gt;: If the upstream has changed, update your forked repository's main branch to reflect the latest changes from the original project.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221121Z" creationid="alexa" creationdate="20250404T221121Z">
-        <seg>&lt;g1&gt;Sincronize/Mescle o Repositório Original com o seu Fork (branch main)&lt;/g1&gt;: Caso existam atualizações, aplique-as ao seu fork para mantê-lo atualizado com o projeto original.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140515Z" creationid="alexa" creationdate="20250404T221121Z">
+        <seg>&lt;g1&gt;Sincronize/Mescle o repositório original com o seu fork (branch main)&lt;/g1&gt;: Caso existam atualizações, aplique-as ao seu fork para mantê-lo atualizado com o projeto original.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g1&gt;Sync/Merge Upstream with Your Forked Main Branch&lt;/g1&gt;: Post-merge, ensure your forked repository's main branch is updated to include your newly merged changes.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221326Z" creationid="alexa" creationdate="20250404T221326Z">
-        <seg>&lt;g1&gt;Sincronize/Mescle o Repositório Original com o seu Fork (branch main)&lt;/g1&gt;: Depois da mesclagem, atualize o branch principal do seu fork com as últimas mudanças.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140627Z" creationid="alexa" creationdate="20250404T221326Z">
+        <seg>&lt;g1&gt;Sincronize/Mescle o repositório original com o seu fork (branch main)&lt;/g1&gt;: Depois da mesclagem, atualize o branch principal do seu fork com as últimas mudanças.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1911,8 +1911,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Test Your Updates&lt;/g1&gt;: Thoroughly test your updates to confirm they work as expected and do not introduce new issues.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221149Z" creationid="alexa" creationdate="20250404T221139Z">
-        <seg>&lt;g1&gt;Teste Suas Alterações&lt;/g1&gt;: Teste cuidadosamente suas alterações para garantir que estão funcionando corretamente e que não causam novos problemas.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140533Z" creationid="alexa" creationdate="20250404T221139Z">
+        <seg>&lt;g1&gt;Teste suas alterações&lt;/g1&gt;: Teste cuidadosamente suas alterações para garantir que estão funcionando corretamente e que não causam novos problemas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1943,8 +1943,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Try it out yourself&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184237Z" creationid="alexa" creationdate="20250404T184237Z">
-        <seg>&lt;g1&gt;Experimente!&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134644Z" creationid="alexa" creationdate="20250404T184237Z">
+        <seg>&lt;g1&gt;Experimente agora mesmo!&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1991,8 +1991,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Unleash your inner coder&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T185303Z" creationid="alexa" creationdate="20250404T185303Z">
-        <seg>&lt;g1&gt;Libere o programador que existe em você&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134800Z" creationid="alexa" creationdate="20250404T185303Z">
+        <seg>&lt;g1&gt;Libere o programador que existe em você!&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2031,8 +2031,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Using Entity Processors for Scene Editor Plugins&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180116Z" creationid="alexa" creationdate="20250404T180116Z">
-        <seg>&lt;g1&gt;Usando Processadores de Entidade para Plugins do Editor de Cenas&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T125138Z" creationid="alexa" creationdate="20250404T180116Z">
+        <seg>&lt;g1&gt;Utilizando processadores de entidade para plugins do Editor de Cenas&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2191,16 +2191,16 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;Wait for PR to be Merged by Maintainers&lt;/g1&gt;: After approval, maintainers will merge your PR into the project.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221308Z" creationid="alexa" creationdate="20250404T221308Z">
-        <seg>&lt;g1&gt;Aguarde a Mesclagem do PR pelos Mantenedores&lt;/g1&gt;: Após a aprovação, os mantenedores irão mesclar seu PR no repositório principal.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140608Z" creationid="alexa" creationdate="20250404T221308Z">
+        <seg>&lt;g1&gt;Aguarde a mesclagem do PR pelos mantenedores&lt;/g1&gt;: Após a aprovação, os mantenedores irão mesclar seu PR no repositório principal.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g1&gt;We will tell you why&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184923Z" creationid="alexa" creationdate="20250404T184923Z">
-        <seg>&lt;g1&gt;Uai sô, bora conferir&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134604Z" creationid="alexa" creationdate="20250404T184923Z">
+        <seg>&lt;g1&gt;Confira agora!&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2287,8 +2287,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>&lt;g1&gt;XenkoByteSized&lt;/g1&gt; - Split Screen</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T191022Z" creationid="alexa" creationdate="20250404T191022Z">
-        <seg>&lt;g1&gt;XenkoByteSized&lt;/g1&gt; - Tela Dividida</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T135148Z" creationid="alexa" creationdate="20250404T191022Z">
+        <seg>&lt;g1&gt;XenkoByteSized&lt;/g1&gt; - Tela dividida</seg>
       </tuv>
     </tu>
     <tu>
@@ -2755,8 +2755,8 @@ E, principalmente, confirmar que você &lt;g1&gt;construiu e executou o editor&l
       <tuv lang="en">
         <seg>Best Practices</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221421Z" creationid="alexa" creationdate="20250404T221421Z">
-        <seg>Boas Práticas</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140709Z" creationid="alexa" creationdate="20250404T221421Z">
+        <seg>Boas práticas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2891,8 +2891,8 @@ E, principalmente, confirmar que você &lt;g1&gt;construiu e executou o editor&l
       <tuv lang="en">
         <seg>Core Team</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T095213Z" creationid="alexa" creationdate="20250405T095213Z">
-        <seg>Equipe Principal</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140915Z" creationid="alexa" creationdate="20250405T095213Z">
+        <seg>Equipe principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -2907,8 +2907,8 @@ E, principalmente, confirmar que você &lt;g1&gt;construiu e executou o editor&l
       <tuv lang="en">
         <seg>Create a new file in the &lt;g1&gt;manual&lt;/g1&gt; folder, in the already existing folders (e.g. animation, audio, ..) or create a new folder in the &lt;g2&gt;manual&lt;/g2&gt; folder.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T105145Z" creationid="alexa" creationdate="20250405T105145Z">
-        <seg>Crie um novo arquivo na pasta manual, em uma das pastas já existentes (por exemplo, animation, audio, etc.) ou crie uma nova pasta dentro da pasta manual.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T141325Z" creationid="alexa" creationdate="20250405T105145Z">
+        <seg>Crie um novo arquivo na pasta &lt;g1&gt;manual&lt;/g1&gt;, em uma das pastas já existentes (por exemplo, animation, audio, etc.) ou crie uma nova pasta dentro da pasta &lt;g2&gt;manual&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2979,8 +2979,8 @@ E, principalmente, confirmar que você &lt;g1&gt;construiu e executou o editor&l
       <tuv lang="en">
         <seg>Detailed Steps</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220958Z" creationid="alexa" creationdate="20250404T220958Z">
-        <seg>Passos Detalhados</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140427Z" creationid="alexa" creationdate="20250404T220958Z">
+        <seg>Passos detalhados</seg>
       </tuv>
     </tu>
     <tu>
@@ -3179,8 +3179,8 @@ E, principalmente, confirmar que você &lt;g1&gt;construiu e executou o editor&l
       <tuv lang="en">
         <seg>Feel free to browse the API documentation by namespace, and don't hesitate to consult the &lt;g1&gt;Stride community&lt;/g1&gt; or &lt;g2&gt;GitHub repository&lt;/g2&gt; for further assistance and resources.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173946Z" creationid="alexa" creationdate="20250404T173946Z">
-        <seg>Sinta-se à vontade para navegar na documentação da API utilizando os namespaces, e não hesite em consultar a &lt;g1&gt;comunidade do Stride&lt;/g1&gt; ou &lt;g2&gt;o repositório GitHub&lt;/g2&gt; para uma maior assistência e recursos adicionais.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T124858Z" creationid="alexa" creationdate="20250404T173946Z">
+        <seg>Sinta-se à vontade para navegar na documentação da API utilizando os namespaces, e não hesite em consultar a &lt;g1&gt;comunidade do Stride&lt;/g1&gt; ou o &lt;g2&gt;repositório GitHub&lt;/g2&gt; para uma maior assistência e recursos adicionais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3221,8 +3221,8 @@ ou outro prefixo apropriado.</seg>
       <tuv lang="en">
         <seg>For a suggested workflow on contributing to Stride, please check our &lt;g1&gt;Contribution Workflow&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214111Z" creationid="alexa" creationdate="20250404T213925Z">
-        <seg>Para entender melhor como contribuir com o Stride, consulte o nosso &lt;g1&gt;Fluxo de Contribuição&lt;/g1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T135858Z" creationid="alexa" creationdate="20250404T213925Z">
+        <seg>Para entender melhor como contribuir com o Stride, consulte o nosso &lt;g1&gt;fluxo de contribuição&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3377,8 +3377,8 @@ ou qualquer outra categoria que o mantenedor julgar adequada.</seg>
       <tuv lang="en">
         <seg>GitHub Pull Request Guidelines</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T213706Z" creationid="alexa" creationdate="20250404T213706Z">
-        <seg>Diretrizes para realizar Pull Requests no GitHub</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T135838Z" creationid="alexa" creationdate="20250404T213706Z">
+        <seg>Diretrizes para realizar pull requests no GitHub</seg>
       </tuv>
     </tu>
     <tu>
@@ -3393,8 +3393,8 @@ ou qualquer outra categoria que o mantenedor julgar adequada.</seg>
       <tuv lang="en">
         <seg>Groundbreaking stuff and H2O related topics.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184423Z" creationid="alexa" creationdate="20250404T184423Z">
-        <seg>Coisas inovadoras e tópicos relacionados à água.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134429Z" creationid="alexa" creationdate="20250404T184423Z">
+        <seg>Por terra ou pela água, este é o lugar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3450,8 +3450,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>If you are new to scripting, we recommend first exploring the &lt;g1&gt;Scripting&lt;/g1&gt; pages in the manual, where you'll find an introduction to scripting, as well as essential concepts.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173737Z" creationid="alexa" creationdate="20250404T173737Z">
-        <seg>Se programação de scripts é algo novo para você, recomendamos que primeiro explore as páginas de&lt;g1&gt;Programação de Scripts&lt;/g1&gt; no manual, onde você encontrará uma introdução ao tema, bem como seus conceitos essenciais.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T124823Z" creationid="alexa" creationdate="20250404T173737Z">
+        <seg>Se programação de scripts é algo novo para você, recomendamos que primeiro explore as páginas de &lt;g1&gt;programação de scripts&lt;/g1&gt; no manual, onde você encontrará uma introdução ao tema, bem como seus conceitos essenciais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3474,8 +3474,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>If you created a new folder, make sue that you create also &lt;g1&gt;index.md&lt;/g1&gt; file in this folder.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T105156Z" creationid="alexa" creationdate="20250405T105156Z">
-        <seg>Se você criou uma nova pasta, certifique-se também de criar um arquivo index.md dentro dela.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T141340Z" creationid="alexa" creationdate="20250405T105156Z">
+        <seg>Se você criou uma nova pasta, certifique-se também de criar um arquivo &lt;g1&gt;index.md&lt;/g1&gt; dentro dela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3514,8 +3514,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>In addition to the Scripting pages, you may also find our &lt;g1&gt;manual&lt;/g1&gt; helpful in deepening your understanding of Stride and its features.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173830Z" creationid="alexa" creationdate="20250404T173830Z">
-        <seg>Além das páginas de Programação de Scripts, você também encontrará nosso&lt;g1&gt;manual&lt;/g1&gt;, que lhe ajudará a aprofundar a compreensão do Stride e de suas funcionalidades.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T124833Z" creationid="alexa" creationdate="20250404T173830Z">
+        <seg>Além das páginas de Programação de Scripts, você também encontrará nosso &lt;g1&gt;manual&lt;/g1&gt;, que lhe ajudará a aprofundar a compreensão do Stride e de suas funcionalidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3650,8 +3650,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>Labelling</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215025Z" creationid="alexa" creationdate="20250404T215025Z">
-        <seg>Rotulando</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140031Z" creationid="alexa" creationdate="20250404T215025Z">
+        <seg>Rotulação</seg>
       </tuv>
     </tu>
     <tu>
@@ -3738,8 +3738,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>Merging Pull Requests</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214742Z" creationid="alexa" creationdate="20250404T214742Z">
-        <seg>Mesclando Pull Requests</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T135947Z" creationid="alexa" creationdate="20250404T214742Z">
+        <seg>Mesclando pull requests</seg>
       </tuv>
     </tu>
     <tu>
@@ -3962,24 +3962,24 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>Overview</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220520Z" creationid="alexa" creationdate="20250404T220520Z">
-        <seg>Visão Geral</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140245Z" creationid="alexa" creationdate="20250404T220520Z">
+        <seg>Visão geral</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>O{Additional Contributions?}</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T223624Z" creationid="alexa" creationdate="20250404T220846Z">
-        <seg>O{Deseja contribuir Mais?}</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140420Z" creationid="alexa" creationdate="20250404T220846Z">
+        <seg>O{Gostaria contribuir mais?}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>PRs with other labels or those that are unlabelled will automatically fall under the &lt;g1&gt;Other Changes&lt;/g1&gt; category.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T121731Z" creationid="alexa" creationdate="20250404T215446Z">
-        <seg>PRs com outros rótulos ou sem rótulos serão automaticamente incluídos na categoria &lt;g1&gt;Outras alterações&lt;/g1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140131Z" creationid="alexa" creationdate="20250404T215446Z">
+        <seg>PRs com outros rótulos ou sem rótulos serão automaticamente incluídos na categoria &lt;g1&gt;Other Changes&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4155,8 +4155,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>Shaders</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T192831Z" creationid="alexa" creationdate="20250404T192831Z">
-        <seg>&lt;g1&gt;Shader Multi-Malha&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140946Z" creationid="alexa" creationdate="20250404T192831Z">
+        <seg>&lt;g1&gt;Shader multi-malha&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4187,8 +4187,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>Small updates can be done directly in the GitHub web interface, for bigger updates the local development environment is required, which is described in the &lt;g1&gt;Installation&lt;/g1&gt; section.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T104059Z" creationid="alexa" creationdate="20250405T104059Z">
-        <seg>Pequenas atualizações podem ser feitas diretamente pela interface web do GitHub. Já para atualizações maiores, é necessário configurar um ambiente de desenvolvimento local, conforme descrito na seção &lt;g1&gt;Instalação&lt;/g1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T141112Z" creationid="alexa" creationdate="20250405T104059Z">
+        <seg>Pequenas atualizações podem ser feitas diretamente pela interface web do GitHub. Já para atualizações maiores, é necessário configurar um ambiente de desenvolvimento local, conforme descrito na seção &lt;g1&gt;Instalação local&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4227,8 +4227,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>Start by setting up your local development environment, as described in the &lt;g1&gt;Installation&lt;/g1&gt; section.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T104648Z" creationid="alexa" creationdate="20250405T104648Z">
-        <seg>Comece configurando seu ambiente de desenvolvimento local, conforme descrito na seção &lt;g1&gt;Instalação&lt;/g1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T141153Z" creationid="alexa" creationdate="20250405T104648Z">
+        <seg>Comece configurando seu ambiente de desenvolvimento local, conforme descrito na seção &lt;g1&gt;Instalação local&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4363,8 +4363,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>The &lt;g4&gt;toc.yml&lt;/g4&gt; file contains the table of contents for the manual pages, which is displayed on the left side of the manual pages.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T105237Z" creationid="alexa" creationdate="20250405T105237Z">
-        <seg>O arquivo toc.yml contém o índice das páginas do manual, que é exibido no lado esquerdo das páginas do manual.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T141444Z" creationid="alexa" creationdate="20250405T105237Z">
+        <seg>O arquivo &lt;g4&gt;toc.yml&lt;/g4&gt; contém o índice das páginas do manual, que é exibido no lado esquerdo das páginas do manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4451,8 +4451,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>The template is structured to cover:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214501Z" creationid="alexa" creationdate="20250404T214501Z">
-        <seg>Estrutura do modelo de Pull Request:</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T135924Z" creationid="alexa" creationdate="20250404T214501Z">
+        <seg>Estrutura do modelo de pull request:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4715,16 +4715,16 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>This workflow is applicable to contributions to the Stride engine, Stride website, and Stride documentation.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220556Z" creationid="alexa" creationdate="20250404T220556Z">
-        <seg>Esse fluxo é aplicável às contribuições para o motor Stride, o site do Stride e a documentação do Stride.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140332Z" creationid="alexa" creationdate="20250404T220556Z">
+        <seg>Esse fluxo é aplicável às contribuições para o motor de jogos, o site e a documentação do Stride.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Title Prefixing</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214748Z" creationid="alexa" creationdate="20250404T214748Z">
-        <seg>Prefixos no Título</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T135955Z" creationid="alexa" creationdate="20250404T214748Z">
+        <seg>Prefixos no título</seg>
       </tuv>
     </tu>
     <tu>
@@ -4803,8 +4803,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>Update &lt;g1&gt;toc.yml&lt;/g1&gt; (or &lt;g2&gt;toc.md&lt;/g2&gt;) file in the &lt;g3&gt;manual&lt;/g3&gt; folder to include the new page or folder.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T105224Z" creationid="alexa" creationdate="20250405T105224Z">
-        <seg>Atualize o arquivo toc.yml (ou toc.md) dentro da pasta manual para incluir a nova página ou pasta.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T141433Z" creationid="alexa" creationdate="20250405T105224Z">
+        <seg>Atualize o arquivo &lt;g1&gt;toc.yml&lt;/g1&gt; (ou &lt;g2&gt;toc.md&lt;/g2&gt;) dentro da pasta &lt;g3&gt;manual&lt;/g3&gt; para incluir a nova página ou pasta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4835,8 +4835,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>Updating the Manual</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T092321Z" creationid="alexa" creationdate="20250405T092321Z">
-        <seg>Atualizando o Manual</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140848Z" creationid="alexa" creationdate="20250405T092321Z">
+        <seg>Atualizando o manual</seg>
       </tuv>
     </tu>
     <tu>
@@ -4875,7 +4875,7 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>Visual Programming</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T121016Z" creationid="alexa" creationdate="20250404T213355Z">
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T135729Z" creationid="alexa" creationdate="20250404T213355Z">
         <seg>Programação visual</seg>
       </tuv>
     </tu>
@@ -5019,8 +5019,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>You can observe that existing folders might have a &lt;g1&gt;media&lt;/g1&gt; folder.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T105355Z" creationid="alexa" creationdate="20250405T105321Z">
-        <seg>Observe que algumas pastas existentes possuem uma pasta media.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T141510Z" creationid="alexa" creationdate="20250405T105321Z">
+        <seg>Observe que algumas pastas existentes possuem uma pasta &lt;g1&gt;media&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5141,8 +5141,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>⚙️ Example projects</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184203Z" creationid="alexa" creationdate="20250404T184203Z">
-        <seg>⚙ Exemplos de Projetos</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134055Z" creationid="alexa" creationdate="20250404T184203Z">
+        <seg>⚙ Exemplos de projetos</seg>
       </tuv>
     </tu>
     <tu>
@@ -5157,16 +5157,16 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>⛰️ Terrain and Water</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184406Z" creationid="alexa" creationdate="20250404T184406Z">
-        <seg>⛰️ Terreno e Água</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134230Z" creationid="alexa" creationdate="20250404T184406Z">
+        <seg>⛰️ Terreno e água</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>⨺ Models and Animations</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184335Z" creationid="alexa" creationdate="20250404T184335Z">
-        <seg>⨺ Modelos e Animações</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134205Z" creationid="alexa" creationdate="20250404T184335Z">
+        <seg>⨺ Modelos e animações</seg>
       </tuv>
     </tu>
     <tu>
@@ -5189,16 +5189,16 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>🎉 New Features</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220011Z" creationid="alexa" creationdate="20250404T215825Z">
-        <seg>🎉 Novas Funcionalidades</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140200Z" creationid="alexa" creationdate="20250404T215825Z">
+        <seg>🎉 Novas funcionalidades</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>🎓 Tutorials and Articles</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184249Z" creationid="alexa" creationdate="20250404T184249Z">
-        <seg>🎓 Tutoriais e Artigos</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134149Z" creationid="alexa" creationdate="20250404T184249Z">
+        <seg>🎓 Tutoriais e artigos</seg>
       </tuv>
     </tu>
     <tu>
@@ -5213,8 +5213,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>🐞 Bug Fixes</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220019Z" creationid="alexa" creationdate="20250404T215832Z">
-        <seg>🐞 Correções de Bugs</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140205Z" creationid="alexa" creationdate="20250404T215832Z">
+        <seg>🐞 Correções de bugs</seg>
       </tuv>
     </tu>
     <tu>
@@ -5237,8 +5237,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>💥 Breaking Changes</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215958Z" creationid="alexa" creationdate="20250404T215811Z">
-        <seg>💥 Quebras de Compatibilidade</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140155Z" creationid="alexa" creationdate="20250404T215811Z">
+        <seg>💥 Quebras de compatibilidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -5277,8 +5277,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>🪟 UI</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T120712Z" creationid="alexa" creationdate="20250404T211748Z">
-        <seg>🪟 Interface do usuário</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T134545Z" creationid="alexa" creationdate="20250404T211748Z">
+        <seg>🪟 Interface de usuário</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

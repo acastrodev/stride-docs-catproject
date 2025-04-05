@@ -2,7 +2,7 @@
 
 This section explains how to use Game Studio and the Stride API for graphics and rendering.
 
-## <g1>Shader Multi-Malha</g1>
+## <g1>Shader multi-malha</g1>
 
 Shaders are authored in the [Stride's shading language](effects-and-shaders/shading-language/index.md), an extension of `HLSL`. They provide true composition of modular shaders through the use of [inheritance](effects-and-shaders/shading-language/shader-classes-mixins-and-inheritance.md), shader [mixins](effects-and-shaders/shading-language/composition.md), and [automatic weaving of shader in-out attributes](effects-and-shaders/shading-language/automatic-shader-stage-input-output.md).
 
