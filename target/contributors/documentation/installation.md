@@ -5,7 +5,7 @@ This guide will walk you through the steps to install the Stride Docs website on
 
 This guide assumes you have a basic understanding of the technologies used in the Stride docs website.
 
-## Prerequisites
+## Pré-requisitos
 
 Before updating the Stride Docs, ensure you are familiar with the following prerequisites:
 

@@ -14,4 +14,4 @@
 * [Shader multi-malha](https://github.com/profan/XenkoByteSized/blob/master/XenkoByteSized/ProceduralMesh/CombinedMeshes.cs)
 
 ## Animação
-* [Script de gatilho de animação](https://gist.github.com/Doprez/3ff7463fc48bd8e69178fde388dd1df4)
+* [Script de acionadores de animação](https://gist.github.com/Doprez/3ff7463fc48bd8e69178fde388dd1df4)

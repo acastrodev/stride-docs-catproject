@@ -4,7 +4,7 @@ WIP.....
 MAKE THE LINUX VERSION OF BUILDING THE ENGINE
 
 COPY of windows stuff below.....
-## Prerequisites
+## Pré-requisitos
 
 1. **Latest** [Git](https://git-scm.com/downloads) **with Large File Support** selected in the setup on the components dialog.
 2. [DotNet SDK 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)

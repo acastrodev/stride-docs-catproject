@@ -1,6 +1,6 @@
 # Stride doesn't run
 
-## Prerequisites
+## Pré-requisitos
 
 If you're having trouble running Stride, make sure you've installed all the prerequisites:
 

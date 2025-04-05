@@ -1,73 +1,73 @@
-# Deployment
+# Implantação
 
-Our team has explored various deployment options, ultimately selecting the method detailed in this guide for its efficacy. Additionally, for demonstration purposes, you can refer to the [Deployment to GitHub Pages](deployment-azure.md#deployment-to-github-pages) section for alternative deployment strategies you can use to showcase your updates.
+Nossa equipe explorou diversas opções de implantação, optando, por fim, pelo método descrito neste guia devido à sua eficácia. Além disso, para fins de demonstração, consulte a seção [Implantação de páginas no GitHub](deployment-azure.md#deployment-to-github-pages) para conhecer estratégias alternativas de implantação que você pode usar para apresentar suas atualizações.
 
-## Deploying to Azure Web Apps (Windows) with IIS
+## Implantação no Azure Web Apps (Windows) com IIS
 
-This guide is crafted for individuals who already have access to the Azure subscription. It provides step-by-step instructions for setting up a new Azure Web App, specifically tailored for staging environments. Note that the process for setting up a production environment is similar, but requires a distinct web app name.
+Este guia foi elaborado para pessoas que já possuem acesso a uma subscrição Azure. Ele oferece instruções passo a passo para configurar um novo Azure Web App, especificamente voltado para ambientes de staging (pré-produção). Observe que o processo para configurar um ambiente de produção é semelhante, mas exige um nome distinto para o aplicativo web.
 
-Deployments to Azure Web Apps are automated through GitHub Actions, forming an integral part of our Continuous Integration/Continuous Deployment (CI/CD) process. The CI/CD pipeline is configured to automatically trigger deployments upon merging changes into either the `staging` or `release` branches.
+As implantações no Azure Web Apps são automatizadas por meio do GitHub Actions, integrando-se ao nosso processo de Integração Contínua / Entrega Contínua (CI/CD). O pipeline CI/CD está configurado para acionar implantações automaticamente ao mesclar alterações nas branches `staging` ou `release`.
 
 > [!NOTE]
-> The deployment process outlined here is already established and running, hosted on Azure and sponsored by the .NET Foundation. This guide serves primarily as a reference for maintainers in the event that a new deployment setup is required.
+> O processo de implantação descrito aqui já está estabelecido e em execução, hospedado no Azure e patrocinado pela .NET Foundation. Este guia serve principalmente como referência para mantenedores, caso seja necessário configurar uma nova implantação.
 
-### Setting up a new Azure Web App
+### Configurando um novo Azure Web App
 
-Follow these instructions carefully to establish your Azure Web App in a staging environment. For deploying in a production environment, replicate these steps with an alternate web app name for differentiation.
+Siga atentamente estas instruções para criar seu Azure Web App em um ambiente de staging. Para implantar em produção, repita estes passos utilizando um nome diferente para o aplicativo web.
 
-1. Navigate to the [Azure Portal](https://portal.azure.com/)
-1. Select **Create a resource**
-1. Choose **Create a Web App**
-1. In the Basic Tab
-   - Choose your existing subscription and resource group
-   - Under Instance Details, enter:
+1. Acesse o [Azure Portal](https://portal.azure.com/)
+1. Selecione **Criar um recurso**
+1. Escolha **Criar Aplicativo Web**
+1. Na aba Básico
+   - Escolha sua assinatura e grupo de recursos existentes
+   - Em Detalhes da instância, insira:
       - Name: **stride-website-staging**
-      - Publish: **Code**
-      - Runtime stack: **ASP.NET V4.8**
-      - OS: **Windows**
-      - Region: as the current web
-      - Pricing Plan - An existing App Service Plan should appear if the region and resource group match that of the existing web app. Currently we use **Standard S1**.
-      - Click **Next**
-1. In the Deployment Tab - This step can be completed later if preferred.
-   - Enable Continuous deployment
+      - Publicar: **Code**
+      - Pilha de runtime: **ASP.NET V4.8**
+      - Sistema Operacional **Windows**
+      - Região: a mesma do app web atualizado
+      - Plano de Preço – Um plano do Serviço de Aplicativo existente deve aparecer, caso a região e o grupo de recursos sejam os mesmos do aplicativo web atual. Atualmente usamos **Standard S1**.
+      - Clique em **Avançar**
+1. Na aba Implantação – Esta etapa pode ser feita depois, se preferir.
+   - Habilite a opção Implantação contínua
    - Select account, organisation `Stride`, repository `stride-website` and branch `staging`
-   - Click **Next**
-1. In the Monitoring Tab
-   - Leave all settings as default
-   - Click **Next**
-1. Monitoring Tab
-   - Disable Application Insights - This is not needed at this stage
-   - Click **Next**
-1. In the Tags Tab
-   - Leave this blank unless you wish to add tags
-   - Click **Next**
-1. In the Review Tab
-   - Review your settings
-   - Click **Create**
-   - The GitHub Action will be added to the repository and run automatically. It will fail at this stage, but this will be resolved in the subsequent steps.
+   - Clique em **Avançar**
+1. Na aba Monitorar + proteger
+   - Deixe todas as configurações como padrão
+   - Clique em **Avançar**
+1. Aba Monitorar + proteger
+   - Desabilite o Application Insights – Isso não é necessário neste estágio
+   - Clique em **Avançar**
+1. Na aba Rótulos
+   - Deixe em branco, a menos que deseje adicionar rótulos
+   - Clique em **Avançar**
+1. Na aba Revisar + criar
+   - Revise suas configurações
+   - Clique em **Criar**
+   - Uma GitHub Action será adicionada ao repositório e executada automaticamente. Ela falhará neste ponto, mas isso será resolvido nas etapas seguintes.
 
 > [!CAUTION]
-> If you have completed the **Deployment Tab** process, ensure that the deployment profile includes the **DeleteExistingFiles** property. This property may need to be set to `False` or `True` depending on the specific requirements of your deployment. For instance, Stride Docs deployment retains files from previous deployments, allowing multiple versions like `4.2`, `4.1`, etc., to be maintained. Adjust this setting based on your deployment needs.
+> Se você concluiu o processo da aba **Implantação**, certifique-se de que o perfil de implantação inclua a propriedade **DeleteExistingFiles**. Essa propriedade pode precisar ser definida como `False` ou `True` dependendo das necessidades específicas da sua implantação. Por exemplo, a implantação do Stride Docs mantém arquivos de versões anteriores, permitindo múltiplas versões como `4.2`, `4.1`, etc. Ajuste essa configuração conforme necessário.
 
-### Adjusting the Web App Configuration
+### Ajustando a configuração do Aplicativo Web
 
-1. Proceed to the newly created Web App
-1. Click on **Configuration**
-1. Select **General Settings**
-1. Change the `Http version` to **2.0**
-1. Change `Ftp state` to **FTPS only**
-1. Change `HTTPS Only` to **On**
-1. Click **Save** to apply the changes
+1. Acesse o Aplicativo Web recém-criado
+1. Clique em **Configuração**
+1. Selecione **Configurações Gerais**
+1. Altere a `versão Http` para **2.0**
+1. Altere o `estado Ftp ` para **somente  FTPS**
+1. Altere `somente HTTPS ` para **Ligado**
+1. Clique em **Salvar** para aplicar as alterações
 
-### Modifying the GitHub Action
+### Modificando a GitHub Action
 
-The previous step will have added a GitHub Action to your repository, which might fail initially. To address this, you need to modify the GitHub Action:
+A etapa anterior terá adicionado uma GitHub Action ao seu repositório, que pode falhar inicialmente. Para corrigir isso, você precisa alterar a GitHub Action:
 
-1. Navigate to the repository
-1. Select **Actions**
-1. You have the option to stop the currently running action
-1. Locate the new GitHub Action file *(stride-website/blob/master/.github/workflows/some-file-name.yml)* that was automatically generated by Azure Portal. We need to extract the `app-name` and `publish-profile` values from it and disable the push trigger.
-   - To disable the push trigger, retain only **workflow_dispatch** (manual trigger) as shown below:
+1. Acesse o repositório
+1. Selecione **Actions**
+1. Você pode interromper a execução atual da action
+1. Locate the new GitHub Action file *(stride-website/blob/master/.github/workflows/some-file-name.yml)* that was automatically generated by Azure Portal. Precisamos extrair os valores de `app-name` e `publish-profile` dele e desabilitar o acionador de push.
+   - Para desativar o acionador de push, mantenha apenas o **workflow_dispatch** (acionador manual), conforme abaixo:
     ```
     on:
     #  push:
@@ -75,43 +75,43 @@ The previous step will have added a GitHub Action to your repository, which migh
     #      - staging
         workflow_dispatch:
     ```
-1. Open the `stride-website-staging-azure.yml` workflow and update it with the values obtained in the previous step. Save your changes.
-1. This workflow might also need to be added to the `master` branch if it is not already present.
-1. Execute the workflow `stride-website-staging-azure.yml`. Ensure you select the correct branch `staging` and click **Run workflow**. This action will deploy the website to the Azure Web App.
+1. Open the `stride-website-staging-azure.yml` workflow and update it with the values obtained in the previous step. Salve as alterações.
+1. Esse workflow também pode precisar ser adicionado à branch `master`, caso ainda não esteja presente.
+1. Execute the workflow `stride-website-staging-azure.yml`. Certifique-se de selecionar a branch correta `staging` e clique em **Run workflow**. Essa ação implantará o site no Aplicativo Web.
 
 ### GitHub Actions
 
 - `stride-website-github.yml`: Facilitates manual deployment to GitHub Pages in the forked repository, primarily used for showcasing updates
 - `stride-website-release-azure.yml`: Automates deployment to production upon merging changes into `release` branch, with a manual trigger option also available
 - `stride-website-staging-azure.yml`: Enables automatic deployment to [staging](https://stride-website-staging.azurewebsites.net/) upon merging changes into `staging` branch, along with an option for manual triggering
-- `stride-website-wiki.yml`: Automatically deploys to the GitHub Wiki when changes are pushed to the `wiki` folder in the `master` branch, also includes a manual trigger feature
+- `stride-website-wiki.yml`: Implanta automaticamente no GitHub Wiki quando mudanças são feitas na pasta `wiki` da branch `master`, incluindo a opção de acionador manual.
 
-## Deployment to GitHub Pages
+## Implantação no GitHub Pages
 
-To showcase your updates, especially helpful for design changes pending review, you can deploy the website either to your infrastructure or to GitHub Pages, a free hosting service. Once deployed, share the link with us for review.
+To showcase your updates, especially helpful for design changes pending review, you can deploy the website either to your infrastructure or to GitHub Pages, a free hosting service. Após a implantação, compartilhe o link conosco para revisão.
 
-### Prerequisites
+### Pré-requisitos
 
 In your `stride-website` repository:
 
-1. Navigate to **Settings** → **Actions** → **General** → **Workflow Permissions**
-   - Choose **Read and write permissions**
+1. Acesse **Settings** → **Actions** → **General** → **Workflow Permissions**
+   - Escolha **Read and write permissions**
 
-### Run GitHub Action
+### Executar a GitHub Action
 
 1. Go to **Actions**, select **Build Stride Web for GitHub Staging**
-   - Click **Run workflow**; you may optionally select a branch
-2. Monitor the build logs while the action is in progress
-3. Upon successful build, a `gh-pages` branch will be created
+   - Clique em **Run workflow**; você pode selecionar uma branch, se desejar
+2. Acompanhe os logs de compilação enquanto a ação estiver em andamento
+3. Após a compilação bem-sucedida, uma branch `gh-pages` será criada
 4. Navigate to **Settings** → **Pages**
-   - Choose the `gh-pages` branch with the root option and click **Save**
-5. After saving, an internal GitHub Action **pages build and deployment** is automatically created and triggered, deploying the content to the GitHub Pages website
+   - Escolha a branch `gh-pages` com a opção root e clique em **Save**
+5. Após salvar, uma GitHub Action interna **pages build and deployment** será automaticamente criada e acionada, implantando o conteúdo no site do GitHub Pages
 6. Initially, the website will be accessible at `https://[your-username].github.io/stride-website` but with broken styling
 
-### Add Custom Domain
+### Adicionando um domínio personalizado
 
 1. To resolve styling issues, deploy the site to a custom domain. This is necessary because the site isn't deployed at the root directory on GitHub Pages
-2. Go to **Settings** → **Pages** → **Custom domain**
-   - Enter your custom domain and follow the instructions for verification
-3. Upon saving, the **pages build and deployment** action is triggered again, adding a `CNAME` file containing your custom domain name to the `gh-pages` branch
+2. Acesse **Settings** → **Pages** → **Custom domain**
+   - Insira seu domínio personalizado e siga as instruções para verificação
+3. Após salvar, a ação **pages build and deployment** será acionada novamente, adicionando um arquivo `CNAME` contendo seu domínio personalizado à branch `gh-pages`
 4. Your website should now be fully operational on your custom domain, for example, `https://stride-website.vaclavelias.com/` is hosted on GitHub Pages

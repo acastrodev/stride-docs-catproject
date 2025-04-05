@@ -52,7 +52,7 @@ A comunidade do Stride criou e compartilhou coisas incríveis ao longo dos anos.
     <div class="card h-100">
         <div class="card-body">
             <h2 class="card-title h5">🍎 Física</h2>
-            <p class="card-text">Física, colisores, gatilhos.</p>
+            <p class="card-text">Física, colisores, acionadores.</p>
         </div>
         <p class="px-3 mb-4"><a class="stretched-link" href="physics.md">Encontre aquele código útil que estava procurando!</a></p>
     </div>

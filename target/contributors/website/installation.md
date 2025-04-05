@@ -6,7 +6,7 @@ This guide will walk you through the steps to install the Stride website on your
 
 This guide assumes you have a basic understanding of the technologies used in the Stride website.
 
-## Prerequisites
+## Pré-requisitos
 
 Before updating the Stride website, ensure you are familiar with the following prerequisites:
 

@@ -28,6 +28,16 @@ graph TB
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>!CAUTION
+If you have completed the Deployment Tab process, ensure that the deployment profile includes the DeleteExistingFiles property.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145338Z" creationid="alexa" creationdate="20250405T145239Z">
+        <seg>!CAUTION
+Se você concluiu o processo da aba Implantação, certifique-se de que o perfil de implantação inclua a propriedade DeleteExistingFiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>!IMPORTANT
 SEO Note: Ensure that the file name includes essential keywords related to the content of the article.</seg>
       </tuv>
@@ -54,6 +64,16 @@ If multiple labels are applied, the release automation will prioritize the gener
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T121610Z" creationid="alexa" creationdate="20250404T215526Z">
         <seg>!NOTE
 Se múltiplos rótulos forem aplicados, a automação de versão priorizará a categoria genérica primeiro, seguida pela específica do Stride.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>!NOTE
+The deployment process outlined here is already established and running, hosted on Azure and sponsored by the .NET Foundation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143239Z" creationid="alexa" creationdate="20250405T143239Z">
+        <seg>!NOTE
+O processo de implantação descrito aqui já está estabelecido e em execução, hospedado no Azure e patrocinado pela .NET Foundation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,8 +170,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>Animation Trigger script</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T113202Z" creationid="alexa" creationdate="20250404T185926Z">
-        <seg>Script de gatilho de animação</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T150447Z" creationid="alexa" creationdate="20250404T185926Z">
+        <seg>Script de acionadores de animação</seg>
       </tuv>
     </tu>
     <tu>
@@ -1927,8 +1947,8 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
       <tuv lang="en">
         <seg>Trigger Example</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T113212Z" creationid="alexa" creationdate="20250404T190030Z">
-        <seg>Exemplo de gatilho</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T150456Z" creationid="alexa" creationdate="20250404T190030Z">
+        <seg>Exemplo de acionador</seg>
       </tuv>
     </tu>
     <tu>
@@ -2565,6 +2585,54 @@ Este guia parte do princípio de que você já está familiarizado com a atualiz
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>stride-docs-release-azure.yml: Automates deployment to production upon merging changes into the release branch, with a manual trigger option also available.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T150550Z" creationid="alexa" creationdate="20250405T150005Z">
+        <seg>stride-docs-release-azure.yml: Automatiza a implantação em produção ao mesclar alterações na branch release, com opção de acionador manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stride-docs-release-fast-track-azure.yml: Provides manual deployment to production, bypassing the creation of artifacts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T150028Z" creationid="alexa" creationdate="20250405T150028Z">
+        <seg>stride-docs-release-fast-track-azure.yml: Permite implantação manual em produção, ignorando a criação de artefatos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stride-docs-staging-azure.yml: Facilitates automatic deployment to staging when changes are merged into the staging branch, and includes a manual trigger option.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T150220Z" creationid="alexa" creationdate="20250405T150039Z">
+        <seg>stride-docs-staging-azure.yml: Facilita a implantação automática para staging quando mudanças são mescladas na branch staging, com opção de execução manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stride-docs-staging-fast-track-azure.yml: Allows for manual deployment to staging, skipping the creation of artifacts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T150101Z" creationid="alexa" creationdate="20250405T150101Z">
+        <seg>stride-docs-staging-fast-track-azure.yml: Permite implantação manual em staging, ignorando a criação de artefatos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stride-website-github.yml: Enables manual deployment to GitHub Pages in a forked repository, primarily for showcasing updates.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145945Z" creationid="alexa" creationdate="20250405T145945Z">
+        <seg>stride-website-github.yml: Permite implantação manual no GitHub Pages em um repositório forkado, usado principalmente para demonstrar atualizações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stride-website-wiki.yml: Automatically deploys to the GitHub Wiki when changes are pushed to the wiki folder in the master branch, also includes a manual trigger feature</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T150618Z" creationid="alexa" creationdate="20250405T150208Z">
+        <seg>stride-website-wiki.yml: Implanta automaticamente no GitHub Wiki quando mudanças são feitas na pasta wiki da branch master, incluindo a opção de acionador manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tebjan</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T101500Z" creationid="alexa" creationdate="20250405T101500Z">
@@ -2673,6 +2741,14 @@ E, principalmente, confirmar que você construiu e executou o editor para testar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Custom Domain</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T153835Z" creationid="alexa" creationdate="20250405T153835Z">
+        <seg>Adicionando um domínio personalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add a new manual or tutorial or any new content</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T104421Z" creationid="alexa" creationdate="20250405T104421Z">
@@ -2681,10 +2757,42 @@ E, principalmente, confirmar que você construiu e executou o editor para testar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additionally, for demonstration purposes, you can refer to the Deployment to GitHub Pages section for alternative deployment strategies you can use to showcase your updates.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144435Z" creationid="alexa" creationdate="20250405T142828Z">
+        <seg>Além disso, para fins de demonstração, consulte a seção Implantação de páginas no GitHub para conhecer estratégias alternativas de implantação que você pode usar para apresentar suas atualizações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adjust this setting based on your deployment needs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145332Z" creationid="alexa" creationdate="20250405T145332Z">
+        <seg>Ajuste essa configuração conforme necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adjusting the Web App Configuration</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145403Z" creationid="alexa" creationdate="20250405T145403Z">
+        <seg>Ajustando a configuração do Aplicativo Web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After making and testing your changes locally, you should create a pull request to merge your changes into the master branch.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T104704Z" creationid="alexa" creationdate="20250405T104704Z">
         <seg>Após realizar e testar suas mudanças localmente, envie um pull request para mesclá-las na branch master.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After saving, an internal GitHub Action pages build and deployment is automatically created and triggered, deploying the content to the GitHub Pages website</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T153738Z" creationid="alexa" creationdate="20250405T153738Z">
+        <seg>Após salvar, uma GitHub Action interna pages build and deployment será automaticamente criada e acionada, implantando o conteúdo no site do GitHub Pages</seg>
       </tuv>
     </tu>
     <tu>
@@ -2825,6 +2933,110 @@ E, principalmente, confirmar que você construiu e executou o editor para testar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change Ftp state to FTPS only</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145609Z" creationid="alexa" creationdate="20250405T145609Z">
+        <seg>Altere o estado Ftp  para somente  FTPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change HTTPS Only to On</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145632Z" creationid="alexa" creationdate="20250405T145632Z">
+        <seg>Altere somente HTTPS  para Ligado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the Http version to 2.0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145530Z" creationid="alexa" creationdate="20250405T145530Z">
+        <seg>Altere a versão Http para 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the version in the URL accordingly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T153754Z" creationid="alexa" creationdate="20250405T153754Z">
+        <seg>Altere a versão na URL conforme necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose Create a Web App</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143847Z" creationid="alexa" creationdate="20250405T143415Z">
+        <seg>Escolha Criar Aplicativo Web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose Read and write permissions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T152732Z" creationid="alexa" creationdate="20250405T152732Z">
+        <seg>Escolha Read and write permissions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose the gh-pages branch with the root option and click Save</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T153726Z" creationid="alexa" creationdate="20250405T153726Z">
+        <seg>Escolha a branch gh-pages com a opção root e clique em Save</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose your existing subscription and resource group</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143435Z" creationid="alexa" creationdate="20250405T143435Z">
+        <seg>Escolha sua assinatura e grupo de recursos existentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click Create</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145019Z" creationid="alexa" creationdate="20250405T145019Z">
+        <seg>Clique em Criar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click Next</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144321Z" creationid="alexa" creationdate="20250405T144321Z">
+        <seg>Clique em Avançar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click Run workflow; you may optionally select a branch</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T152804Z" creationid="alexa" creationdate="20250405T152804Z">
+        <seg>Clique em Run workflow; você pode selecionar uma branch, se desejar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click Save to apply the changes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145648Z" creationid="alexa" creationdate="20250405T145648Z">
+        <seg>Clique em Salvar para aplicar as alterações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on Configuration</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145440Z" creationid="alexa" creationdate="20250405T145440Z">
+        <seg>Clique em Configuração</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Code Only</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T112119Z" creationid="alexa" creationdate="20250404T174620Z">
@@ -2939,8 +3151,8 @@ E, principalmente, confirmar que você construiu e executou o editor para testar
       <tuv lang="en">
         <seg>Creating New Tutorial Page</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T105541Z" creationid="alexa" creationdate="20250405T105541Z">
-        <seg>Criando uma Nova Página de Tutorial</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T142204Z" creationid="alexa" creationdate="20250405T105541Z">
+        <seg>Criando uma nova página de tutorial</seg>
       </tuv>
     </tu>
     <tu>
@@ -2949,6 +3161,14 @@ E, principalmente, confirmar que você construiu e executou o editor para testar
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T104313Z" creationid="alexa" creationdate="20250405T104313Z">
         <seg>Criar uma issue não é obrigatório para pequenas atualizações, mas é recomendável avisar outros colaboradores sobre o que você está fazendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Currently we use Standard S1.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144304Z" creationid="alexa" creationdate="20250405T144304Z">
+        <seg>Atualmente usamos Standard S1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2977,10 +3197,50 @@ E, principalmente, confirmar que você construiu e executou o editor para testar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deploying to Azure Web Apps (Windows) with IIS</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144455Z" creationid="alexa" creationdate="20250405T142911Z">
+        <seg>Implantação no Azure Web Apps (Windows) com IIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deployment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144337Z" creationid="alexa" creationdate="20250405T142654Z">
+        <seg>Implantação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deployment to GitHub Pages</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T150754Z" creationid="alexa" creationdate="20250405T150717Z">
+        <seg>Implantação no GitHub Pages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deployments to Azure Web Apps are automated through GitHub Actions, forming an integral part of our Continuous Integration/Continuous Deployment (CI/CD) process.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143100Z" creationid="alexa" creationdate="20250405T143100Z">
+        <seg>As implantações no Azure Web Apps são automatizadas por meio do GitHub Actions, integrando-se ao nosso processo de Integração Contínua / Entrega Contínua (CI/CD).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detailed Steps</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140427Z" creationid="alexa" creationdate="20250404T220958Z">
         <seg>Passos detalhados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable Application Insights - This is not needed at this stage</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144906Z" creationid="alexa" creationdate="20250405T144900Z">
+        <seg>Desabilite o Application Insights – Isso não é necessário neste estágio</seg>
       </tuv>
     </tu>
     <tu>
@@ -3065,6 +3325,14 @@ E, principalmente, confirmar que você construiu e executou o editor para testar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable Continuous deployment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144710Z" creationid="alexa" creationdate="20250405T144710Z">
+        <seg>Habilite a opção Implantação contínua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enforcing Documentation Updates</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T091205Z" creationid="alexa" creationdate="20250405T091205Z">
@@ -3085,6 +3353,14 @@ E, principalmente, confirmar que você construiu e executou o editor para testar
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T112230Z" creationid="alexa" creationdate="20250404T180610Z">
         <seg>Documentação do motor de jogos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure you select the correct branch staging and click Run workflow.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145900Z" creationid="alexa" creationdate="20250405T145900Z">
+        <seg>Certifique-se de selecionar a branch correta staging e clique em Run workflow.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3117,6 +3393,14 @@ E, principalmente, confirmar que você construiu e executou o editor para testar
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184639Z" creationid="alexa" creationdate="20250404T184639Z">
         <seg>Entre no mundo mágico dos shaders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your custom domain and follow the instructions for verification</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T153911Z" creationid="alexa" creationdate="20250405T153911Z">
+        <seg>Insira seu domínio personalizado e siga as instruções para verificação</seg>
       </tuv>
     </tu>
     <tu>
@@ -3157,6 +3441,14 @@ E, principalmente, confirmar que você construiu e executou o editor para testar
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184211Z" creationid="alexa" creationdate="20250404T184211Z">
         <seg>Exemplos para você testar e explorar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Execute the workflow stride-docs-staging-azure.yml.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145851Z" creationid="alexa" creationdate="20250405T145851Z">
+        <seg>Execute o workflow stride-docs-staging-azure.yml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3209,6 +3501,14 @@ E, principalmente, confirmar que você construiu e executou o editor para testar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow these instructions carefully to establish your Azure Web App in a staging environment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143322Z" creationid="alexa" creationdate="20250405T143322Z">
+        <seg>Siga atentamente estas instruções para criar seu Azure Web App em um ambiente de staging.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For Stride-specific labels, the prefix should follow the commit convention, e.g., feat:, fix:, perf:, docs:, style:, refactor:, test:, chore:, or any designation the maintainer sees fit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215011Z" creationid="alexa" creationdate="20250404T215011Z">
@@ -3227,6 +3527,14 @@ ou outro prefixo apropriado.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For deploying in a production environment, replicate these steps with an alternate web app name for differentiation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143334Z" creationid="alexa" creationdate="20250405T143334Z">
+        <seg>Para implantar em produção, repita estes passos utilizando um nome diferente para o aplicativo web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For generic labels, use square brackets to state the Stride category the PR belongs to, e.g., [Assets], [OpenXR], [Tests], [Graphics], [Physics], [UI], [Audio], [Input], [Launcher], [GameStudio], [Build], [Doc], [Samples], [Shaders], [Performance], [Engineering], or any category the maintainer sees fit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T214933Z" creationid="alexa" creationdate="20250404T214933Z">
@@ -3235,6 +3543,14 @@ ou outro prefixo apropriado.</seg>
 [Audio], [Input], [Launcher], [GameStudio], [Build],
 [Doc], [Samples], [Shaders], [Performance], [Engineering]
 ou qualquer outra categoria que o mantenedor julgar adequada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, Stride Docs deployment retains files from previous deployments, allowing multiple versions like 4.2, 4.1, etc., to be maintained.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145326Z" creationid="alexa" creationdate="20250405T145326Z">
+        <seg>Por exemplo, a implantação do Stride Docs mantém arquivos de versões anteriores, permitindo múltiplas versões como 4.2, 4.1, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3375,10 +3691,34 @@ ou qualquer outra categoria que o mantenedor julgar adequada.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GitHub Actions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145932Z" creationid="alexa" creationdate="20250405T145932Z">
+        <seg>GitHub Actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GitHub Pull Request Guidelines</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T135838Z" creationid="alexa" creationdate="20250404T213706Z">
         <seg>Diretrizes para realizar pull requests no GitHub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Actions, select Build Stride Docs for GitHub Staging</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T152756Z" creationid="alexa" creationdate="20250405T152756Z">
+        <seg>Acesse Actions, selecione Build Stride Docs for GitHub Staging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Settings → Pages → Custom domain</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T153900Z" creationid="alexa" creationdate="20250405T153900Z">
+        <seg>Acesse Settings → Pages → Custom domain</seg>
       </tuv>
     </tu>
     <tu>
@@ -3520,6 +3860,54 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the Basic Tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143427Z" creationid="alexa" creationdate="20250405T143427Z">
+        <seg>Na aba Básico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Deployment Tab - This step can be completed later if preferred.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144610Z" creationid="alexa" creationdate="20250405T144610Z">
+        <seg>Na aba Implantação – Esta etapa pode ser feita depois, se preferir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Monitoring Tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144801Z" creationid="alexa" creationdate="20250405T144801Z">
+        <seg>Na aba Monitorar + proteger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Review Tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144952Z" creationid="alexa" creationdate="20250405T144952Z">
+        <seg>Na aba Revisar + criar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Tags Tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144923Z" creationid="alexa" creationdate="20250405T144923Z">
+        <seg>Na aba Rótulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In your stride-docs repository:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T152716Z" creationid="alexa" creationdate="20250405T152716Z">
+        <seg>No seu repositório stride-docs:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Injects the Stride Docs language selection into the top navigation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T110816Z" creationid="alexa" creationdate="20250405T110816Z">
@@ -3572,6 +3960,22 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T102748Z" creationid="alexa" creationdate="20250405T102748Z">
         <seg>Irlanda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It provides step-by-step instructions for setting up a new Azure Web App, specifically tailored for staging environments.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143019Z" creationid="alexa" creationdate="20250405T143019Z">
+        <seg>Ele oferece instruções passo a passo para configurar um novo Azure Web App, especificamente voltado para ambientes de staging (pré-produção).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will fail at this stage, but this will be resolved in the subsequent steps.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145043Z" creationid="alexa" creationdate="20250405T145043Z">
+        <seg>Ela falhará neste ponto, mas isso será resolvido nas etapas seguintes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3664,6 +4068,22 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Leave all settings as default</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144814Z" creationid="alexa" creationdate="20250405T144814Z">
+        <seg>Deixe todas as configurações como padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leave this blank unless you wish to add tags</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144935Z" creationid="alexa" creationdate="20250405T144935Z">
+        <seg>Deixe em branco, a menos que deseje adicionar rótulos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Libraries</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T175307Z" creationid="alexa" creationdate="20250404T175307Z">
@@ -3676,6 +4096,14 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T103825Z" creationid="alexa" creationdate="20250405T103825Z">
         <seg>Tópicos relacionados ao Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Locate the new GitHub Action file (stride-docs/blob/master/.github/workflows/some-file-name.yml) that was automatically generated by Azure Portal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145755Z" creationid="alexa" creationdate="20250405T145755Z">
+        <seg>Localize o novo arquivo da GitHub Action (stride-docs/blob/master/.github/workflows/some-file-name.yml) que foi gerado automaticamente pelo Azure Portal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3776,6 +4204,30 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifying the GitHub Action</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145657Z" creationid="alexa" creationdate="20250405T145657Z">
+        <seg>Modificando a GitHub Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Monitor the build logs while the action is in progress</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T152830Z" creationid="alexa" creationdate="20250405T152830Z">
+        <seg>Acompanhe os logs de compilação enquanto a ação estiver em andamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Monitoring Tab</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144828Z" creationid="alexa" creationdate="20250405T144828Z">
+        <seg>Aba Monitorar + proteger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most engine areas</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T100712Z" creationid="alexa" creationdate="20250405T100712Z">
@@ -3800,10 +4252,50 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Name: stride-docs-staging</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143508Z" creationid="alexa" creationdate="20250405T143508Z">
+        <seg>Nome: stride-docs-staging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Naming Convention</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T122826Z" creationid="alexa" creationdate="20250405T105251Z">
         <seg>Convenção de nomes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigate to Settings → Actions → General → Workflow Permissions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T152724Z" creationid="alexa" creationdate="20250405T152724Z">
+        <seg>Acesse Settings → Actions → General → Workflow Permissions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigate to Settings → Pages → Branch section</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T153716Z" creationid="alexa" creationdate="20250405T153716Z">
+        <seg>cesse Settings → Pages → seção Branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigate to the Azure Portal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143341Z" creationid="alexa" creationdate="20250405T143341Z">
+        <seg>Acesse o Azure Portal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigate to the repository</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145729Z" creationid="alexa" creationdate="20250405T145729Z">
+        <seg>Acesse o repositório</seg>
       </tuv>
     </tu>
     <tu>
@@ -3840,6 +4332,14 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that the process for setting up a production environment is similar, but requires a distinct web app name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143037Z" creationid="alexa" creationdate="20250405T143037Z">
+        <seg>Observe que o processo para configurar um ambiente de produção é semelhante, mas exige um nome distinto para o aplicativo web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note the different prefixes for generic and Stride-specific categories:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215807Z" creationid="alexa" creationdate="20250404T215807Z">
@@ -3860,6 +4360,14 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220942Z" creationid="alexa" creationdate="20250404T220942Z">
         <seg>O --&gt;|Sim| B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OS: Windows</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144046Z" creationid="alexa" creationdate="20250405T144046Z">
+        <seg>Sistema Operacional Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -3912,10 +4420,34 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once deployed, share the link with us for review.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T152658Z" creationid="alexa" creationdate="20250405T152658Z">
+        <seg>Após a implantação, compartilhe o link conosco para revisão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the PR is merged, the Stride team will apply a label (only one per PR) to categorize the PR based on the type of changes it introduces.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T215101Z" creationid="alexa" creationdate="20250404T215101Z">
         <seg>Após o PR ser mesclado, a equipe do Stride aplicará um único rótulo para categorizar o PR com base no tipo de alteração introduzida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the stride-docs-staging-azure.yml workflow and update it with the values obtained in the previous step.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145833Z" creationid="alexa" creationdate="20250405T145833Z">
+        <seg>Abra o workflow stride-docs-staging-azure.yml e atualize-o com os valores obtidos na etapa anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Optionally, you can add also a custom domain.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T153841Z" creationid="alexa" creationdate="20250405T153841Z">
+        <seg>Opcionalmente, você pode adicionar um domínio personalizado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3948,6 +4480,14 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T110637Z" creationid="alexa" creationdate="20250405T110637Z">
         <seg>Nossos principais recursos web incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Our team has explored various deployment options, ultimately selecting the method detailed in this guide for its efficacy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144415Z" creationid="alexa" creationdate="20250405T142725Z">
+        <seg>Nossa equipe explorou diversas opções de implantação, optando, por fim, pelo método descrito neste guia devido à sua eficácia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3994,8 +4534,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv lang="en">
         <seg>Physics, colliders, triggers.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="alexa" changedate="20250404T184559Z" creationid="alexa" creationdate="20250404T184559Z">
-        <seg>Física, colisores, gatilhos.</seg>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T150429Z" creationid="alexa" creationdate="20250404T184559Z">
+        <seg>Física, colisores, acionadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4033,6 +4573,30 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prerequisites</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T152709Z" creationid="alexa" creationdate="20250405T152709Z">
+        <seg>Pré-requisitos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pricing Plan - An existing App Service Plan should appear if the region and resource group match that of the existing web app.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144253Z" creationid="alexa" creationdate="20250405T144253Z">
+        <seg>Plano de Preço – Um plano do Serviço de Aplicativo existente deve aparecer, caso a região e o grupo de recursos sejam os mesmos do aplicativo web atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Proceed to the newly created Web App</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145421Z" creationid="alexa" creationdate="20250405T145421Z">
+        <seg>Acesse o Aplicativo Web recém-criado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project examples</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T180246Z" creationid="alexa" creationdate="20250404T180246Z">
@@ -4045,6 +4609,22 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T183746Z" creationid="alexa" creationdate="20250404T183746Z">
         <seg>Projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Publish: Code</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143940Z" creationid="alexa" creationdate="20250405T143516Z">
+        <seg>Publicar: Code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Region: as the current web</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144107Z" creationid="alexa" creationdate="20250405T144107Z">
+        <seg>Região: a mesma do app web atualizado</seg>
       </tuv>
     </tu>
     <tu>
@@ -4129,6 +4709,38 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Review your settings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145001Z" creationid="alexa" creationdate="20250405T145001Z">
+        <seg>Revise suas configurações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run GitHub Action</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T152740Z" creationid="alexa" creationdate="20250405T152740Z">
+        <seg>Executar a GitHub Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Runtime stack: ASP.NET V4.8</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144024Z" creationid="alexa" creationdate="20250405T143752Z">
+        <seg>Pilha de runtime: ASP.NET V4.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save your changes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145838Z" creationid="alexa" creationdate="20250405T145838Z">
+        <seg>Salve as alterações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scene</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T181619Z" creationid="alexa" creationdate="20250404T181619Z">
@@ -4137,10 +4749,50 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Actions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145734Z" creationid="alexa" creationdate="20250405T145734Z">
+        <seg>Selecione Actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Create a resource</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143402Z" creationid="alexa" creationdate="20250405T143402Z">
+        <seg>Selecione Criar um recurso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select General Settings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145503Z" creationid="alexa" creationdate="20250405T145503Z">
+        <seg>Selecione Configurações Gerais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select account, organisation Stride, repository stride-docs and branch staging</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144735Z" creationid="alexa" creationdate="20250405T144735Z">
+        <seg>Selecione a conta, organização Stride, repositório stride-docs e branch staging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sets the top navigation icons, such as GitHub, Discord, Twitter</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T110743Z" creationid="alexa" creationdate="20250405T110743Z">
         <seg>Define os ícones da navegação superior, como GitHub, Discord, Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting up a new Azure Web App</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143311Z" creationid="alexa" creationdate="20250405T143311Z">
+        <seg>Configurando um novo Azure Web App</seg>
       </tuv>
     </tu>
     <tu>
@@ -4377,6 +5029,22 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The CI/CD pipeline is configured to automatically trigger deployments upon merging changes into either the staging or release branches.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143119Z" creationid="alexa" creationdate="20250405T143119Z">
+        <seg>O pipeline CI/CD está configurado para acionar implantações automaticamente ao mesclar alterações nas branches staging ou release.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The GitHub Action will be added to the repository and run automatically.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145035Z" creationid="alexa" creationdate="20250405T145035Z">
+        <seg>Uma GitHub Action será adicionada ao repositório e executada automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Stride Rendering Pipeline</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T120621Z" creationid="alexa" creationdate="20250404T212650Z">
@@ -4441,6 +5109,14 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The previous step will have added a GitHub Action to your repository, which might fail initially.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145709Z" creationid="alexa" creationdate="20250405T145709Z">
+        <seg>A etapa anterior terá adicionado uma GitHub Action ao seu repositório, que pode falhar inicialmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The template includes sections for a concise summary of your changes, a detailed description, any related issues, the motivation behind the changes, and the types of changes being proposed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T121213Z" creationid="alexa" creationdate="20250404T214245Z">
@@ -4461,6 +5137,14 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T105954Z" creationid="alexa" creationdate="20250405T105954Z">
         <seg>Os vídeos devem estar no YouTube e incorporados nas páginas do tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The website will be accessible at https://[your-username].github.io/stride-docs/4.2/en</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T153746Z" creationid="alexa" creationdate="20250405T153746Z">
+        <seg>O site estará acessível em https://[seu-usuário].github.io/stride-docs/4.2/en</seg>
       </tuv>
     </tu>
     <tu>
@@ -4545,6 +5229,14 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This action will deploy the website to the Azure Web App.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145925Z" creationid="alexa" creationdate="20250405T145925Z">
+        <seg>Essa ação implantará o site no Aplicativo Web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This approach helps maintainers visualize and assess your proposed changes more effectively.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T104842Z" creationid="alexa" creationdate="20250405T104842Z">
@@ -4609,10 +5301,26 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This guide is crafted for individuals who already have access to the Azure subscription.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143001Z" creationid="alexa" creationdate="20250405T143001Z">
+        <seg>Este guia foi elaborado para pessoas que já possuem acesso a uma subscrição Azure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This guide outlines the fundamental workflow for contributing to various Stride projects, including the Stride engine, Stride website, and Stride documentation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220457Z" creationid="alexa" creationdate="20250404T220457Z">
         <seg>Este guia descreve o fluxo de trabalho fundamental para contribuir com diversos projetos do Stride, incluindo o motor Stride, o site do Stride e a documentação do Stride.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This guide serves primarily as a reference for maintainers in the event that a new deployment setup is required.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T144505Z" creationid="alexa" creationdate="20250405T143258Z">
+        <seg>Este guia serve principalmente como referência para mantenedores, caso seja necessário configurar uma nova implantação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4681,6 +5389,22 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This property may need to be set to False or True depending on the specific requirements of your deployment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145304Z" creationid="alexa" creationdate="20250405T145304Z">
+        <seg>Essa propriedade pode precisar ser definida como False ou True dependendo das necessidades específicas da sua implantação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This should resolve JS url related errors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T153846Z" creationid="alexa" creationdate="20250405T153846Z">
+        <seg>Isso deve resolver erros de URL relacionados a arquivos JS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This step integrates your contribution with the main codebase.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T221314Z" creationid="alexa" creationdate="20250404T221314Z">
@@ -4721,6 +5445,14 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This workflow might also need to be added to the master branch if it is not already present.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145844Z" creationid="alexa" creationdate="20250405T145844Z">
+        <seg>Esse workflow também pode precisar ser adicionado à branch master, caso ainda não esteja presente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Title Prefixing</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T135955Z" creationid="alexa" creationdate="20250404T214748Z">
@@ -4729,10 +5461,34 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To address this, you need to modify the GitHub Action:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145724Z" creationid="alexa" creationdate="20250405T145724Z">
+        <seg>Para corrigir isso, você precisa alterar a GitHub Action:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To disable the push trigger, retain only workflow_dispatch (manual trigger) as shown below:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T150533Z" creationid="alexa" creationdate="20250405T145815Z">
+        <seg>Para desativar o acionador de push, mantenha apenas o workflow_dispatch (acionador manual), conforme abaixo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To make the most out of this section, you should be familiar with scripting concepts and have some experience in programming.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T173630Z" creationid="alexa" creationdate="20250404T173630Z">
         <seg>Para aproveitar ao máximo esta seção, você deve estar familiarizado com conceitos de programação de scripts e ter alguma experiência em programação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To showcase your updates, especially helpful for design changes pending review, you can deploy the docs website either to your infrastructure or to GitHub Pages, a free hosting service.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T150842Z" creationid="alexa" creationdate="20250405T150842Z">
+        <seg>Para apresentar suas atualizações, especialmente úteis no caso de alterações de design pendentes de revisão, você pode implantar o site da documentação em sua própria infraestrutura ou no GitHub Pages, um serviço gratuito de hospedagem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4793,6 +5549,14 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Under Instance Details, enter:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T143501Z" creationid="alexa" creationdate="20250405T143501Z">
+        <seg>Em Detalhes da instância, insira:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>United Kingdom</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T102837Z" creationid="alexa" creationdate="20250405T102837Z">
@@ -4837,6 +5601,22 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T140848Z" creationid="alexa" creationdate="20250405T092321Z">
         <seg>Atualizando o manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upon saving, the pages build and deployment action is triggered again, adding a CNAME file containing your custom domain name to the gh-pages branch</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T153924Z" creationid="alexa" creationdate="20250405T153924Z">
+        <seg>Após salvar, a ação pages build and deployment será acionada novamente, adicionando um arquivo CNAME contendo seu domínio personalizado à branch gh-pages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upon successful build, a gh-pages branch will be created</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T152843Z" creationid="alexa" creationdate="20250405T152843Z">
+        <seg>Após a compilação bem-sucedida, uma branch gh-pages será criada</seg>
       </tuv>
     </tu>
     <tu>
@@ -4901,6 +5681,14 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T104339Z" creationid="alexa" creationdate="20250405T104339Z">
         <seg>Consideramos pequenas atualizações aquelas que envolvem alterações no conteúdo do site, como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We need to extract the app-name and publish-profile values from it and disable the push trigger.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T150506Z" creationid="alexa" creationdate="20250405T145808Z">
+        <seg>Precisamos extrair os valores de app-name e publish-profile dele e desabilitar o acionador de push.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5049,6 +5837,22 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You have the option to stop the currently running action</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145743Z" creationid="alexa" creationdate="20250405T145743Z">
+        <seg>Você pode interromper a execução atual da action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You might see some JS errors, related to file expected in the root level.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T153814Z" creationid="alexa" creationdate="20250405T153814Z">
+        <seg>Você pode ver alguns erros de JS, relacionados a arquivos esperados no nível raiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You should be familiar with Bootstrap Utilities which help you to achieve most of the styling requirements.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250405T111040Z" creationid="alexa" creationdate="20250405T111040Z">
@@ -5061,6 +5865,14 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T211612Z" creationid="alexa" creationdate="20250404T211612Z">
         <seg>YouTube</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your website should now be fully operational on your custom domain, for example, https://stride-docs.vaclavelias.com/4.2/en/ is hosted on GitHub Pages</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T153933Z" creationid="alexa" creationdate="20250405T153933Z">
+        <seg>Seu site agora deve estar totalmente operacional em seu domínio personalizado, por exemplo: https://stride-docs.vaclavelias.com/4.2/en/, hospedado no GitHub Pages</seg>
       </tuv>
     </tu>
     <tu>
@@ -5127,6 +5939,28 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="alexa" changedate="20250404T220044Z" creationid="alexa" creationdate="20250404T220044Z">
         <seg>fix: Fixes mouse release for Winforms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on:
+#  push:
+#    branches:
+#      - staging</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145819Z" creationid="alexa" creationdate="20250405T145819Z">
+        <seg>on:
+#  push:
+#    branches:
+#      - staging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>workflow_dispatch:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="alexa" changedate="20250405T145823Z" creationid="alexa" creationdate="20250405T145823Z">
+        <seg>workflow_dispatch:</seg>
       </tuv>
     </tu>
     <tu>

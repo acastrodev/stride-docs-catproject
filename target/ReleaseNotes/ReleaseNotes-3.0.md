@@ -514,7 +514,7 @@ This should happen automatically but you might need a few tweaks afterwise (i.e.
 
 *   Fix crash in physics engine when collider shapes are removed from the scene and unloaded during the same frame.
 
-### Prerequisites
+### Pré-requisitos
 
 *   Readd Microsoft.Net.Component.4.6.1.TargetingPack to MSBuild prerequisites
 

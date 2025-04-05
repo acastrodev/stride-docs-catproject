@@ -71,7 +71,7 @@ Observe que algumas pastas existentes possuem uma pasta `media`. Essa pasta cont
 
 Essas páginas contêm tutoriais sobre como usar o Stride, um motor de jogos C# de código aberto.
 
-### Criando uma Nova Página de Tutorial
+### Criando uma nova página de tutorial
 
 1. Crie uma nova pasta de tutorial dentro da pasta `tutorial`.
 1. Crie um novo arquivo `index.md` dentro dessa pasta. Verifique os tutoriais existentes para ter uma referência do conteúdo desse arquivo.

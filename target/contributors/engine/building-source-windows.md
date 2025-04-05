@@ -1,6 +1,6 @@
 # Building the source to Stride engine
 
-## Prerequisites
+## Pré-requisitos
 
 1. **Latest [Git](https://git-scm.com/downloads)** with **Large File Support** selected during setup. For convenience, you might also use a Git UI client like [GitExtensions](https://gitextensions.github.io/).
 2. **[.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)**
