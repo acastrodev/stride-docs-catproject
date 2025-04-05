@@ -4719,8 +4719,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Run GitHub Action</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T161329Z" creationid="alexa" creationdate="20250405T152740Z">
-        <seg>Executar uma GitHub Action</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T161657Z" creationid="alexa" creationdate="20250405T152740Z">
+        <seg>Executando a GitHub Action</seg>
       </tuv>
     </tu>
     <tu>

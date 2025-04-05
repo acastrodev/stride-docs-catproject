@@ -99,7 +99,7 @@ No seu repositório `stride-docs`:
 1. Acesse **Settings** → **Actions** → **General** → **Workflow Permissions**
    - Escolha **Read and write permissions**
 
-### Executar uma GitHub Action
+### Executando a GitHub Action
 
 1. Acesse **Actions**, selecione **Build Stride Docs for GitHub Staging**
    - Clique em **Run workflow**; você pode selecionar uma branch, se desejar
