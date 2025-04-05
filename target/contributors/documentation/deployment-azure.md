@@ -2,7 +2,7 @@
 
 Nossa equipe explorou diversas opções de implantação, optando, por fim, pelo método descrito neste guia devido à sua eficácia. Além disso, para fins de demonstração, consulte a seção [Implantação de páginas no GitHub](deployment-azure.md#deployment-to-github-pages) para conhecer estratégias alternativas de implantação que você pode usar para apresentar suas atualizações.
 
-## Implantação no Azure Web Apps (Windows) com IIS
+## Implantação do Azure Aplicativo Web (Windows) com IIS
 
 Este guia foi elaborado para pessoas que já possuem acesso a uma subscrição Azure. Ele oferece instruções passo a passo para configurar um novo Azure Web App, especificamente voltado para ambientes de staging (pré-produção). Observe que o processo para configurar um ambiente de produção é semelhante, mas exige um nome distinto para o aplicativo web.
 
@@ -11,7 +11,7 @@ As implantações no Azure Web Apps são automatizadas por meio do GitHub Action
 > [!NOTE]
 > O processo de implantação descrito aqui já está estabelecido e em execução, hospedado no Azure e patrocinado pela .NET Foundation. Este guia serve principalmente como referência para mantenedores, caso seja necessário configurar uma nova implantação.
 
-### Configurando um novo Azure Web App
+### Configurando um novo Azure Aplicativo Web
 
 Siga atentamente estas instruções para criar seu Azure Web App em um ambiente de staging. Para implantar em produção, repita estes passos utilizando um nome diferente para o aplicativo web.
 

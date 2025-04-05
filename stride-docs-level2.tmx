@@ -3199,8 +3199,8 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       <tuv xml:lang="en">
         <seg>Deploying to Azure Web Apps (Windows) with IIS</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T144455Z" creationid="alexa" creationdate="20250405T142911Z">
-        <seg>Implantação no Azure Web Apps (Windows) com IIS</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T160614Z" creationid="alexa" creationdate="20250405T142911Z">
+        <seg>Implantação do Azure Aplicativo Web (Windows) com IIS</seg>
       </tuv>
     </tu>
     <tu>
@@ -4791,8 +4791,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Setting up a new Azure Web App</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T143311Z" creationid="alexa" creationdate="20250405T143311Z">
-        <seg>Configurando um novo Azure Web App</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T160547Z" creationid="alexa" creationdate="20250405T143311Z">
+        <seg>Configurando um novo Azure Aplicativo Web</seg>
       </tuv>
     </tu>
     <tu>
