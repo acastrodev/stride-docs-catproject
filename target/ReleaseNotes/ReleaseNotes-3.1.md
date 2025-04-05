@@ -77,7 +77,7 @@ Xenko supports .NET Standard for most of its runtime assemblies.
 
 Xenko games can run on .NET Core for both Windows and Linux.
 
-### Tutorials
+### Tutoriais
 
 Xenko now has a [tutorial section](https://doc.xenko.com/3.1/en/tutorials/index.html) in the documentation!
 

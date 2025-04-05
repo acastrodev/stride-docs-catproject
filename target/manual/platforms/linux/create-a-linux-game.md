@@ -56,7 +56,7 @@ There are two additional settings that control the execution of a game:
 Like any Stride project, you can also compile the project directly from Visual Studio or from the command line. In both cases, you need to select a valid configuration:
 
 * Debug
-* Release
+* Lançamento
 * CoreCLR_Debug
 * CoreCLR_Release
 

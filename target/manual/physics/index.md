@@ -23,7 +23,7 @@ This section explains how physics components work, how to add them to your proje
 * [Physics Queries](raycasting.md): Operations to find objects in the scene
 * [Physics Update](physics-update.md): Updating logic alongside physics
 
-### Tutorials
+### Tutoriais
 
 * [Physics tutorials](tutorials.md)
 * [Create a bouncing ball](create-a-bouncing-ball.md): Use the static collider and rigidbody components to create a ball bouncing on a floor

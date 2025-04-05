@@ -2,7 +2,7 @@
 
 ![Manual](get-started/media/game-editor-scene.jpg)
 
-These pages contain information about how to use Stride, an open-source C# game engine.
+Essas páginas contêm informações sobre como usar o Stride, um motor de jogos C# de código aberto.
 
 > [!Note]
 > The Stride manual is under construction and is regularly updated with new content. Follow [Stride on X](https://x.com/stridedotnet?s=20) for documentation updates.
@@ -17,7 +17,7 @@ These pages contain information about how to use Stride, an open-source C# game 
 - <span class="badge text-bg-success">New</span> [Physics](physics/index.md) - Bepu Physics docs added
 - <span class="badge text-bg-info">Updated</span> [Bullet Physics](physics-bullet/index.md) - Bullet Physics docs moved
 
-#### Tutorials
+#### Tutoriais
 
 - <span class="badge text-bg-info">Updated</span> [Tutorials](../tutorials/index.md) - Quick Tutorails section added
 
@@ -39,7 +39,7 @@ These pages contain information about how to use Stride, an open-source C# game 
 - <span class="badge text-bg-info">Updated</span> [Engine - Entity Component model](engine/entity-component-system/index.md) - Content improvements
 - <span class="badge text-bg-info">Updated</span> [Stride for Unity® developers](stride-for-unity-developers/index.md) - Content improvements
 
-#### Tutorials
+#### Tutoriais
 
 - <span class="badge text-bg-info">Updated</span> [Tutorials](../tutorials/index.md) - Added lesson counts and total length
 -

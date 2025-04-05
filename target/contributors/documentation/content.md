@@ -1,136 +1,136 @@
-# Documentation content
+# Conteúdo da documentação
 
-## Content Updates
+## Atualizações de conteúdo
 
-If you want to contribute and update the website, please follow the instructions below.
+Se você deseja contribuir e atualizar o site, siga as instruções abaixo.
 
-Small updates can be done directly in the GitHub web interface, for bigger updates the local development environment is required, which is described in the [Installation](installation.md) section.
+Pequenas atualizações podem ser feitas diretamente pela interface web do GitHub. Já para atualizações maiores, é necessário configurar um ambiente de desenvolvimento local, conforme descrito na seção [Instalação](installation.md).
 
-You can use any text editor to make changes. If you are using **Visual Studio**, you can open `Stride.Docs.sln` solution file in the root of the repository and start making your updates directly from this IDE.
+Você pode usar qualquer editor de texto para fazer modificações. Se estiver utilizando o **Visual Studio**, é possível abrir o arquivo de solução `Stride.Docs.sln`, localizado na raiz do repositório, e começar a editar a partir do próprio IDE.
 
-You are always welcome to [create an issue](https://github.com/stride3d/stride-docs/issues) to discuss your changes before you start working on them.
+Você também pode [criar uma issue](https://github.com/stride3d/stride-docs/issues) para discutir suas alterações antes de começar a trabalhar nelas.
 
-### Small Updates
+### Pequenas atualizações
 
-Creating an issue is not required for small updates, but it is recommended to let others know what you are working on. If you are not sure whether your update is small or not, please create an issue first.
+Criar uma issue não é obrigatório para pequenas atualizações, mas é recomendável avisar outros colaboradores sobre o que você está fazendo. Se estiver em dúvida se sua alteração é pequena ou não, prefira criar uma issue primeiro.
 
-#### What is a small update?
+#### O que é considerado uma pequena atualização?
 
-We can define small updates as changes to the content of the website:
+Consideramos pequenas atualizações aquelas que envolvem alterações no conteúdo do site, como:
 
-- Update the content of an existing page (manual, tutorial or release note, ..)
-- Add a [new manual](#creating-new-manual-page) or [tutorial](#creating-new-tutorial-page) or any new content
-- Fix a typo
+- Atualizar o conteúdo de uma página existente (manual, tutorial ou nota de versão, etc.)
+- Adicionar um [novo manual](#creating-new-manual-page) ou [tutorial](#creating-new-tutorial-page) ou qualquer outro conteúdo novo
+- Corrigir erros de digitação
 
-#### Steps
+#### Etapas
 
-> [!NOTE]
-> This guide assumes that you are already familiar with updating files on GitHub.
+> [!NOTA]
+> Este guia parte do princípio de que você já está familiarizado com a atualização de arquivos no GitHub.
 
-For the following instructions, use the [Stride Docs GitHub repository](https://github.com/stride3d/stride-docs):
+Para seguir as instruções abaixo, use o repositório oficial do Stride Docs no GitHub:[](https://github.com/stride3d/stride-docs)
 
 [!INCLUDE [small-updates](../../includes/small-update-instructions.md)]
 
-### Major Updates
+### Atualizações maiores
 
-[Creating an issue](https://github.com/stride3d/stride-docs/issues) is **required** for major updates, so that others can comment on your changes and provide feedback.
+Para atualizações significativas, é **obrigatório** [criar uma issue](https://github.com/stride3d/stride-docs/issues), para que outros possam comentar e oferecer sugestões.
 
-Major updates can be defined as significant changes to the website's design, where it's beneficial to preview the impact of your changes to ensure they achieve the desired result. This may include:
+Atualizações maiores envolvem mudanças estruturais no site, onde é útil visualizar o impacto antes de efetivar a alteração. Exemplos:
 
-- Update Docfx version
-- Modifying layouts
-- Revamping design elements
+- Atualização da versão do Docfx
+- Modificações em layouts
+- Reformulação de elementos visuais
 
-Start by setting up your local development environment, as described in the [Installation](installation.md) section. After making and testing your changes locally, you should create a pull request to merge your changes into the `master` branch.
+Comece configurando seu ambiente de desenvolvimento local, conforme descrito na seção [Instalação](installation.md). Após realizar e testar suas mudanças localmente, envie um pull request para mesclá-las na branch `master`.
 
-When submitting a pull request, especially for substantial changes, it's recommended to include **screenshots** or a link to your local deployment. This approach helps maintainers visualize and assess your proposed changes more effectively. If you prefer to use GitHub infrastructure for your demonstrations, refer to our [Deployment to GitHub Pages guide](deployment-azure.md#deployment-to-github-pages) for instructions on deploying via GitHub Actions.
+Ao enviar um pull request, especialmente para mudanças grandes, recomenda-se incluir **capturas de tela** ou um link para a versão local do site. Essa abordagem ajuda os mantenedores a visualizar e avaliar suas alterações propostas de forma mais eficaz. Caso prefira usar a infraestrutura do GitHub para isso, consulte nosso [guia de implantação no GitHub Pages](deployment-azure.md#deployment-to-github-pages).
 
 ## Manual
 
-These pages contain information about how to use Stride, an open-source C# game engine.
+Essas páginas contêm informações sobre como usar o Stride, um motor de jogos C# de código aberto.
 
 > [!IMPORTANT]
-> **SEO Note:** Ensure that the file name includes essential keywords related to the content of the article. This is crucial because the file name dictates the URL of the content page, which plays a significant role in search engine optimization (SEO).
+> **Nota de SEO:** Certifique-se de que o nome do arquivo inclua palavras-chave essenciais relacionadas ao conteúdo do artigo. Isso é crucial porque o nome do arquivo determina a URL da página de conteúdo, o que desempenha um papel importante na otimização para motores de busca (SEO).
 
-### Creating New Manual Page
+### Criando uma nova página de manual
 
-1. Create a new file in the `manual` folder, in the already existing folders (e.g. animation, audio, ..) or create a new folder in the `manual` folder.
-   - If you created a new folder, make sue that you create also `index.md` file in this folder.
-1. Use any existing page as a template for the new page.
-1. Update `toc.yml` (or `toc.md`) file in the `manual` folder to include the new page or folder. The `toc.yml` file contains the table of contents for the manual pages, which is displayed on the left side of the manual pages. These pages are also included in the optionally generated PDF file.
+1. Crie um novo arquivo na pasta manual, em uma das pastas já existentes (por exemplo, animation, audio, etc.) ou crie uma nova pasta dentro da pasta manual.````
+   - Se você criou uma nova pasta, certifique-se também de criar um arquivo index.md dentro dela.``
+1. Use qualquer página existente como modelo para a nova página.
+1. Atualize o arquivo toc.yml (ou toc.md) dentro da pasta manual para incluir a nova página ou pasta. O arquivo toc.yml contém o índice das páginas do manual, que é exibido no lado esquerdo das páginas do manual. Essas páginas também são incluídas no arquivo PDF gerado opcionalmente.````````
 
-### Naming Convention
+### Convenção de nomes
 
-Observe existing pages and folders for the naming convention.
+Verifique as páginas e pastas existentes para seguir a convenção de nomes.
 
-### Media
+### Mídia
 
-You can observe that existing folders might have a `media` folder. This folder contains images and videos used in the manual pages. You can use this folder or create a new one in your folder. If possible make sure that images are `.webp` format and videos are `.mp4` format.
+Observe que algumas pastas existentes possuem uma pasta media. Essa pasta contém imagens e vídeos usados nas páginas do manual. Você pode usar essa pasta ou criar uma nova dentro da sua própria pasta. Se possível, certifique-se de que as imagens estejam no formato `webp` e os vídeos no formato `.mp4`.``
 
 ## Tutorial
 
-These pages contain tutorials on how to use Stride, an open-source C# game engine.
+Essas páginas contêm tutoriais sobre como usar o Stride, um motor de jogos C# de código aberto.
 
-### Creating New Tutorial Page
+### Criando uma Nova Página de Tutorial
 
-1. Create a new tutorial folder in the `tutorial` folder.
-1. Create a new `index.md` file in this folder. Observe existing tutorials for the content of this file.
-1. Create markdown files for each step of the tutorial. Observe existing tutorials structure for the content of these files.
-1. Update `toc.yml` file in the `tutorial` folder to include the new tutorial folder. The `toc.yml` file contains the table of contents for the tutorial pages, which is displayed on the left side of the tutorial pages.
+1. Crie uma nova pasta de tutorial dentro da pasta `tutorial`.
+1. Crie um novo arquivo `index.md` dentro dessa pasta. Verifique os tutoriais existentes para ter uma referência do conteúdo desse arquivo.
+1. Crie arquivos markdown para cada etapa do tutorial. Verifique a estrutura dos tutoriais existentes para basear o conteúdo desses arquivos.
+1. Atualize o arquivo `toc.yml` na pasta `tutorial` para incluir a nova pasta de tutorial. O arquivo `toc.yml` contém o índice das páginas de tutorial, que é exibido no lado esquerdo das páginas de tutorial.
 
-### Naming Convention
+### Convenção de nomes
 
-Observe existing pages and folders for the naming convention.
+Verifique as páginas e pastas existentes para seguir a convenção de nomes.
 
-### Media
+### Mídia
 
-You can observe that existing tutorials have a `media` folder. This folder contains images. If possible make sure that images are `.webp` format. The videos should be uploaded to YouTube and embedded in the tutorial pages.
+Verifique que os tutoriais existentes possuem uma pasta `media`. Essa pasta contém imagens. Se possível, certifique-se de que as imagens estejam no formato `.webp`. Os vídeos devem estar no YouTube e incorporados nas páginas do tutorial.
 
-## Other Sections
+## <g1>Outras seções</g1>
 
-In addition to the Manual and Tutorial sections mentioned above, the same principles apply to both existing and new sections. Follow the established formats and conventions to ensure consistency and clarity throughout the documentation.
+Além das seções Manual e Tutorial mencionadas acima, os mesmos princípios se aplicam a seções existentes e novas. Siga os formatos e convenções estabelecidos para garantir consistência e clareza em toda a documentação.
 
-## Shortcodes and Includes
+## Shortcodes e includes
 
-Docfx supports additional markdown syntax to enrich content. These syntaxes are specific to Docfx and **may not render** correctly on other platforms, like GitHub.
+O Docfx oferece suporte a sintaxes adicionais em markdown para enriquecer o conteúdo. Essas sintaxes são específicas do Docfx e **podem não ser renderizadas** corretamente em outras plataformas, como o GitHub.
 
-For more information, read the Docfx documentation on [markdown, shortcodes and includes](https://dotnet.github.io/docfx/docs/markdown.html?tabs=linux%2Cdotnet). Some commonly used features include:
+Para mais informações, leia a documentação do Docfx sobre [markdown, shortcodes e includes](https://dotnet.github.io/docfx/docs/markdown.html?tabs=linux%2Cdotnet). Alguns recursos comuns incluem:
 
-- **Alert**: These are block quotes that render with distinct colors and icons, highlighting the importance or nature of the content
-- **Video**: Embed video content directly into your documentation
-- **Image**: Insert images to enhance the visual aspect of the documentation
-- **Math Expressions**: Integrate mathematical notations and expressions
-- **Mermaid Diagrams**: Embed [mermaid diagrams](https://mermaid.js.org/) for flowcharts and other graphical representations
-- **Include Markdown Files**: Include content from other markdown files seamlessly
-- **Code Snippet**: Insert code snippets for better clarity and demonstration
-- **Tabs**: Organize content into tabbed sections for improved readability
+- **Alertas**: Blocos de citação com cores e ícones distintos, destacando a importância ou natureza do conteúdo.
+- **Vídeo**: Incorpora conteúdo de vídeo diretamente na documentação.
+- **Imagem**: Insere imagens para melhorar o aspecto visual da documentação.
+- **Expressões matemáticas**: Integra notações e expressões matemáticas.
+- **Diagramas Mermaid**: Incorpora [diagramas mermaid](https://mermaid.js.org/) para fluxogramas e outras representações gráficas.
+- **Incluir arquivos markdown**: Inclui conteúdo de outros arquivos markdown de forma transparente.
+- **Trecho de código**: Insere trechos de código para melhor clareza e demonstração.
+- **Abas (Tabs)**: Organiza conteúdo em seções com abas para melhorar a legibilidade.
 
-## Web Assets
+## Recursos web
 
-Our main web assets include:
+Nossos principais recursos web incluem:
 
-- `template/partials/affix.tmpl.partial` - Currently not functioning
-- `template/partials/footer.tmpl.partial` - Currently not functioning
-- `template/public/main.css` - Contains minor Bootstrap CSS overrides
+- `template/partials/affix.tmpl.partial` – Atualmente não funcional
+- `template/partials/footer.tmpl.partial` – Atualmente não funcional
+- `template/public/main.css` – Contém pequenas personalizações do CSS do Bootstrap
 - `template/public/main.js`:
-   - Sets the top navigation icons, such as GitHub, Discord, Twitter
-   - Injects the Stride Docs version selection above the filter in the side navigation
-   - Injects the Stride Docs language selection into the top navigation
-- `docfx.json` - The HTML footer is included in the `_appFooter` section
+   - Define os ícones da navegação superior, como GitHub, Discord, Twitter
+   - Injeta a seleção de versão da documentação do Stride acima do filtro na navegação lateral
+   - Injeta a seleção de idioma da documentação do Stride na navegação superior
+- `docfx.json` – O rodapé HTML está incluído na seção `_appFooter`
 
-## Styling
+## Estilo
 
-### Bootstrap Customization
+### Personalização do Bootstrap
 
-We utilize the `modern` template provided by Docfx, which employs the [Bootstrap](https://getbootstrap.com/) framework, version **5.3**. This includes the dark theme, enabled by Docfx.
+Utilizamos o template `modern` fornecido pelo Docfx, que emprega o framework [Bootstrap](https://getbootstrap.com/) na versão **5.3**. Isso inclui o tema escuro, habilitado pelo Docfx.
 
 > [!IMPORTANT]
-> Prioritize the use of Bootstrap's inherent styling before integrating any custom styles. You should be familiar with [Bootstrap Utilities](https://getbootstrap.com/docs/5.3/utilities/api/) which help you to achieve most of the styling requirements.
+> Priorize o uso dos estilos nativos do Bootstrap antes de aplicar quaisquer estilos personalizados. Você deve estar familiarizado com [Utilities do Bootstrap](https://getbootstrap.com/docs/5.3/utilities/api/), que ajudam a atender à maioria dos requisitos de estilo.
 
-### CSS Guidelines
+### Diretrizes de CSS
 
-Our goal is to write minimal CSS code to keep the website lightweight, leveraging the Bootstrap framework to the fullest extent possible.
+Nosso objetivo é escrever o mínimo possível de código CSS para manter o site leve, aproveitando ao máximo o framework Bootstrap.
 
-## Submitting your Changes
+## Submetendo suas alterações
 
 [!INCLUDE [submitting-changes](../../includes/submitting-changes.md)]

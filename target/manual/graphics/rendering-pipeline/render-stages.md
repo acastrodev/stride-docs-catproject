@@ -21,7 +21,7 @@ A typical setup of render stages:
 | ---------------- | ------------
 | Opaque | Main |
 | Transparent | Main |
-| Interface de Usuário | Main |
+| Interface do usuário | Main |
 | Shadow caster | Shadow caster |
 
 ## Sort objects in a render stage

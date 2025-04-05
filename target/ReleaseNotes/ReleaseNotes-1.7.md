@@ -167,7 +167,7 @@ Lastly, you no longer have to register (`AddListener`/`RemoveListener`) `AudioLi
 - Removed `AddListener`, `RemoveListener` from `AudioSystem`
 - Many Methods that had `SoundEffect` or `SoundMusic` in the signature now have just `Sound`, e.g. `AudioEmitterComponent.AttachSound`
 
-### Interface de Usuário
+### Interface do usuário
 
 - Font size has been completely changed to pixel height. Existing sprite font assets will be updated automatically
 - Properties of type `Sprite` have been changed to properties of type `ISpriteProvider`
@@ -208,7 +208,7 @@ This release brings many improvements to the particle engine.
 - The notification when the sources of some assets have changed is now a dialog message instead of a notification popup on the corner of the screen
 - You can now drag & drop assets directly into the Property Grid to create components
 
-##### Interface de Usuário
+##### Interface do usuário
 
 - Signed Distance Field sprite font asset type added, allowing users to create sharp, scalable fonts which can be easily resized at runtime at no extra cost
 - Added support for EditText on Windows 10, Windows Store and Windows Phone platforms
@@ -218,7 +218,7 @@ This release brings many improvements to the particle engine.
 - The internal YAML format of the SceneAsset and PrefabAsset has been updated to be more generic regarding asset composite.
 - The tracking of source files for assets, in particular, has been improved and fixed
 
-##### Graphics
+##### Gráficos
 
 - Added a way to keep a constrained aspect ratio in Render Camera, and automatically have pillarboxes/letterboxes when there are screens with different ratios
 - Added the concept of "LogicalGroup" to easily do partial updates of constant buffer and resources

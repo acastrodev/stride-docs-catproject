@@ -1,4 +1,4 @@
-# Tutorials
+# Tutoriais
 
 * [Inheritance](inheritance.md)
 * [Lasers and lightning](lasers-and-lightning.md)

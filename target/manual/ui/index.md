@@ -1,4 +1,4 @@
-# Interface de Usuário
+# Interface do usuário
 
 Stride features a UI editor and layout system you can use to build sophisticated user interfaces. It supports 2D and 3D independently of resolution.
 

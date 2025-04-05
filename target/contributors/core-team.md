@@ -1,36 +1,36 @@
-# Core Team
+# Equipe Principal
 
-The core team is a small group of volunteer developers, each with expertise in different areas of development. There are no full-time developers solely dedicated to Stride's advancement; instead, the engine progresses through voluntary contributions from both the core team and the [wider community](https://github.com/stride3d/stride?tab=readme-ov-file#contributors-). These individuals dedicate their spare time to enhancing and expanding the engine, driven by personal interest, passion for the project, and their specialized knowledge.
+A equipe principal é formada por um pequeno grupo de desenvolvedores voluntários, cada um com experiência em diferentes áreas do desenvolvimento. Não há desenvolvedores em tempo integral exclusivamente dedicados ao avanço do Stride; em vez disso, o motor evolui graças às contribuições voluntárias tanto da equipe principal quanto da [comunidade em geral](https://github.com/stride3d/stride?tab=readme-ov-file#contributors-). Esses colaboradores dedicam seu tempo livre para aprimorar e expandir o motor, movidos por interesse pessoal, paixão pelo projeto e seu conhecimento técnico especializado.
 
-The core team is composed of members who make frequent contributions to the project, whether in code, documentation, or community management.
+A equipe principal é composta por membros que contribuem com frequência para o projeto — seja com código, documentação ou na gestão da comunidade.
 
 <table class="table table-striped table-sm">
   <thead>
     <tr>
       <th>Discord</th>
       <th>GitHub</th>
-      <th>Location</th>
-      <th>Focus / Expertise</th>
+      <th>Localização</th>
+      <th>Área de foco / Especialidade</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
         <strong>xen2</strong>
-        <br><i>Lead developer of Stride</i>
-        <br><i class="small">(Original &amp; Current)</i>
+        <br><i>Desenvolvedor líder do Stride</i>
+        <br><i class="small">(Original e Atual)</i>
       </td>
       <td><a href="https://github.com/xen2">xen2</a></td>
-      <td>Japan</td>
+      <td>Japão</td>
       <td>
           <ul>
-              <li>Build</li>
-              <li>Release</li>
-              <li>Most engine areas</li>
+              <li>Construção</li>
+              <li>Lançamento</li>
+              <li>Partes do motor de jogos</li>
               <ul>
-                  <li>Asset pipeline</li>
-                  <li>Render pipelne</li>
-                  <li>Shader system</li>
+                  <li>Pipeline de assets</li>
+                  <li>Pipeline de renderização</li>
+                  <li>Sistema de shader</li>
               </ul>
           </ul>
       </td>
@@ -38,12 +38,12 @@ The core team is composed of members who make frequent contributions to the proj
     <tr>
       <td><strong>tebjan</strong></td>
       <td><a href="https://github.com/tebjan">tebjan</a></td>
-      <td>Germany</td>
+      <td>Alemanha</td>
       <td>
           <ul>
-              <li>C# in general</li>
-              <li>Render pipeline</li>
-              <li>Graphics</li>
+              <li>C# em geral</li>
+              <li>Pipeline de renderização</li>
+              <li>Gráficos</li>
               <li><g1>Shader Multi-Malha</g1></li>
           </ul>
       </td>
@@ -51,38 +51,38 @@ The core team is composed of members who make frequent contributions to the proj
     <tr>
       <td><strong>Eideren</strong></td>
       <td><a href="https://github.com/Eideren">Eideren</a></td>
-      <td>Belgium</td>
+      <td>Bélgica</td>
       <td>
           <ul>
-              <li>C# in general</li>
+              <li>C# em geral</li>
               <li><g1>Shader Multi-Malha</g1></li>
               <li>Física</li>
               <li>Multithreading</li>
-              <li>Input/Gameplay</li>
-              <li>Math</li>
+              <li>Entrada/Jogabilidade</li>
+              <li>Matemática</li>
           </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Manio143</strong></td>
       <td><a href="https://github.com/manio143">Manio143</a></td>
-      <td>Ireland</td>
+      <td>Irlanda</td>
       <td>
           <ul>
-              <li>Asset system</li>
-              <li>Porting Editor to Avalonia</li>
-              <li>Plugin system</li>
+              <li>Sistema de assets</li>
+              <li>Portabilidade do Editor para Avalonia</li>
+              <li>Sistema de plugins</li>
           </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Vašo</strong></td>
       <td><a href="https://github.com/VaclavElias">VaclavElias</a></td>
-      <td>United Kingdom</td>
+      <td>Reino Unido</td>
       <td>
           <ul>
               <li>Website</li>
-              <li>Documenation</li>
+              <li>Documentação</li>
               <li>Stride Community Toolkit</li>
               <li>C#</li>
           </ul>
@@ -91,10 +91,10 @@ The core team is composed of members who make frequent contributions to the proj
     <tr>
       <td><strong>Simba</strong></td>
       <td><a href="https://github.com/Doprez">Doprez</a></td>
-      <td>Canada</td>
+      <td>Canadá</td>
       <td>
           <ul>
-              <li>Video Tutorials</li>
+              <li>Tutoriais em vídeo</li>
               <li>C#</li>
           </ul>
       </td>
@@ -102,22 +102,22 @@ The core team is composed of members who make frequent contributions to the proj
     <tr>
       <td><strong>Joreyk</strong></td>
       <td><a href="https://github.com/IXLLEGACYIXL">IXLLEGACYIXL</a></td>
-      <td>Germany</td>
+      <td>Alemanha</td>
       <td>
           <ul>
-              <li>Yaml Serializer Source Generator</li>
-              <li>Stride Diagnostics Analyzer</li>
-              <li>Overall source generators</li>
+              <li>Gerador de código-fonte Yaml Serializer</li>
+              <li>Diagnostic Analyzer do Stride</li>
+              <li>Geradores de código em geral</li>
           </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Youness</strong></td>
       <td><a href="https://github.com/ykafia">Youness KAFIA</a></td>
-      <td>France</td>
+      <td>França</td>
       <td>
           <ul>
-              <li>Shader system</li>
+              <li>Sistema de shader</li>
               <li>ECS</li>
           </ul>
       </td>
@@ -125,12 +125,12 @@ The core team is composed of members who make frequent contributions to the proj
     <tr>
       <td><strong>Aggror</strong></td>
       <td><a href="https://github.com/Aggror">Aggror</a></td>
-      <td>Netherlands</td>
+      <td>Países Baixos</td>
       <td>
           <ul>
-              <li>Official video tutorials</li>
-              <li>Community meetings</li>
-              <li>Documentation</li>
+              <li>Tutoriais oficiais em vídeo</li>
+              <li>Reuniões com a comunidade</li>
+              <li>Documentação</li>
               <li>C#</li>
           </ul>
       </td>
@@ -138,23 +138,23 @@ The core team is composed of members who make frequent contributions to the proj
     <tr>
       <td><strong>Jkao</strong></td>
       <td><a href="https://github.com/jklawreszuk">jklawreszuk</a></td>
-      <td>Poland</td>
+      <td>Polônia</td>
       <td>
           <ul>
               <li>C#</li>
-              <li>Linux related stuff</li>
-              <li>Asset compiler</li>
-              <li>Metrics</li>
+              <li>Tópicos relacionados ao Linux</li>
+              <li>Compilador de assets</li>
+              <li>Métricas</li>
           </ul>
       </td>
     </tr>
     <tr>
       <td>
         <strong>kryptosfr</strong>
-        <br><i>Original developer of Stride</i>
-      </td>
+        <i>Desenvolvedor original do Stride</i>
+      <br></td>
       <td><a href="https://github.com/Kryptos-FR">Kryptos-FR</a></td>
-      <td>France</td>
+      <td>França</td>
       <td>
           <ul>
               <li>Game Studio</li>

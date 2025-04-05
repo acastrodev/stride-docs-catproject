@@ -187,7 +187,7 @@ Previously, rendering pipeline was customized by magic `IPipelinePlugin` at runt
 
 * Added HRTF binaural audio support for Windows (10+)
 
-##### Graphics
+##### Gráficos
 
 * Added MSAA support
 * Added custom MSAA resolving filters
@@ -263,7 +263,7 @@ Previously, rendering pipeline was customized by magic `IPipelinePlugin` at runt
 * Scripts are no longer started or updated if another script removes them from the scene in the same frame
 * `ImageElements` are now properly displayed when using a `SpriteFromTexture`
 
-##### Graphics
+##### Gráficos
 
 * Orthographic views no longer display broken shadows
 * Shadows no longer disappear when viewed exactly vertically
@@ -298,7 +298,7 @@ Previously, rendering pipeline was customized by magic `IPipelinePlugin` at runt
 
 * Fixed a crash when computing light probes
 
-##### Build
+##### Construção
 
 * Fixed a possible issue when compiling a game that targets iOS and the right Xamarin version cannot be found
 
@@ -311,7 +311,7 @@ Previously, rendering pipeline was customized by magic `IPipelinePlugin` at runt
 * Visual Studio version picker now shows the installation nickname to easily differentiate when multiple instances are installed side by side
 * Add the concept of _active scene_ in the scene editor. Dropping an asset to the scene view will an entity add to the currently active scene instead of the root scene
 
-##### Graphics
+##### Gráficos
 
 * VR: Added a CopyMirror option to control if VR rendering is copied back to current render target
 * Shaders: StructuredBuffer were being declared before their struct type; ordering should now be correct
@@ -335,7 +335,7 @@ Previously, rendering pipeline was customized by magic `IPipelinePlugin` at runt
 * Fix runtime crash when adding twice the same VR device API in the required API list
 * OpenVR: camera was rotating around world center instead of camera center when a rotation was applied on entity
 
-##### Graphics
+##### Gráficos
 
 * Fixed point lights not casting shadows from objects that have tessellation enabled
 * Fixed a bug where some lights would not render [#586](https://github.com/SiliconStudio/xenko/issues/586)

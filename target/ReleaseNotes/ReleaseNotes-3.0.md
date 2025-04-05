@@ -126,7 +126,7 @@ This should happen automatically but you might need a few tweaks afterwise (i.e.
 
 *   Detect FFMpeg errors
 
-### Build
+### Construção
 
 *   Add explicit TargetFramework to project files
 *   Added DataMemberIgnore on LocalReflections.DebugModes to avoid serialization mismatch
@@ -284,7 +284,7 @@ This should happen automatically but you might need a few tweaks afterwise (i.e.
 
 *   Removed bunch of unused files and fixed some license headers
 
-### Graphics
+### Gráficos
 
 *   Add support for panorama 2D textures to skybox asset.
 *   Add ViewDimension property on Texture. Adjust code accordingly so that the engine behaves properly on View textures.

@@ -222,7 +222,7 @@ The documentation is now available in Japanese. To switch languages, use the **L
 * Added streaming support for textures.
 * Added support for GPU queries.
 
-##### Graphics
+##### Gráficos
 
 * FXAA Quality was crashing in many cases, because the value doesn't work with all numbers between 10 and 39. It's now exposed as two controls: a `Dithering` combobox and a `Quality` slider
 * Improved MSAA depth buffer resolving
@@ -293,7 +293,7 @@ The documentation is now available in Japanese. To switch languages, use the **L
 * Fixed texture and buffer memory calculations accessible from `GraphicsDevice`
 * Removed obsolete `ChildSceneComponent` class
 
-##### Graphics
+##### Gráficos
 
 * Fixed bug with grid ignoring depth with MSAA enabled
 * Added support for nointerpolation/noperspective in Xenko shaders

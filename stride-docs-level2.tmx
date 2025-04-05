@@ -28,36 +28,66 @@ graph TB
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>!IMPORTANT<ept i="1">&lt;/g1&gt;</ept>
+<bpt i="2" x="2">&lt;g2&gt;</bpt>SEO Note:<ept i="2">&lt;/g2&gt;</ept> Ensure that the file name includes essential keywords related to the content of the article.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105101Z" creationid="alexa" creationdate="20250405T105101Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>!IMPORTANT<ept i="1">&lt;/g1&gt;</ept>
+<bpt i="2" x="2">&lt;g2&gt;</bpt>Nota de SEO:<ept i="2">&lt;/g2&gt;</ept> Certifique-se de que o nome do arquivo inclua palavras-chave essenciais relacionadas ao conteúdo do artigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>!IMPORTANT<ept i="1">&lt;/g1&gt;</ept>
+Prioritize the use of Bootstrap's inherent styling before integrating any custom styles.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T111009Z" creationid="alexa" creationdate="20250405T111009Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>!IMPORTANT<ept i="1">&lt;/g1&gt;</ept>
+Priorize o uso dos estilos nativos do Bootstrap antes de aplicar quaisquer estilos personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>!NOTE<ept i="1">&lt;/g1&gt;</ept>
 If multiple labels are applied, the release automation will prioritize the generic category first, followed by the Stride-specific category.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T215603Z" creationid="alexa" creationdate="20250404T215526Z">
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T121610Z" creationid="alexa" creationdate="20250404T215526Z">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>!NOTE<ept i="1">&lt;/g1&gt;</ept>
-Se múltiplos rótulos forem aplicados, a automação de releases priorizará a categoria genérica primeiro, seguida pela específica do Stride.</seg>
+Se múltiplos rótulos forem aplicados, a automação de versão priorizará a categoria genérica primeiro, seguida pela específica do Stride.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>!NOTE<ept i="1">&lt;/g1&gt;</ept>
+This guide assumes that you are already familiar with updating files on GitHub.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104505Z" creationid="alexa" creationdate="20250405T104505Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>!NOTA<ept i="1">&lt;/g1&gt;</ept>
+Este guia parte do princípio de que você já está familiarizado com a atualização de arquivos no GitHub.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>2D Game Tutorial UI<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212316Z" creationid="alexa" creationdate="20250404T212316Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tutorial de Interface para Jogo 2D<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120232Z" creationid="alexa" creationdate="20250404T212316Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tutorial de interface para Jogo 2D<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>2D Game Tutorial<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212305Z" creationid="alexa" creationdate="20250404T212305Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tutorial de Jogo 2D<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120226Z" creationid="alexa" creationdate="20250404T212305Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tutorial de jogo 2D<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>2D camera system<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212245Z" creationid="alexa" creationdate="20250404T212245Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Sistema de Câmera 2D<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120218Z" creationid="alexa" creationdate="20250404T212245Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Sistema de câmera 2D<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -102,10 +132,26 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Aggror<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103337Z" creationid="alexa" creationdate="20250405T103337Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Aggror<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Alert<ept i="1">&lt;/g1&gt;</ept>: These are block quotes that render with distinct colors and icons, highlighting the importance or nature of the content</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110308Z" creationid="alexa" creationdate="20250405T110308Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Alertas<ept i="1">&lt;/g1&gt;</ept>: Blocos de citação com cores e ícones distintos, destacando a importância ou natureza do conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Animation Trigger script<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T185926Z" creationid="alexa" creationdate="20250404T185926Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Script de Gatilho de Animação<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113202Z" creationid="alexa" creationdate="20250404T185926Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Script de gatilho de animação<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +206,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Basic Platformer Movement Tutorial<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212227Z" creationid="alexa" creationdate="20250404T212227Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tutorial de Movimento Básico de Plataforma<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120208Z" creationid="alexa" creationdate="20250404T212227Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tutorial de movimento básico de plataforma<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -280,8 +326,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Clean UI with no Post FX in Game Studio and Game<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T213157Z" creationid="alexa" creationdate="20250404T213157Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Interface Limpa sem Efeitos de Pós-processamento no Game Studio e no Jogo<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120849Z" creationid="alexa" creationdate="20250404T213157Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Interface limpa sem efeitos de pós-processamento no Game Studio e no jogo<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -296,24 +342,32 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Code Generator for Stride - Day 1<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212433Z" creationid="alexa" creationdate="20250404T212433Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Gerador de Código para Stride - Dia 1<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120350Z" creationid="alexa" creationdate="20250404T212433Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Gerador de código para Stride - Dia 1<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Code Generator for Stride - Day 2<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212448Z" creationid="alexa" creationdate="20250404T212448Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Gerador de Código para Stride - Dia 2<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120355Z" creationid="alexa" creationdate="20250404T212448Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Gerador de código para Stride - Dia 2<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Code Generator for Stride - Day 3<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212451Z" creationid="alexa" creationdate="20250404T212451Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Gerador de Código para Stride - Dia 3<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120358Z" creationid="alexa" creationdate="20250404T212451Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Gerador de código para Stride - Dia 3<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Code Snippet<ept i="1">&lt;/g1&gt;</ept>: Insert code snippets for better clarity and demonstration</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T122924Z" creationid="alexa" creationdate="20250405T110450Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Trecho de código<ept i="1">&lt;/g1&gt;</ept>: Insere trechos de código para melhor clareza e demonstração.</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,8 +382,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Coding Sea<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212221Z" creationid="alexa" creationdate="20250404T212221Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Mar de Código<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120158Z" creationid="alexa" creationdate="20250404T212221Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Coding Sea<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +406,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Control - Input Manager<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T181250Z" creationid="alexa" creationdate="20250404T181250Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Gerenciador de Entrada – Controle<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112323Z" creationid="alexa" creationdate="20250404T181250Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Gerenciador de entrada – controle<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +452,14 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Creating an issue<ept i="1">&lt;/g1&gt;</ept> is <bpt i="2" x="2">&lt;g2&gt;</bpt>required<ept i="2">&lt;/g2&gt;</ept> for major updates, so that others can comment on your changes and provide feedback.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104548Z" creationid="alexa" creationdate="20250405T104548Z">
+        <seg>Para atualizações significativas, é <bpt i="2" x="2">&lt;g2&gt;</bpt>obrigatório<ept i="2">&lt;/g2&gt;</ept> <bpt i="1" x="1">&lt;g1&gt;</bpt>criar uma issue<ept i="1">&lt;/g1&gt;</ept>, para que outros possam comentar e oferecer sugestões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Custom Editor Gizmos<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T181609Z" creationid="alexa" creationdate="20250404T181609Z">
@@ -408,16 +470,16 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Custom Root Renderer<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T180813Z" creationid="alexa" creationdate="20250404T180813Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Renderizador Base Personalizado<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112239Z" creationid="alexa" creationdate="20250404T180813Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Renderizador base personalizado<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Custom UI example using MyraUI<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T213302Z" creationid="alexa" creationdate="20250404T213302Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Exemplo de Interface Personalizada usando MyraUI<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120949Z" creationid="alexa" creationdate="20250404T213302Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Exemplo de interface personalizada usando Myra UI<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -502,10 +564,18 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Doprez<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102937Z" creationid="alexa" creationdate="20250405T102937Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Doprez<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Dozer Dash<ept i="1">&lt;/g1&gt;</ept> - made with a code only approach <bpt i="2" x="2">&lt;g2&gt;</bpt>plus repo<ept i="2">&lt;/g2&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T183740Z" creationid="alexa" creationdate="20250404T183721Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Dozer Dash<ept i="1">&lt;/g1&gt;</ept> - feito com uma abordagem somente código <bpt i="2" x="2">&lt;g2&gt;</bpt>mais repo<ept i="2">&lt;/g2&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T115519Z" creationid="alexa" creationdate="20250404T183721Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Dozer Dash<ept i="1">&lt;/g1&gt;</ept> - feito com uma abordagem somente código <bpt i="2" x="2">&lt;g2&gt;</bpt>mais repositório<ept i="2">&lt;/g2&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -526,10 +596,18 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Eideren<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T101558Z" creationid="alexa" creationdate="20250405T101558Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Eideren<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Emanuel-DIY Follow Along Project<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212411Z" creationid="alexa" creationdate="20250404T212411Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Projeto com Emanuel-DIY<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120423Z" creationid="alexa" creationdate="20250404T212411Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Projeto passo a passo com Emanuel-DIY<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +646,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Entity Processor<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T181922Z" creationid="alexa" creationdate="20250404T181856Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Processador de Entidade<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112545Z" creationid="alexa" creationdate="20250404T181856Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Processador de entidade<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -632,8 +710,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Fog Of War<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T190425Z" creationid="alexa" creationdate="20250404T190425Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Névoa de Guerra<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113232Z" creationid="alexa" creationdate="20250404T190425Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Névoa de guerra<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -656,8 +734,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Game Screen Manager<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T181932Z" creationid="alexa" creationdate="20250404T181932Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Gerenciador de Telas de Jogo<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112548Z" creationid="alexa" creationdate="20250404T181932Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Gerenciador de telas de Jogo<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -688,8 +766,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Get your feet wet<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184442Z" creationid="alexa" creationdate="20250404T184442Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Molhe os seus pés<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112907Z" creationid="alexa" creationdate="20250404T184442Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Dê uma molhada!<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -736,8 +814,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>How To setup Real Time Voxel Global Illumination<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212419Z" creationid="alexa" creationdate="20250404T212419Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Como configurar Iluminação Global Voxel em Tempo Real<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120343Z" creationid="alexa" creationdate="20250404T212419Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Como configurar iluminação global voxel em tempo real<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -758,6 +836,14 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>IXLLEGACYIXL<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103015Z" creationid="alexa" creationdate="20250405T103015Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>IXLLEGACYIXL<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>ImGuiDebug - Bare-bone implementation of ImGui and a couple of debug tools for Stride<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T213317Z" creationid="alexa" creationdate="20250404T213317Z">
@@ -770,6 +856,14 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T193138Z" creationid="alexa" creationdate="20250404T193138Z">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Shaders de processamento de imagem da comunidade VVVV<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Image<ept i="1">&lt;/g1&gt;</ept>: Insert images to enhance the visual aspect of the documentation</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110327Z" creationid="alexa" creationdate="20250405T110327Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Imagem<ept i="1">&lt;/g1&gt;</ept>: Insere imagens para melhorar o aspecto visual da documentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,6 +884,14 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Include Markdown Files<ept i="1">&lt;/g1&gt;</ept>: Include content from other markdown files seamlessly</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T122919Z" creationid="alexa" creationdate="20250405T110439Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Incluir arquivos markdown<ept i="1">&lt;/g1&gt;</ept>: Inclui conteúdo de outros arquivos markdown de forma transparente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Input<ept i="1">&lt;/g1&gt;</ept> Add haptic support to OpenVR and Oculus runtimes</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T215829Z" creationid="alexa" creationdate="20250404T215829Z">
@@ -798,10 +900,34 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Jkao<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103806Z" creationid="alexa" creationdate="20250405T103806Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Jkao<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Joreyk<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103011Z" creationid="alexa" creationdate="20250405T103011Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Joreyk<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Key Points for API Documentation:<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T091444Z" creationid="alexa" creationdate="20250405T091444Z">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Pontos-Chave para a Documentação da API:<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Kryptos-FR<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103858Z" creationid="alexa" creationdate="20250405T103858Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Kryptos-FR<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -918,10 +1044,18 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Manio143<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102710Z" creationid="alexa" creationdate="20250405T102710Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Manio143<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Marching Cubes ComputeShader<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T192943Z" creationid="alexa" creationdate="20250404T192943Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>ComputeShader de Marching Cubes<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T114533Z" creationid="alexa" creationdate="20250404T192943Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>ComputeShader de marching cubes<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -930,6 +1064,22 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212425Z" creationid="alexa" creationdate="20250404T212425Z">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Marian Dziubiak - YouTube<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Math Expressions<ept i="1">&lt;/g1&gt;</ept>: Integrate mathematical notations and expressions</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T122911Z" creationid="alexa" creationdate="20250405T110413Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Expressões matemáticas<ept i="1">&lt;/g1&gt;</ept>: Integra notações e expressões matemáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Mermaid Diagrams<ept i="1">&lt;/g1&gt;</ept>: Embed <bpt i="2" x="2">&lt;g2&gt;</bpt>mermaid diagrams<ept i="2">&lt;/g2&gt;</ept> for flowcharts and other graphical representations</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110430Z" creationid="alexa" creationdate="20250405T110430Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Diagramas Mermaid<ept i="1">&lt;/g1&gt;</ept>: Incorpora <bpt i="2" x="2">&lt;g2&gt;</bpt>diagramas mermaid<ept i="2">&lt;/g2&gt;</ept> para fluxogramas e outras representações gráficas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -952,8 +1102,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Multi-Mesh Shader<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T185913Z" creationid="alexa" creationdate="20250404T185913Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Shader Multi-Malha<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113706Z" creationid="alexa" creationdate="20250404T185913Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Shader multi-malha<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,8 +1238,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Procedural Meshes<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T185825Z" creationid="alexa" creationdate="20250404T185825Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Malhas Procedurais<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113057Z" creationid="alexa" creationdate="20250404T185825Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Malhas procedurais<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1208,8 +1358,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Screen Space Decals With Root Renderer<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T182015Z" creationid="alexa" creationdate="20250404T182015Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Decais em espaço de tela com Renderizador Base<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112610Z" creationid="alexa" creationdate="20250404T182015Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Decais em espaço de tela com renderizador base<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,10 +1380,18 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Simba<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102933Z" creationid="alexa" creationdate="20250405T102933Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Simba<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Simple water 2<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T193454Z" creationid="alexa" creationdate="20250404T193454Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Água simples<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T115652Z" creationid="alexa" creationdate="20250404T193454Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Água simples 2<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1264,8 +1422,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Smooth follow<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T181737Z" creationid="alexa" creationdate="20250404T181737Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Seguir suave<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112523Z" creationid="alexa" creationdate="20250404T181737Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Seguir suavemente<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1296,16 +1454,16 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>SplitScreen<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T191049Z" creationid="alexa" creationdate="20250404T191049Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Teladividida<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113619Z" creationid="alexa" creationdate="20250404T191049Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tela dividida<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>SpriteSheet animation tutorial<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212233Z" creationid="alexa" creationdate="20250404T212233Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tutorial de Animação com SpriteSheet<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120214Z" creationid="alexa" creationdate="20250404T212233Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tutorial de animação com SpriteSheet<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1368,8 +1526,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride Clean UI tutorial step by step<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212500Z" creationid="alexa" creationdate="20250404T212500Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tutorial de Interface Limpa no Stride passo a passo<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120409Z" creationid="alexa" creationdate="20250404T212500Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tutorial de interface limpa no Stride passo a passo<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1384,8 +1542,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride Game Engine Extension for code only approach<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T181051Z" creationid="alexa" creationdate="20250404T181051Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Extensão da Engine Stride para abordagem somente com código<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T114200Z" creationid="alexa" creationdate="20250404T181051Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Extensão do motor de jogos Stride para abordagem somente com código<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1400,8 +1558,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride Instancing Example<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T185856Z" creationid="alexa" creationdate="20250404T185856Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Exemplo de Instanciamento no Stride<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113145Z" creationid="alexa" creationdate="20250404T185856Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Exemplo de instanciação no Stride<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1416,24 +1574,24 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride Outline Renderer<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T190439Z" creationid="alexa" creationdate="20250404T190439Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Renderizador de Contorno do Stride<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113237Z" creationid="alexa" creationdate="20250404T190439Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Renderizador de contorno do Stride<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride Ragdoll Tutorial (beta)<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212519Z" creationid="alexa" creationdate="20250404T212519Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tutorial de Ragdoll no Stride (beta)<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120449Z" creationid="alexa" creationdate="20250404T212519Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tutorial de ragdoll no Stride (beta)<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride Voxel Scape<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T193427Z" creationid="alexa" creationdate="20250404T193427Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Voxel Scape com Stride<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T115316Z" creationid="alexa" creationdate="20250404T193427Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Voxel Scape no Stride<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1448,8 +1606,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride controller UI navigation<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T213238Z" creationid="alexa" creationdate="20250404T213238Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Navegação de Interface com controle no Stride<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120921Z" creationid="alexa" creationdate="20250404T213238Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Navegação de interface com controle no Stride<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1552,8 +1710,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Stride3D examples in .NET 5 using C# 9.0 or .NET 6 using C# 10<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T182118Z" creationid="alexa" creationdate="20250404T182118Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Exemplos Stride3D em .NET 5 com C# 9.0 ou .NET 6 com C# 10<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112644Z" creationid="alexa" creationdate="20250404T182118Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Exemplos do Stride3D em .NET 5 com C# 9.0 ou .NET 6 com C# 10<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1568,8 +1726,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideCameraController<ept i="1">&lt;/g1&gt;</ept> - Swapping Cameras/Resident Evil Style</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T191040Z" creationid="alexa" creationdate="20250404T191040Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideCameraController<ept i="1">&lt;/g1&gt;</ept> - Troca de Câmeras/Estilo Resident Evil</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113559Z" creationid="alexa" creationdate="20250404T191040Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideCameraController<ept i="1">&lt;/g1&gt;</ept> - Troca de câmeras estilo Resident Evil</seg>
       </tuv>
     </tu>
     <tu>
@@ -1584,32 +1742,32 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideMeshOutlineRenderFeature: Stride Mesh Outline Render Feature<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T193051Z" creationid="alexa" creationdate="20250404T193051Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideMeshOutlineRenderFeature: Recurso de Renderização de Contorno de Malha para o Stride<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T114917Z" creationid="alexa" creationdate="20250404T193051Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideMeshOutlineRenderFeature: Recurso de renderização de contorno de malha para o Stride<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideMeshOutlineRenderFeature<ept i="1">&lt;/g1&gt;</ept> - Mesh Outline Render Feature</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T190745Z" creationid="alexa" creationdate="20250404T190745Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideMeshOutlineRenderFeature<ept i="1">&lt;/g1&gt;</ept> - Recurso de Renderização de Contorno de Malha</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113323Z" creationid="alexa" creationdate="20250404T190745Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideMeshOutlineRenderFeature<ept i="1">&lt;/g1&gt;</ept> - Recurso de renderização de contorno de Malha</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideTerrain<ept i="1">&lt;/g1&gt;</ept> - Height Map Terrain</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T211956Z" creationid="alexa" creationdate="20250404T211956Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideTerrain<ept i="1">&lt;/g1&gt;</ept> - Terreno com Mapa de Altura</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T115252Z" creationid="alexa" creationdate="20250404T211956Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideTerrain<ept i="1">&lt;/g1&gt;</ept> - Terreno com mapa de altura</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideTriplanarShader<ept i="1">&lt;/g1&gt;</ept> - Triplanar Shader for Stride</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T190732Z" creationid="alexa" creationdate="20250404T190711Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideTriplanarShader<ept i="1">&lt;/g1&gt;</ept> - Shader Triplanar para o Stride</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113524Z" creationid="alexa" creationdate="20250404T190711Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideTriplanarShader<ept i="1">&lt;/g1&gt;</ept> - Shader triplanar para o Stridec</seg>
       </tuv>
     </tu>
     <tu>
@@ -1624,8 +1782,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideWireframeShader: single pass wireframe shader for stride<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T193111Z" creationid="alexa" creationdate="20250404T193111Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideWireframeShader: shader wireframe de passe único para o Stride<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T114858Z" creationid="alexa" creationdate="20250404T193111Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>StrideWireframeShader: shader aramado de passe único para o Stride<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,8 +1814,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Super Character Controller<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T185907Z" creationid="alexa" creationdate="20250404T185907Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Super Controlador de Personagem<ept i="1">&lt;/g1&gt;</ept>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113153Z" creationid="alexa" creationdate="20250404T185907Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Super controlador de personagem<ept i="1">&lt;/g1&gt;</ept>
 </seg>
       </tuv>
     </tu>
@@ -1735,6 +1893,14 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tabs<ept i="1">&lt;/g1&gt;</ept>: Organize content into tabbed sections for improved readability</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110503Z" creationid="alexa" creationdate="20250405T110503Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Abas (Tabs)<ept i="1">&lt;/g1&gt;</ept>: Organiza conteúdo em seções com abas para melhorar a legibilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tessellation<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T182128Z" creationid="alexa" creationdate="20250404T182128Z">
@@ -1761,8 +1927,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Trigger Example<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T190030Z" creationid="alexa" creationdate="20250404T190030Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Exemplo de Gatilho<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113212Z" creationid="alexa" creationdate="20250404T190030Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Exemplo de gatilho<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1793,8 +1959,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Tutorials by Manio143<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212129Z" creationid="alexa" creationdate="20250404T212129Z">
-        <seg>Tutorials por Manio</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T115820Z" creationid="alexa" creationdate="20250404T212129Z">
+        <seg>Tutoriais por Manio</seg>
       </tuv>
     </tu>
     <tu>
@@ -1817,8 +1983,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>UI Navigation<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T213244Z" creationid="alexa" creationdate="20250404T213244Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Navegação de Interface<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120927Z" creationid="alexa" creationdate="20250404T213244Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Navegação de interface<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1959,10 +2125,26 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>VaclavElias<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102831Z" creationid="alexa" creationdate="20250405T102831Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>VaclavElias<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Vašo<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102828Z" creationid="alexa" creationdate="20250405T102828Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Vašo<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Vehicle Script<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T190042Z" creationid="alexa" creationdate="20250404T190042Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Script de Veículo<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113215Z" creationid="alexa" creationdate="20250404T190042Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Script de veículo<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -1971,6 +2153,14 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T182242Z" creationid="alexa" creationdate="20250404T182242Z">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Demonstração em vídeo<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Video<ept i="1">&lt;/g1&gt;</ept>: Embed video content directly into your documentation</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110318Z" creationid="alexa" creationdate="20250405T110318Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Vídeo<ept i="1">&lt;/g1&gt;</ept>: Incorpora conteúdo de vídeo diretamente na documentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1985,8 +2175,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Voxel GI example<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T182332Z" creationid="alexa" creationdate="20250404T182332Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Exemplo de Iluminação Global com Voxels (Voxel GI)<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T115432Z" creationid="alexa" creationdate="20250404T182332Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Exemplo de Iluminação global com voxels (Voxel GI)<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -2073,8 +2263,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Xenko Voxel Scape<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T182230Z" creationid="alexa" creationdate="20250404T182230Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Voxel Scape com Xenko<ept i="1">&lt;/g1&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T115331Z" creationid="alexa" creationdate="20250404T182230Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Voxel Scape no Xenko<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -2105,32 +2295,32 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoByteSized<ept i="1">&lt;/g1&gt;</ept> - Subdivided Plane Mesh</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T211919Z" creationid="alexa" creationdate="20250404T211919Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoByteSized<ept i="1">&lt;/g1&gt;</ept> - Malha de Plano Subdividido</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T115231Z" creationid="alexa" creationdate="20250404T211919Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoByteSized<ept i="1">&lt;/g1&gt;</ept> - Malha de plano subdividido</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoByteSized<ept i="1">&lt;/g1&gt;</ept> - Various Procedural Renderings</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T190453Z" creationid="alexa" creationdate="20250404T190453Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoByteSized<ept i="1">&lt;/g1&gt;</ept> - Várias Renderizações Procedurais</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113245Z" creationid="alexa" creationdate="20250404T190453Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoByteSized<ept i="1">&lt;/g1&gt;</ept> - Várias renderizações procedurais</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoHMTerrain<ept i="1">&lt;/g1&gt;</ept> - Height Map Terrain</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T211942Z" creationid="alexa" creationdate="20250404T211942Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoHMTerrain<ept i="1">&lt;/g1&gt;</ept> - Terreno com Mapa de Altura</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T115245Z" creationid="alexa" creationdate="20250404T211942Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoHMTerrain<ept i="1">&lt;/g1&gt;</ept> - Terreno com mapa de altura</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoMCTerrain<ept i="1">&lt;/g1&gt;</ept> - Marching Cubes Terrain</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T211935Z" creationid="alexa" creationdate="20250404T211935Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoMCTerrain<ept i="1">&lt;/g1&gt;</ept> - Terreno de Marching Cubes</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T115239Z" creationid="alexa" creationdate="20250404T211935Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoMCTerrain<ept i="1">&lt;/g1&gt;</ept> - Terreno de marching cubes</seg>
       </tuv>
     </tu>
     <tu>
@@ -2161,8 +2351,8 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoVoxelExample<ept i="1">&lt;/g1&gt;</ept> - minecraft like voxel brick world</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T190628Z" creationid="alexa" creationdate="20250404T190628Z">
-        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoVoxelExample<ept i="1">&lt;/g1&gt;</ept> - mundo de blocos voxel estilo minecraft</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113417Z" creationid="alexa" creationdate="20250404T190628Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoVoxelExample<ept i="1">&lt;/g1&gt;</ept> - mundo de blocos voxel estilo Minecraft</seg>
       </tuv>
     </tu>
     <tu>
@@ -2171,6 +2361,22 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T174715Z" creationid="alexa" creationdate="20250404T174708Z">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>XenkoWindowFromCode<ept i="1">&lt;/g1&gt;</ept> - Iniciar uma janela de jogo apenas com código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Youness KAFIA<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103234Z" creationid="alexa" creationdate="20250405T103234Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Youness KAFIA<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Youness<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103232Z" creationid="alexa" creationdate="20250405T103232Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Youness<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -2311,6 +2517,14 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>docfx.json<ept i="1">&lt;/g1&gt;</ept> - The HTML footer is included in the <bpt i="2" x="2">&lt;g2&gt;</bpt>_appFooter<ept i="2">&lt;/g2&gt;</ept> section</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110827Z" creationid="alexa" creationdate="20250405T110827Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>docfx.json<ept i="1">&lt;/g1&gt;</ept> – O rodapé HTML está incluído na seção <bpt i="2" x="2">&lt;g2&gt;</bpt>_appFooter<ept i="2">&lt;/g2&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>engineering<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T215321Z" creationid="alexa" creationdate="20250404T215321Z">
@@ -2327,6 +2541,22 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>jklawreszuk<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103808Z" creationid="alexa" creationdate="20250405T103808Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>jklawreszuk<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>kryptosfr<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103839Z" creationid="alexa" creationdate="20250405T103839Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>kryptosfr<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>performance<ept i="1">&lt;/g1&gt;</ept></seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T215307Z" creationid="alexa" creationdate="20250404T215307Z">
@@ -2335,10 +2565,82 @@ Se múltiplos rótulos forem aplicados, a automação de releases priorizará a 
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>tebjan<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T101500Z" creationid="alexa" creationdate="20250405T101500Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>tebjan<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>template/partials/affix.tmpl.partial<ept i="1">&lt;/g1&gt;</ept> - Currently not functioning</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110649Z" creationid="alexa" creationdate="20250405T110649Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>template/partials/affix.tmpl.partial<ept i="1">&lt;/g1&gt;</ept> – Atualmente não funcional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>template/partials/footer.tmpl.partial<ept i="1">&lt;/g1&gt;</ept> - Currently not functioning</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110655Z" creationid="alexa" creationdate="20250405T110655Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>template/partials/footer.tmpl.partial<ept i="1">&lt;/g1&gt;</ept> – Atualmente não funcional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>template/public/main.css<ept i="1">&lt;/g1&gt;</ept> - Contains minor Bootstrap CSS overrides</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110721Z" creationid="alexa" creationdate="20250405T110721Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>template/public/main.css<ept i="1">&lt;/g1&gt;</ept> – Contém pequenas personalizações do CSS do Bootstrap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>template/public/main.js<ept i="1">&lt;/g1&gt;</ept>:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110732Z" creationid="alexa" creationdate="20250405T110732Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>template/public/main.js<ept i="1">&lt;/g1&gt;</ept>:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>vvvv Showcase<ept i="1">&lt;/g1&gt;</ept> - Many large-scale interactive media projects made with vvvv</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T183001Z" creationid="alexa" creationdate="20250404T183001Z">
         <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>vvvv Showcase<ept i="1">&lt;/g1&gt;</ept> - Muitos projetos interativos de mídia em grande escala feitos com vvvv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>xen2<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T095333Z" creationid="alexa" creationdate="20250405T095333Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>xen2<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><ph x="2">&lt;x2/&gt;</ph><bpt i="3" x="3">&lt;g3&gt;</bpt>Lead developer of Stride<ept i="3">&lt;/g3&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T095431Z" creationid="alexa" creationdate="20250405T095349Z">
+        <seg><ph x="2">&lt;x2/&gt;</ph><bpt i="3" x="3">&lt;g3&gt;</bpt>Desenvolvedor líder do Stride<ept i="3">&lt;/g3&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><ph x="2">&lt;x2/&gt;</ph><bpt i="3" x="3">&lt;g3&gt;</bpt>Original developer of Stride<ept i="3">&lt;/g3&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103853Z" creationid="alexa" creationdate="20250405T103853Z">
+        <seg><bpt i="3" x="3">&lt;g3&gt;</bpt>Desenvolvedor original do Stride<ept i="3">&lt;/g3&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg><ph x="4">&lt;x4/&gt;</ph><bpt i="5" x="5">&lt;g5&gt;</bpt>(Original &amp; Current)<ept i="5">&lt;/g5&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T095411Z" creationid="alexa" creationdate="20250405T095411Z">
+        <seg><ph x="4">&lt;x4/&gt;</ph><bpt i="5" x="5">&lt;g5&gt;</bpt>(Original e Atual)<ept i="5">&lt;/g5&gt;</ept></seg>
       </tuv>
     </tu>
     <tu>
@@ -2371,6 +2673,22 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Add a <bpt i="1" x="1">&lt;g1&gt;</bpt>new manual<ept i="1">&lt;/g1&gt;</ept> or <bpt i="2" x="2">&lt;g2&gt;</bpt>tutorial<ept i="2">&lt;/g2&gt;</ept> or any new content</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104421Z" creationid="alexa" creationdate="20250405T104421Z">
+        <seg>Adicionar um <bpt i="1" x="1">&lt;g1&gt;</bpt>novo manual<ept i="1">&lt;/g1&gt;</ept> ou <bpt i="2" x="2">&lt;g2&gt;</bpt>tutorial<ept i="2">&lt;/g2&gt;</ept> ou qualquer outro conteúdo novo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After making and testing your changes locally, you should create a pull request to merge your changes into the <bpt i="2" x="2">&lt;g2&gt;</bpt>master<ept i="2">&lt;/g2&gt;</ept> branch.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104704Z" creationid="alexa" creationdate="20250405T104704Z">
+        <seg>Após realizar e testar suas mudanças localmente, envie um pull request para mesclá-las na branch <bpt i="2" x="2">&lt;g2&gt;</bpt>master<ept i="2">&lt;/g2&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Animation</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T185918Z" creationid="alexa" creationdate="20250404T185918Z">
@@ -2383,6 +2701,30 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T175446Z" creationid="alexa" creationdate="20250404T175446Z">
         <seg>Artigos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Asset compiler</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103832Z" creationid="alexa" creationdate="20250405T103832Z">
+        <seg>Compilador de assets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Asset pipeline</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T101424Z" creationid="alexa" creationdate="20250405T101424Z">
+        <seg>Pipeline de assets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Asset system</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102754Z" creationid="alexa" creationdate="20250405T102754Z">
+        <seg>Sistema de assets</seg>
       </tuv>
     </tu>
     <tu>
@@ -2403,10 +2745,58 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Belgium</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T101611Z" creationid="alexa" creationdate="20250405T101611Z">
+        <seg>Bélgica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Best Practices</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221421Z" creationid="alexa" creationdate="20250404T221421Z">
         <seg>Boas Práticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bootstrap Customization</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110859Z" creationid="alexa" creationdate="20250405T110859Z">
+        <seg>Personalização do Bootstrap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Build</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T100127Z" creationid="alexa" creationdate="20250405T095543Z">
+        <seg>Construção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>C#</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102928Z" creationid="alexa" creationdate="20250405T102928Z">
+        <seg>C#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>C# in general</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T101517Z" creationid="alexa" creationdate="20250405T101517Z">
+        <seg>C# em geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CSS Guidelines</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T111051Z" creationid="alexa" creationdate="20250405T111051Z">
+        <seg>Diretrizes de CSS</seg>
       </tuv>
     </tu>
     <tu>
@@ -2427,10 +2817,18 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Canada</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102949Z" creationid="alexa" creationdate="20250405T102949Z">
+        <seg>Canadá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Code Only</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T174620Z" creationid="alexa" creationdate="20250404T174620Z">
-        <seg>Somente Código</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112119Z" creationid="alexa" creationdate="20250404T174620Z">
+        <seg>Somente código</seg>
       </tuv>
     </tu>
     <tu>
@@ -2445,8 +2843,24 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       <tuv xml:lang="en">
         <seg>Community Resources</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T183930Z" creationid="alexa" creationdate="20250404T183930Z">
-        <seg>Recursos da Comunidade</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112756Z" creationid="alexa" creationdate="20250404T183930Z">
+        <seg>Recursos da comunidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Community meetings</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103752Z" creationid="alexa" creationdate="20250405T103752Z">
+        <seg>Reuniões com a comunidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Content Updates</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T122730Z" creationid="alexa" creationdate="20250405T104023Z">
+        <seg>Atualizações de conteúdo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2461,16 +2875,80 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       <tuv xml:lang="en">
         <seg>Contribution Workflow for Stride Projects</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T220440Z" creationid="alexa" creationdate="20250404T220440Z">
-        <seg>Fluxo de Contribuição para Projetos Stride</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T122336Z" creationid="alexa" creationdate="20250404T220440Z">
+        <seg>Fluxo de contribuição para projetos Stride</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg>Controlling Patches<it pos="end" x="1">&lt;/g1&gt;</it></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212755Z" creationid="alexa" creationdate="20250404T212755Z">
-        <seg>Controlando Patches<it pos="end" x="1">&lt;/g1&gt;</it></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120627Z" creationid="alexa" creationdate="20250404T212755Z">
+        <seg>Controlando patches<it pos="end" x="1">&lt;/g1&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Core Team</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T095213Z" creationid="alexa" creationdate="20250405T095213Z">
+        <seg>Equipe Principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a new <bpt i="1" x="1">&lt;g1&gt;</bpt>index.md<ept i="1">&lt;/g1&gt;</ept> file in this folder.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105655Z" creationid="alexa" creationdate="20250405T105655Z">
+        <seg>Crie um novo arquivo <bpt i="1" x="1">&lt;g1&gt;</bpt>index.md<ept i="1">&lt;/g1&gt;</ept> dentro dessa pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a new file in the <bpt i="1" x="1">&lt;g1&gt;</bpt>manual<ept i="1">&lt;/g1&gt;</ept> folder, in the already existing folders (e.g. animation, audio, ..) or create a new folder in the <bpt i="2" x="2">&lt;g2&gt;</bpt>manual<ept i="2">&lt;/g2&gt;</ept> folder.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105145Z" creationid="alexa" creationdate="20250405T105145Z">
+        <seg>Crie um novo arquivo na pasta manual, em uma das pastas já existentes (por exemplo, animation, audio, etc.) ou crie uma nova pasta dentro da pasta manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a new tutorial folder in the <bpt i="1" x="1">&lt;g1&gt;</bpt>tutorial<ept i="1">&lt;/g1&gt;</ept> folder.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105645Z" creationid="alexa" creationdate="20250405T105645Z">
+        <seg>Crie uma nova pasta de tutorial dentro da pasta <bpt i="1" x="1">&lt;g1&gt;</bpt>tutorial<ept i="1">&lt;/g1&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create markdown files for each step of the tutorial.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105726Z" creationid="alexa" creationdate="20250405T105726Z">
+        <seg>Crie arquivos markdown para cada etapa do tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating New Manual Page</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T122813Z" creationid="alexa" creationdate="20250405T105127Z">
+        <seg>Criando uma nova página de manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating New Tutorial Page</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105541Z" creationid="alexa" creationdate="20250405T105541Z">
+        <seg>Criando uma Nova Página de Tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating an issue is not required for small updates, but it is recommended to let others know what you are working on.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104313Z" creationid="alexa" creationdate="20250405T104313Z">
+        <seg>Criar uma issue não é obrigatório para pequenas atualizações, mas é recomendável avisar outros colaboradores sobre o que você está fazendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2493,8 +2971,8 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       <tuv xml:lang="en">
         <seg>Data Types &amp; IOBoxes<it pos="end" x="1">&lt;/g1&gt;</it></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212622Z" creationid="alexa" creationdate="20250404T212622Z">
-        <seg>Tipos de Dados e IOBoxes<it pos="end" x="1">&lt;/g1&gt;</it></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120604Z" creationid="alexa" creationdate="20250404T212622Z">
+        <seg>Tipos de dados e IOBoxes<it pos="end" x="1">&lt;/g1&gt;</it></seg>
       </tuv>
     </tu>
     <tu>
@@ -2503,6 +2981,46 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T220958Z" creationid="alexa" creationdate="20250404T220958Z">
         <seg>Passos Detalhados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Discord</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T095307Z" creationid="alexa" creationdate="20250405T095307Z">
+        <seg>Discord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Docfx supports additional markdown syntax to enrich content.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110153Z" creationid="alexa" creationdate="20250405T110153Z">
+        <seg>O Docfx oferece suporte a sintaxes adicionais em markdown para enriquecer o conteúdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Documenation</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102847Z" creationid="alexa" creationdate="20250405T102847Z">
+        <seg>Documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103757Z" creationid="alexa" creationdate="20250405T103757Z">
+        <seg>Documentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Documentation content</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T122642Z" creationid="alexa" creationdate="20250405T104004Z">
+        <seg>Conteúdo da documentação</seg>
       </tuv>
     </tu>
     <tu>
@@ -2519,6 +3037,14 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T220932Z" creationid="alexa" creationdate="20250404T220932Z">
         <seg>E --&gt; F --&gt; G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ECS</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103333Z" creationid="alexa" creationdate="20250405T103333Z">
+        <seg>ECS</seg>
       </tuv>
     </tu>
     <tu>
@@ -2557,8 +3083,8 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       <tuv xml:lang="en">
         <seg>Engine Documentation</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T180708Z" creationid="alexa" creationdate="20250404T180610Z">
-        <seg>Documentação do Motor</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112230Z" creationid="alexa" creationdate="20250404T180610Z">
+        <seg>Documentação do motor de jogos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2613,8 +3139,8 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       <tuv xml:lang="en">
         <seg>Example projects</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T181221Z" creationid="alexa" creationdate="20250404T181221Z">
-        <seg>Exemplos de Projetos</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112303Z" creationid="alexa" creationdate="20250404T181221Z">
+        <seg>Exemplos de projetos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2637,8 +3163,8 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       <tuv xml:lang="en">
         <seg>Extension Libraries</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T211201Z" creationid="alexa" creationdate="20250404T211201Z">
-        <seg>Bibliotecas de Extensão</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120754Z" creationid="alexa" creationdate="20250404T211201Z">
+        <seg>Bibliotecas de extensão</seg>
       </tuv>
     </tu>
     <tu>
@@ -2655,6 +3181,30 @@ E, principalmente, confirmar que você <bpt i="1" x="1">&lt;g1&gt;</bpt>construi
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T173946Z" creationid="alexa" creationdate="20250404T173946Z">
         <seg>Sinta-se à vontade para navegar na documentação da API utilizando os namespaces, e não hesite em consultar a <bpt i="1" x="1">&lt;g1&gt;</bpt>comunidade do Stride<ept i="1">&lt;/g1&gt;</ept> ou <bpt i="2" x="2">&lt;g2&gt;</bpt>o repositório GitHub<ept i="2">&lt;/g2&gt;</ept> para uma maior assistência e recursos adicionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fix a typo</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104428Z" creationid="alexa" creationdate="20250405T104428Z">
+        <seg>Corrigir erros de digitação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Focus / Expertise</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T095321Z" creationid="alexa" creationdate="20250405T095321Z">
+        <seg>Área de foco / Especialidade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Follow the established formats and conventions to ensure consistency and clarity throughout the documentation.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110117Z" creationid="alexa" creationdate="20250405T110117Z">
+        <seg>Siga os formatos e convenções estabelecidos para garantir consistência e clareza em toda a documentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2689,6 +3239,14 @@ ou qualquer outra categoria que o mantenedor julgar adequada.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>For more information, read the Docfx documentation on <bpt i="1" x="1">&lt;g1&gt;</bpt>markdown, shortcodes and includes<ept i="1">&lt;/g1&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110218Z" creationid="alexa" creationdate="20250405T110218Z">
+        <seg>Para mais informações, leia a documentação do Docfx sobre <bpt i="1" x="1">&lt;g1&gt;</bpt>markdown, shortcodes e includes<ept i="1">&lt;/g1&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>For more specific guidelines related to each project, refer to their respective contribution documentation.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221500Z" creationid="alexa" creationdate="20250404T221500Z">
@@ -2701,6 +3259,22 @@ ou qualquer outra categoria que o mantenedor julgar adequada.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T091416Z" creationid="alexa" creationdate="20250405T091416Z">
         <seg>Para beneficiar tanto usuários da IDE quanto aqueles que utilizam a documentação da API gerada, é fundamental que todas as interfaces, classes, métodos e propriedades <bpt i="1" x="1">&lt;g1&gt;</bpt>públicas<ept i="1">&lt;/g1&gt;</ept> em C# sejam devidamente documentadas com <bpt i="2" x="2">&lt;g2&gt;</bpt>comentários XML<ept i="2">&lt;/g2&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For the following instructions, use the <bpt i="1" x="1">&lt;g1&gt;</bpt>Stride Docs GitHub repository<ept i="1">&lt;/g1&gt;</ept>:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104514Z" creationid="alexa" creationdate="20250405T104514Z">
+        <seg>Para seguir as instruções abaixo, use o repositório oficial do Stride Docs no GitHub:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>France</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103241Z" creationid="alexa" creationdate="20250405T103241Z">
+        <seg>França</seg>
       </tuv>
     </tu>
     <tu>
@@ -2737,6 +3311,14 @@ ou qualquer outra categoria que o mantenedor julgar adequada.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Game Studio</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103914Z" creationid="alexa" creationdate="20250405T103914Z">
+        <seg>Game Studio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Games</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T182727Z" creationid="alexa" creationdate="20250404T182727Z">
@@ -2769,6 +3351,14 @@ ou qualquer outra categoria que o mantenedor julgar adequada.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Germany</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T101512Z" creationid="alexa" creationdate="20250405T101512Z">
+        <seg>Alemanha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Get your hands dirty with code, scripts, and more.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T185257Z" creationid="alexa" creationdate="20250404T185257Z">
@@ -2777,10 +3367,26 @@ ou qualquer outra categoria que o mantenedor julgar adequada.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>GitHub</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T095310Z" creationid="alexa" creationdate="20250405T095310Z">
+        <seg>GitHub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>GitHub Pull Request Guidelines</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T213706Z" creationid="alexa" creationdate="20250404T213706Z">
         <seg>Diretrizes para realizar Pull Requests no GitHub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Graphics</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T101543Z" creationid="alexa" creationdate="20250405T101543Z">
+        <seg>Gráficos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2818,6 +3424,22 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>If possible make sure that images are <bpt i="2" x="2">&lt;g2&gt;</bpt>.webp<ept i="2">&lt;/g2&gt;</ept> format and videos are <bpt i="3" x="3">&lt;g3&gt;</bpt>.mp4<ept i="3">&lt;/g3&gt;</ept> format.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105458Z" creationid="alexa" creationdate="20250405T105458Z">
+        <seg>Se possível, certifique-se de que as imagens estejam no formato <bpt i="2" x="2">&lt;g2&gt;</bpt>webp<ept i="2">&lt;/g2&gt;</ept> e os vídeos no formato <bpt i="3" x="3">&lt;g3&gt;</bpt>.mp4<ept i="3">&lt;/g3&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If possible make sure that images are <bpt i="2" x="2">&lt;g2&gt;</bpt>.webp<ept i="2">&lt;/g2&gt;</ept> format.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105929Z" creationid="alexa" creationdate="20250405T105929Z">
+        <seg>Se possível, certifique-se de que as imagens estejam no formato <bpt i="2" x="2">&lt;g2&gt;</bpt>.webp<ept i="2">&lt;/g2&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>If so, start the process again by creating a new branch.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T221353Z" creationid="alexa" creationdate="20250404T221353Z">
@@ -2834,10 +3456,58 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>If you are not sure whether your update is small or not, please create an issue first.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104323Z" creationid="alexa" creationdate="20250405T104323Z">
+        <seg>Se estiver em dúvida se sua alteração é pequena ou não, prefira criar uma issue primeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you are using <bpt i="1" x="1">&lt;g1&gt;</bpt>Visual Studio<ept i="1">&lt;/g1&gt;</ept>, you can open <bpt i="2" x="2">&lt;g2&gt;</bpt>Stride.Docs.sln<ept i="2">&lt;/g2&gt;</ept> solution file in the root of the repository and start making your updates directly from this IDE.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104228Z" creationid="alexa" creationdate="20250405T104228Z">
+        <seg>Se estiver utilizando o <bpt i="1" x="1">&lt;g1&gt;</bpt>Visual Studio<ept i="1">&lt;/g1&gt;</ept>, é possível abrir o arquivo de solução <bpt i="2" x="2">&lt;g2&gt;</bpt>Stride.Docs.sln<ept i="2">&lt;/g2&gt;</ept>, localizado na raiz do repositório, e começar a editar a partir do próprio IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you created a new folder, make sue that you create also <bpt i="1" x="1">&lt;g1&gt;</bpt>index.md<ept i="1">&lt;/g1&gt;</ept> file in this folder.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105156Z" creationid="alexa" creationdate="20250405T105156Z">
+        <seg>Se você criou uma nova pasta, certifique-se também de criar um arquivo index.md dentro dela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you prefer to use GitHub infrastructure for your demonstrations, refer to our <bpt i="2" x="2">&lt;g2&gt;</bpt>Deployment to GitHub Pages guide<ept i="2">&lt;/g2&gt;</ept> for instructions on deploying via GitHub Actions.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104907Z" creationid="alexa" creationdate="20250405T104907Z">
+        <seg>Caso prefira usar a infraestrutura do GitHub para isso, consulte nosso <bpt i="2" x="2">&lt;g2&gt;</bpt>guia de implantação no GitHub Pages<ept i="2">&lt;/g2&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>If you think the address <bpt i="1" x="1">&lt;g1&gt;</bpt><ept i="1">&lt;/g1&gt;</ept> should be valid, <bpt i="2" x="2">&lt;g2&gt;</bpt>let us know<ept i="2">&lt;/g2&gt;</ept>.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T173149Z" creationid="alexa" creationdate="20250404T173149Z">
-        <seg>Se você acredita que este endereço<bpt i="1" x="1">&lt;g1&gt;</bpt><ept i="1">&lt;/g1&gt;</ept>deveria ser válido, por favor, <bpt i="2" x="2">&lt;g2&gt;</bpt>&gt;entre em contato<ept i="2">&lt;/g2&gt;</ept></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112034Z" creationid="alexa" creationdate="20250404T173149Z">
+        <seg>Se você acredita que este endereço<bpt i="1" x="1">&lt;g1&gt;</bpt><ept i="1">&lt;/g1&gt;</ept>deveria ser válido, por favor, <bpt i="2" x="2">&lt;g2&gt;</bpt>entre em contato<ept i="2">&lt;/g2&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you want to contribute and update the website, please follow the instructions below.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104035Z" creationid="alexa" creationdate="20250405T104035Z">
+        <seg>Se você deseja contribuir e atualizar o site, siga as instruções abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition to the Manual and Tutorial sections mentioned above, the same principles apply to both existing and new sections.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110107Z" creationid="alexa" creationdate="20250405T110107Z">
+        <seg>Além das seções Manual e Tutorial mencionadas acima, os mesmos princípios se aplicam a seções existentes e novas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2850,10 +3520,34 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Injects the Stride Docs language selection into the top navigation</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110816Z" creationid="alexa" creationdate="20250405T110816Z">
+        <seg>Injeta a seleção de idioma da documentação do Stride na navegação superior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Injects the Stride Docs version selection above the filter in the side navigation</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110803Z" creationid="alexa" creationdate="20250405T110803Z">
+        <seg>Injeta a seleção de versão da documentação do Stride acima do filtro na navegação lateral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Input</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T181233Z" creationid="alexa" creationdate="20250404T181233Z">
         <seg>Entrada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Input/Gameplay</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102703Z" creationid="alexa" creationdate="20250405T102703Z">
+        <seg>Entrada/Jogabilidade</seg>
       </tuv>
     </tu>
     <tu>
@@ -2870,6 +3564,14 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184832Z" creationid="alexa" creationdate="20250404T184832Z">
         <seg>Interfaces, interações e ferramentas de terceiros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ireland</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102748Z" creationid="alexa" creationdate="20250405T102748Z">
+        <seg>Irlanda</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,6 +3596,14 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T223434Z" creationid="alexa" creationdate="20250404T220811Z">
         <seg>J[Responda ao feedback do PR]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Japan</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T095458Z" creationid="alexa" creationdate="20250405T095458Z">
+        <seg>Japão</seg>
       </tuv>
     </tu>
     <tu>
@@ -2962,10 +3672,66 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Linux related stuff</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103825Z" creationid="alexa" creationdate="20250405T103825Z">
+        <seg>Tópicos relacionados ao Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Location</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T095316Z" creationid="alexa" creationdate="20250405T095316Z">
+        <seg>Localização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>M[Sync/Merge Upstream with Your Forked Main Branch]</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T223559Z" creationid="alexa" creationdate="20250404T220828Z">
         <seg>M[Sincronize/Mescle o repositório original com o seu fork do branch main]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Major Updates</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T122752Z" creationid="alexa" creationdate="20250405T104538Z">
+        <seg>Atualizações maiores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Major updates can be defined as significant changes to the website's design, where it's beneficial to preview the impact of your changes to ensure they achieve the desired result.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104613Z" creationid="alexa" creationdate="20250405T104613Z">
+        <seg>Atualizações maiores envolvem mudanças estruturais no site, onde é útil visualizar o impacto antes de efetivar a alteração.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104914Z" creationid="alexa" creationdate="20250405T104914Z">
+        <seg>Manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Math</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T101907Z" creationid="alexa" creationdate="20250405T101907Z">
+        <seg>Matemática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Media</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105312Z" creationid="alexa" creationdate="20250405T105312Z">
+        <seg>Mídia</seg>
       </tuv>
     </tu>
     <tu>
@@ -2980,16 +3746,48 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Meshes and Models</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T185746Z" creationid="alexa" creationdate="20250404T185746Z">
-        <seg>Malhas e Modelos</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113047Z" creationid="alexa" creationdate="20250404T185746Z">
+        <seg>Malhas e modelos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Metrics</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103837Z" creationid="alexa" creationdate="20250405T103837Z">
+        <seg>Métricas</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg>Models and Animations</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T185710Z" creationid="alexa" creationdate="20250404T185451Z">
-        <seg>Modelos e Animações</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113044Z" creationid="alexa" creationdate="20250404T185451Z">
+        <seg>Modelos e animações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modifying layouts</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104634Z" creationid="alexa" creationdate="20250405T104634Z">
+        <seg>Modificações em layouts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Most engine areas</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T100712Z" creationid="alexa" creationdate="20250405T100712Z">
+        <seg>Partes do motor de jogos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Multithreading</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T101627Z" creationid="alexa" creationdate="20250405T101627Z">
+        <seg>Multithreading</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,10 +3800,26 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Naming Convention</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T122826Z" creationid="alexa" creationdate="20250405T105251Z">
+        <seg>Convenção de nomes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Navigating the Environment<it pos="end" x="1">&lt;/g1&gt;</it></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212558Z" creationid="alexa" creationdate="20250404T212558Z">
-        <seg>Navegando pelo Ambiente<it pos="end" x="1">&lt;/g1&gt;</it></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120554Z" creationid="alexa" creationdate="20250404T212558Z">
+        <seg>Navegando pelo ambiente<it pos="end" x="1">&lt;/g1&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Netherlands</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103423Z" creationid="alexa" creationdate="20250405T103423Z">
+        <seg>Países Baixos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3020,8 +3834,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Nodes &amp; Pins<it pos="end" x="1">&lt;/g1&gt;</it></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212633Z" creationid="alexa" creationdate="20250404T212633Z">
-        <seg>Nós e Pinos<it pos="end" x="1">&lt;/g1&gt;</it></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120609Z" creationid="alexa" creationdate="20250404T212633Z">
+        <seg>Nós e pinos<it pos="end" x="1">&lt;/g1&gt;</it></seg>
       </tuv>
     </tu>
     <tu>
@@ -3046,6 +3860,38 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T220942Z" creationid="alexa" creationdate="20250404T220942Z">
         <seg>O --&gt;|Sim| B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Observe existing pages and folders for the naming convention.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105307Z" creationid="alexa" creationdate="20250405T105307Z">
+        <seg>Verifique as páginas e pastas existentes para seguir a convenção de nomes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Observe existing tutorials for the content of this file.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105718Z" creationid="alexa" creationdate="20250405T105718Z">
+        <seg>Verifique os tutoriais existentes para ter uma referência do conteúdo desse arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Observe existing tutorials structure for the content of these files.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105742Z" creationid="alexa" creationdate="20250405T105742Z">
+        <seg>Verifique a estrutura dos tutoriais existentes para basear o conteúdo desses arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Official video tutorials</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103431Z" creationid="alexa" creationdate="20250405T103431Z">
+        <seg>Tutoriais oficiais em vídeo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3082,6 +3928,38 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Other Sections</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T122847Z" creationid="alexa" creationdate="20250405T110003Z">
+        <seg><bpt i="1" x="1">&lt;g1&gt;</bpt>Outras seções<ept i="1">&lt;/g1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our goal is to write minimal CSS code to keep the website lightweight, leveraging the Bootstrap framework to the fullest extent possible.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T111104Z" creationid="alexa" creationdate="20250405T111104Z">
+        <seg>Nosso objetivo é escrever o mínimo possível de código CSS para manter o site leve, aproveitando ao máximo o framework Bootstrap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our main web assets include:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110637Z" creationid="alexa" creationdate="20250405T110637Z">
+        <seg>Nossos principais recursos web incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Overall source generators</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103228Z" creationid="alexa" creationdate="20250405T103228Z">
+        <seg>Geradores de código em geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Overview</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T220520Z" creationid="alexa" creationdate="20250404T220520Z">
@@ -3100,8 +3978,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>PRs with other labels or those that are unlabelled will automatically fall under the <bpt i="1" x="1">&lt;g1&gt;</bpt>Other Changes<ept i="1">&lt;/g1&gt;</ept> category.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T215446Z" creationid="alexa" creationdate="20250404T215446Z">
-        <seg>PRs com outros rótulos ou sem rótulos serão automaticamente incluídos na categoria <bpt i="1" x="1">&lt;g1&gt;</bpt>Other Changes<ept i="1">&lt;/g1&gt;</ept>.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T121731Z" creationid="alexa" creationdate="20250404T215446Z">
+        <seg>PRs com outros rótulos ou sem rótulos serão automaticamente incluídos na categoria <bpt i="1" x="1">&lt;g1&gt;</bpt>Outras alterações<ept i="1">&lt;/g1&gt;</ept>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3131,6 +4009,30 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Plugin system</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102810Z" creationid="alexa" creationdate="20250405T102810Z">
+        <seg>Sistema de plugins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Poland</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103815Z" creationid="alexa" creationdate="20250405T103815Z">
+        <seg>Polônia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Porting Editor to Avalonia</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102804Z" creationid="alexa" creationdate="20250405T102804Z">
+        <seg>Portabilidade do Editor para Avalonia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Project examples</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T180246Z" creationid="alexa" creationdate="20250404T180246Z">
@@ -3143,6 +4045,14 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T183746Z" creationid="alexa" creationdate="20250404T183746Z">
         <seg>Projetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Release</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T100413Z" creationid="alexa" creationdate="20250405T100107Z">
+        <seg>Lançamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -3163,6 +4073,22 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Render pipeline</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T101537Z" creationid="alexa" creationdate="20250405T101537Z">
+        <seg>Pipeline de renderização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Render pipelne</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T101431Z" creationid="alexa" creationdate="20250405T101431Z">
+        <seg>Pipeline de renderização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Rendering</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T190252Z" creationid="alexa" creationdate="20250404T190252Z">
@@ -3173,8 +4099,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Rendering and Camera</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T190104Z" creationid="alexa" creationdate="20250404T190104Z">
-        <seg>Renderização e Câmera</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113220Z" creationid="alexa" creationdate="20250404T190104Z">
+        <seg>Renderização e câmera</seg>
       </tuv>
     </tu>
     <tu>
@@ -3195,10 +4121,34 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Revamping design elements</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104640Z" creationid="alexa" creationdate="20250405T104640Z">
+        <seg>Reformulação de elementos visuais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Scene</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T181619Z" creationid="alexa" creationdate="20250404T181619Z">
         <seg>Cena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sets the top navigation icons, such as GitHub, Discord, Twitter</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110743Z" creationid="alexa" creationdate="20250405T110743Z">
+        <seg>Define os ícones da navegação superior, como GitHub, Discord, Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shader system</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T101455Z" creationid="alexa" creationdate="20250405T101443Z">
+        <seg>Sistema de shader</seg>
       </tuv>
     </tu>
     <tu>
@@ -3211,6 +4161,14 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Shortcodes and Includes</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T122852Z" creationid="alexa" creationdate="20250405T110134Z">
+        <seg>Shortcodes e includes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Significant changes, such as the introduction of new features or modifications to existing ones, necessitate updates to the Stride user manual.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T092336Z" creationid="alexa" creationdate="20250405T092336Z">
@@ -3219,18 +4177,42 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Small Updates</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T122737Z" creationid="alexa" creationdate="20250405T104258Z">
+        <seg>Pequenas atualizações</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Small updates can be done directly in the GitHub web interface, for bigger updates the local development environment is required, which is described in the <bpt i="1" x="1">&lt;g1&gt;</bpt>Installation<ept i="1">&lt;/g1&gt;</ept> section.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104059Z" creationid="alexa" creationdate="20250405T104059Z">
+        <seg>Pequenas atualizações podem ser feitas diretamente pela interface web do GitHub. Já para atualizações maiores, é necessário configurar um ambiente de desenvolvimento local, conforme descrito na seção <bpt i="1" x="1">&lt;g1&gt;</bpt>Instalação<ept i="1">&lt;/g1&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some commonly used features include:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110247Z" creationid="alexa" creationdate="20250405T110247Z">
+        <seg>Alguns recursos comuns incluem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Spreads &amp; Iteration<it pos="end" x="1">&lt;/g1&gt;</it></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212657Z" creationid="alexa" creationdate="20250404T212657Z">
-        <seg>Propagações e Iterações<it pos="end" x="1">&lt;/g1&gt;</it></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120526Z" creationid="alexa" creationdate="20250404T212657Z">
+        <seg>Propagações e iterações<it pos="end" x="1">&lt;/g1&gt;</it></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg>Squashing</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T220139Z" creationid="alexa" creationdate="20250404T220139Z">
-        <seg>Squash de Commits</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T122242Z" creationid="alexa" creationdate="20250404T220139Z">
+        <seg>Squash de commits</seg>
       </tuv>
     </tu>
     <tu>
@@ -3243,10 +4225,26 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Start by setting up your local development environment, as described in the <bpt i="1" x="1">&lt;g1&gt;</bpt>Installation<ept i="1">&lt;/g1&gt;</ept> section.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104648Z" creationid="alexa" creationdate="20250405T104648Z">
+        <seg>Comece configurando seu ambiente de desenvolvimento local, conforme descrito na seção <bpt i="1" x="1">&lt;g1&gt;</bpt>Instalação<ept i="1">&lt;/g1&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Start[Start]</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T220717Z" creationid="alexa" creationdate="20250404T220717Z">
         <seg>Start[Início]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Steps</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104433Z" creationid="alexa" creationdate="20250405T104433Z">
+        <seg>Etapas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3259,10 +4257,42 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Stride Community Toolkit</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102924Z" creationid="alexa" creationdate="20250405T102924Z">
+        <seg>Stride Community Toolkit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Stride Diagnostics Analyzer</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103218Z" creationid="alexa" creationdate="20250405T103218Z">
+        <seg>Diagnostic Analyzer do Stride</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Stride's community has made and shared all kinds of awesome stuff over the years.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184014Z" creationid="alexa" creationdate="20250404T184014Z">
         <seg>A comunidade do Stride criou e compartilhou coisas incríveis ao longo dos anos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Styling</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110837Z" creationid="alexa" creationdate="20250405T110837Z">
+        <seg>Estilo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Submitting your Changes</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T111849Z" creationid="alexa" creationdate="20250405T111116Z">
+        <seg>Submetendo suas alterações</seg>
       </tuv>
     </tu>
     <tu>
@@ -3309,8 +4339,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Terrain and Water</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T193209Z" creationid="alexa" creationdate="20250404T193209Z">
-        <seg>Terreno e Água</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T115223Z" creationid="alexa" creationdate="20250404T193209Z">
+        <seg>Terreno e água</seg>
       </tuv>
     </tu>
     <tu>
@@ -3319,6 +4349,22 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T094413Z" creationid="alexa" creationdate="20250405T094413Z">
         <seg>O arquivo <bpt i="1" x="1">&lt;g1&gt;</bpt>ReleaseNotesNext.md<ept i="1">&lt;/g1&gt;</ept> é um documento crucial que deve ser continuamente atualizado com resumos dos PRs importantes ou com grandes alterações que foram mesclados e são relevantes para a comunidade, como novos recursos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The <bpt i="3" x="3">&lt;g3&gt;</bpt>toc.yml<ept i="3">&lt;/g3&gt;</ept> file contains the table of contents for the tutorial pages, which is displayed on the left side of the tutorial pages.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105807Z" creationid="alexa" creationdate="20250405T105807Z">
+        <seg>O arquivo <bpt i="3" x="3">&lt;g3&gt;</bpt>toc.yml<ept i="3">&lt;/g3&gt;</ept> contém o índice das páginas de tutorial, que é exibido no lado esquerdo das páginas de tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The <bpt i="4" x="4">&lt;g4&gt;</bpt>toc.yml<ept i="4">&lt;/g4&gt;</ept> file contains the table of contents for the manual pages, which is displayed on the left side of the manual pages.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105237Z" creationid="alexa" creationdate="20250405T105237Z">
+        <seg>O arquivo toc.yml contém o índice das páginas do manual, que é exibido no lado esquerdo das páginas do manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3333,8 +4379,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>The Stride Rendering Pipeline<it pos="end" x="1">&lt;/g1&gt;</it></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212650Z" creationid="alexa" creationdate="20250404T212650Z">
-        <seg>Pipeline de Renderização do Stride<it pos="end" x="1">&lt;/g1&gt;</it></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120621Z" creationid="alexa" creationdate="20250404T212650Z">
+        <seg>Pipeline de renderização do Stride<it pos="end" x="1">&lt;/g1&gt;</it></seg>
       </tuv>
     </tu>
     <tu>
@@ -3371,6 +4417,22 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>The core team is a small group of volunteer developers, each with expertise in different areas of development.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T095223Z" creationid="alexa" creationdate="20250405T095223Z">
+        <seg>A equipe principal é formada por um pequeno grupo de desenvolvedores voluntários, cada um com experiência em diferentes áreas do desenvolvimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The core team is composed of members who make frequent contributions to the project, whether in code, documentation, or community management.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T095302Z" creationid="alexa" creationdate="20250405T095302Z">
+        <seg>A equipe principal é composta por membros que contribuem com frequência para o projeto — seja com código, documentação ou na gestão da comunidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>The page you're looking for doesn't exist or has been moved to another address.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T173035Z" creationid="alexa" creationdate="20250404T173035Z">
@@ -3381,8 +4443,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>The template includes sections for a concise summary of your changes, a detailed description, any related issues, the motivation behind the changes, and the types of changes being proposed.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T214245Z" creationid="alexa" creationdate="20250404T214245Z">
-        <seg>Esse modelo inclui seções para um resumo das alterações, uma descrição detalhada, eventuais Issues relacionados, a motivação por trás das mudanças e o tipo de alteração proposta.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T121213Z" creationid="alexa" creationdate="20250404T214245Z">
+        <seg>Esse modelo inclui seções para um resumo das alterações, uma descrição detalhada, eventuais issues relacionados, a motivação por trás das mudanças e o tipo de alteração proposta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3391,6 +4453,22 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T214501Z" creationid="alexa" creationdate="20250404T214501Z">
         <seg>Estrutura do modelo de Pull Request:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The videos should be uploaded to YouTube and embedded in the tutorial pages.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105954Z" creationid="alexa" creationdate="20250405T105954Z">
+        <seg>Os vídeos devem estar no YouTube e incorporados nas páginas do tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are no full-time developers solely dedicated to Stride's advancement; instead, the engine progresses through voluntary contributions from both the core team and the <bpt i="1" x="1">&lt;g1&gt;</bpt>wider community<ept i="1">&lt;/g1&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T095242Z" creationid="alexa" creationdate="20250405T095242Z">
+        <seg>Não há desenvolvedores em tempo integral exclusivamente dedicados ao avanço do Stride; em vez disso, o motor evolui graças às contribuições voluntárias tanto da equipe principal quanto da <bpt i="1" x="1">&lt;g1&gt;</bpt>comunidade em geral<ept i="1">&lt;/g1&gt;</ept>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3411,6 +4489,14 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>These individuals dedicate their spare time to enhancing and expanding the engine, driven by personal interest, passion for the project, and their specialized knowledge.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T095252Z" creationid="alexa" creationdate="20250405T095252Z">
+        <seg>Esses colaboradores dedicam seu tempo livre para aprimorar e expandir o motor, movidos por interesse pessoal, paixão pelo projeto e seu conhecimento técnico especializado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>These labels are utilized by GitHub Releases automation to sort changes in the changelog.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T215130Z" creationid="alexa" creationdate="20250404T215130Z">
@@ -3419,10 +4505,50 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>These pages are also included in the optionally generated PDF file.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105246Z" creationid="alexa" creationdate="20250405T105246Z">
+        <seg>Essas páginas também são incluídas no arquivo PDF gerado opcionalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>These pages contain detailed information about the Stride scripting API, grouped by namespace.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T173545Z" creationid="alexa" creationdate="20250404T173545Z">
         <seg>Estas páginas contêm informações detalhadas sobre a API de programação de scripts do Stride, agrupadas por namespace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These pages contain information about how to use Stride, an open-source C# game engine.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105015Z" creationid="alexa" creationdate="20250405T105015Z">
+        <seg>Essas páginas contêm informações sobre como usar o Stride, um motor de jogos C# de código aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These pages contain tutorials on how to use Stride, an open-source C# game engine.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105525Z" creationid="alexa" creationdate="20250405T105525Z">
+        <seg>Essas páginas contêm tutoriais sobre como usar o Stride, um motor de jogos C# de código aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These syntaxes are specific to Docfx and <bpt i="1" x="1">&lt;g1&gt;</bpt>may not render<ept i="1">&lt;/g1&gt;</ept> correctly on other platforms, like GitHub.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110210Z" creationid="alexa" creationdate="20250405T110210Z">
+        <seg>Essas sintaxes são específicas do Docfx e <bpt i="1" x="1">&lt;g1&gt;</bpt>podem não ser renderizadas<ept i="1">&lt;/g1&gt;</ept> corretamente em outras plataformas, como o GitHub.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This approach helps maintainers visualize and assess your proposed changes more effectively.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104842Z" creationid="alexa" creationdate="20250405T104842Z">
+        <seg>Essa abordagem ajuda os mantenedores a visualizar e avaliar suas alterações propostas de forma mais eficaz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3459,6 +4585,22 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>This folder contains images and videos used in the manual pages.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105402Z" creationid="alexa" creationdate="20250405T105402Z">
+        <seg>Essa pasta contém imagens e vídeos usados nas páginas do manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This folder contains images.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105920Z" creationid="alexa" creationdate="20250405T105920Z">
+        <seg>Essa pasta contém imagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>This guide assumes familiarity with the basics of Git and GitHub, focusing on providing instructions for creating pull requests (PRs) that are straightforward for the Stride team to review and merge.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T214046Z" creationid="alexa" creationdate="20250404T213741Z">
@@ -3475,10 +4617,26 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>This includes the dark theme, enabled by Docfx.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110944Z" creationid="alexa" creationdate="20250405T110944Z">
+        <seg>Isso inclui o tema escuro, habilitado pelo Docfx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>This information is invaluable for developers integrating these features into their projects.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T091612Z" creationid="alexa" creationdate="20250405T091612Z">
         <seg>Essas informações são inestimáveis para os desenvolvedores que integram esses recursos em seus projetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is crucial because the file name dictates the URL of the content page, which plays a significant role in search engine optimization (SEO).</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105117Z" creationid="alexa" creationdate="20250405T105117Z">
+        <seg>Isso é crucial porque o nome do arquivo determina a URL da página de conteúdo, o que desempenha um papel importante na otimização para motores de busca (SEO).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3491,10 +4649,18 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>This may include:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104622Z" creationid="alexa" creationdate="20250405T104622Z">
+        <seg>Exemplos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>This means that only one label will be automatically applied to the release notes.</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T215623Z" creationid="alexa" creationdate="20250404T215623Z">
-        <seg>Isso significa que apenas um rótulo será usada automaticamente nas notas de versão.</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T122236Z" creationid="alexa" creationdate="20250404T215623Z">
+        <seg>Isso significa que apenas um rótulo será usada automaticamente nas notas de versão</seg>
       </tuv>
     </tu>
     <tu>
@@ -3579,10 +4745,18 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Tutorial</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105509Z" creationid="alexa" creationdate="20250405T105509Z">
+        <seg>Tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Tutorials</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212117Z" creationid="alexa" creationdate="20250404T212117Z">
-        <seg>Tutorials</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T115813Z" creationid="alexa" creationdate="20250404T212117Z">
+        <seg>Tutoriais</seg>
       </tuv>
     </tu>
     <tu>
@@ -3605,16 +4779,56 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Type Conversion<it pos="end" x="1">&lt;/g1&gt;</it></seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212642Z" creationid="alexa" creationdate="20250404T212642Z">
-        <seg>Conversão de Tipos<it pos="end" x="1">&lt;/g1&gt;</it></seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120614Z" creationid="alexa" creationdate="20250404T212642Z">
+        <seg>Conversão de tipos<it pos="end" x="1">&lt;/g1&gt;</it></seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en">
         <seg>UI</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212947Z" creationid="alexa" creationdate="20250404T212719Z">
-        <seg>Interface de Usuário</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120648Z" creationid="alexa" creationdate="20250404T212719Z">
+        <seg>Interface do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>United Kingdom</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102837Z" creationid="alexa" creationdate="20250405T102837Z">
+        <seg>Reino Unido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update <bpt i="1" x="1">&lt;g1&gt;</bpt>toc.yml<ept i="1">&lt;/g1&gt;</ept> (or <bpt i="2" x="2">&lt;g2&gt;</bpt>toc.md<ept i="2">&lt;/g2&gt;</ept>) file in the <bpt i="3" x="3">&lt;g3&gt;</bpt>manual<ept i="3">&lt;/g3&gt;</ept> folder to include the new page or folder.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105224Z" creationid="alexa" creationdate="20250405T105224Z">
+        <seg>Atualize o arquivo toc.yml (ou toc.md) dentro da pasta manual para incluir a nova página ou pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update <bpt i="1" x="1">&lt;g1&gt;</bpt>toc.yml<ept i="1">&lt;/g1&gt;</ept> file in the <bpt i="2" x="2">&lt;g2&gt;</bpt>tutorial<ept i="2">&lt;/g2&gt;</ept> folder to include the new tutorial folder.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105755Z" creationid="alexa" creationdate="20250405T105755Z">
+        <seg>Atualize o arquivo <bpt i="1" x="1">&lt;g1&gt;</bpt>toc.yml<ept i="1">&lt;/g1&gt;</ept> na pasta <bpt i="2" x="2">&lt;g2&gt;</bpt>tutorial<ept i="2">&lt;/g2&gt;</ept> para incluir a nova pasta de tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update Docfx version</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104629Z" creationid="alexa" creationdate="20250405T104629Z">
+        <seg>Atualização da versão do Docfx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update the content of an existing page (manual, tutorial or release note, ..)</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104405Z" creationid="alexa" creationdate="20250405T104405Z">
+        <seg>Atualizar o conteúdo de uma página existente (manual, tutorial ou nota de versão, etc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3627,10 +4841,26 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Use any existing page as a template for the new page.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105214Z" creationid="alexa" creationdate="20250405T105214Z">
+        <seg>Use qualquer página existente como modelo para a nova página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>VVVV integration</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T180429Z" creationid="alexa" creationdate="20250404T180429Z">
         <seg>Integração com VVVV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Video Tutorials</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103000Z" creationid="alexa" creationdate="20250405T103000Z">
+        <seg>Tutoriais em vídeo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3645,8 +4875,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>Visual Programming</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T213355Z" creationid="alexa" creationdate="20250404T213355Z">
-        <seg>Programação Visual</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T121016Z" creationid="alexa" creationdate="20250404T213355Z">
+        <seg>Programação visual</seg>
       </tuv>
     </tu>
     <tu>
@@ -3667,10 +4897,50 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>We can define small updates as changes to the content of the website:</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104339Z" creationid="alexa" creationdate="20250405T104339Z">
+        <seg>Consideramos pequenas atualizações aquelas que envolvem alterações no conteúdo do site, como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We utilize the <bpt i="1" x="1">&lt;g1&gt;</bpt>modern<ept i="1">&lt;/g1&gt;</ept> template provided by Docfx, which employs the <bpt i="2" x="2">&lt;g2&gt;</bpt>Bootstrap<ept i="2">&lt;/g2&gt;</ept> framework, version <bpt i="3" x="3">&lt;g3&gt;</bpt>5.3<ept i="3">&lt;/g3&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T110926Z" creationid="alexa" creationdate="20250405T110926Z">
+        <seg>Utilizamos o template <bpt i="1" x="1">&lt;g1&gt;</bpt>modern<ept i="1">&lt;/g1&gt;</ept> fornecido pelo Docfx, que emprega o framework <bpt i="2" x="2">&lt;g2&gt;</bpt>Bootstrap<ept i="2">&lt;/g2&gt;</ept> na versão <bpt i="3" x="3">&lt;g3&gt;</bpt>5.3<ept i="3">&lt;/g3&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Web Assets</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T123001Z" creationid="alexa" creationdate="20250405T110615Z">
+        <seg>Recursos web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Website</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T102842Z" creationid="alexa" creationdate="20250405T102842Z">
+        <seg>Website</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Welcome to the Stride API documentation.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T173532Z" creationid="alexa" creationdate="20250404T173532Z">
         <seg>Bem-vindo à documentação da API do Stride.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What is a small update?</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104329Z" creationid="alexa" creationdate="20250405T104329Z">
+        <seg>O que é considerado uma pequena atualização?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3687,6 +4957,14 @@ perhaps for something that you can reuse for your project.</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T214759Z" creationid="alexa" creationdate="20250404T214759Z">
         <seg>Ao mesclar um PR, o título deve conter um prefixo baseado nos rótulos (labels):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When submitting a pull request, especially for substantial changes, it's recommended to include <bpt i="1" x="1">&lt;g1&gt;</bpt>screenshots<ept i="1">&lt;/g1&gt;</ept> or a link to your local deployment.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104731Z" creationid="alexa" creationdate="20250405T104731Z">
+        <seg>Ao enviar um pull request, especialmente para mudanças grandes, recomenda-se incluir <bpt i="1" x="1">&lt;g1&gt;</bpt>capturas de tela<ept i="1">&lt;/g1&gt;</ept> ou um link para a versão local do site.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3723,6 +5001,62 @@ perhaps for something that you can reuse for your project.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Yaml Serializer Source Generator</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T103208Z" creationid="alexa" creationdate="20250405T103208Z">
+        <seg>Gerador de código-fonte Yaml Serializer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You are always welcome to <bpt i="1" x="1">&lt;g1&gt;</bpt>create an issue<ept i="1">&lt;/g1&gt;</ept> to discuss your changes before you start working on them.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104249Z" creationid="alexa" creationdate="20250405T104249Z">
+        <seg>Você também pode <bpt i="1" x="1">&lt;g1&gt;</bpt>criar uma issue<ept i="1">&lt;/g1&gt;</ept> para discutir suas alterações antes de começar a trabalhar nelas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can observe that existing folders might have a <bpt i="1" x="1">&lt;g1&gt;</bpt>media<ept i="1">&lt;/g1&gt;</ept> folder.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105355Z" creationid="alexa" creationdate="20250405T105321Z">
+        <seg>Observe que algumas pastas existentes possuem uma pasta media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can observe that existing tutorials have a <bpt i="1" x="1">&lt;g1&gt;</bpt>media<ept i="1">&lt;/g1&gt;</ept> folder.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105915Z" creationid="alexa" creationdate="20250405T105915Z">
+        <seg>Verifique que os tutoriais existentes possuem uma pasta <bpt i="1" x="1">&lt;g1&gt;</bpt>media<ept i="1">&lt;/g1&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use any text editor to make changes.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104108Z" creationid="alexa" creationdate="20250405T104108Z">
+        <seg>Você pode usar qualquer editor de texto para fazer modificações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use this folder or create a new one in your folder.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T105414Z" creationid="alexa" creationdate="20250405T105414Z">
+        <seg>Você pode usar essa pasta ou criar uma nova dentro da sua própria pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You should be familiar with <bpt i="2" x="2">&lt;g2&gt;</bpt>Bootstrap Utilities<ept i="2">&lt;/g2&gt;</ept> which help you to achieve most of the styling requirements.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T111040Z" creationid="alexa" creationdate="20250405T111040Z">
+        <seg>Você deve estar familiarizado com <bpt i="2" x="2">&lt;g2&gt;</bpt>Utilities do Bootstrap<ept i="2">&lt;/g2&gt;</ept>, que ajudam a atender à maioria dos requisitos de estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>YouTube</seg>
       </tuv>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T211612Z" creationid="alexa" creationdate="20250404T211612Z">
@@ -3737,6 +5071,22 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T220910Z" creationid="alexa" creationdate="20250404T220910Z">
         <seg>Z[Fim]
 %% Edges</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>[!INCLUDE <bpt i="1" x="1">&lt;g1&gt;</bpt>small-updates<ept i="1">&lt;/g1&gt;</ept>]</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T104530Z" creationid="alexa" creationdate="20250405T104530Z">
+        <seg>[!INCLUDE <bpt i="1" x="1">&lt;g1&gt;</bpt>small-updates<ept i="1">&lt;/g1&gt;</ept>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>[!INCLUDE <bpt i="1" x="1">&lt;g1&gt;</bpt>submitting-changes<ept i="1">&lt;/g1&gt;</ept>]</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T111130Z" creationid="alexa" creationdate="20250405T111130Z">
+        <seg>[!INCLUDE <bpt i="1" x="1">&lt;g1&gt;</bpt>submitting-changes<ept i="1">&lt;/g1&gt;</ept>]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3855,8 +5205,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>🎥 Rendering and camera</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184801Z" creationid="alexa" creationdate="20250404T184801Z">
-        <seg>🎥 Renderização e Câmera</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T112925Z" creationid="alexa" creationdate="20250404T184801Z">
+        <seg>🎥 Renderização e câmera</seg>
       </tuv>
     </tu>
     <tu>
@@ -3871,8 +5221,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>👨‍💻 Programming and Scripting</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T174613Z" creationid="alexa" creationdate="20250404T174613Z">
-        <seg>👨‍💻Programação e Scripting</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T114034Z" creationid="alexa" creationdate="20250404T174613Z">
+        <seg>👨‍💻 Programação e scripting</seg>
       </tuv>
     </tu>
     <tu>
@@ -3895,8 +5245,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>🔌 Embedding and Integration</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T180239Z" creationid="alexa" creationdate="20250404T180239Z">
-        <seg>🔌Incorporação e Integração</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T114132Z" creationid="alexa" creationdate="20250404T180239Z">
+        <seg>🔌 Incorporação e integração</seg>
       </tuv>
     </tu>
     <tu>
@@ -3911,8 +5261,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>🗠 Visual programming</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T184935Z" creationid="alexa" creationdate="20250404T184935Z">
-        <seg>🗠 Programação Visual</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T113011Z" creationid="alexa" creationdate="20250404T184935Z">
+        <seg>🗠 Programação visual</seg>
       </tuv>
     </tu>
     <tu>
@@ -3927,8 +5277,8 @@ perhaps for something that you can reuse for your project.</seg>
       <tuv xml:lang="en">
         <seg>🪟 UI</seg>
       </tuv>
-      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250404T212912Z" creationid="alexa" creationdate="20250404T211748Z">
-        <seg>🪟 Interface de Usuário</seg>
+      <tuv xml:lang="pt-BR" changeid="alexa" changedate="20250405T120712Z" creationid="alexa" creationdate="20250404T211748Z">
+        <seg>🪟 Interface do usuário</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

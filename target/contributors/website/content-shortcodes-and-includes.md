@@ -1,4 +1,4 @@
-# Shortcodes and Includes
+# Shortcodes e includes
 
 You can see examples here https://www.stride3d.net/blog/examples/.
 

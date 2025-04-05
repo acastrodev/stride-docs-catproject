@@ -1,4 +1,4 @@
-# Recursos da Comunidade
+# Recursos da comunidade
 
 A comunidade do Stride criou e compartilhou coisas incríveis ao longo dos anos. Dê uma olhada para se inspirar ou, talvez, encontrar algo que você possa reutilizar no seu projeto.
 
@@ -45,7 +45,7 @@ A comunidade do Stride criou e compartilhou coisas incríveis ao longo dos anos.
             <h2 class="card-title h5">⛰️ Terreno e Água</h2>
             <p class="card-text">Coisas inovadoras e tópicos relacionados à água.</p>
         </div>
-        <p class="px-3 mb-4"><a class="stretched-link" href="terrain-and-water.md">Molhe os seus pés</a></p>
+        <p class="px-3 mb-4"><a class="stretched-link" href="terrain-and-water.md">Dê uma molhada!</a></p>
     </div>
 </div>
 <div class="col-md-6">
@@ -69,7 +69,7 @@ A comunidade do Stride criou e compartilhou coisas incríveis ao longo dos anos.
 <div class="col-md-6">
     <div class="card h-100">
         <div class="card-body">
-            <h2 class="card-title h5">🎥 Renderização e Câmera</h2>
+            <h2 class="card-title h5">🎥 Renderização e câmera</h2>
             <p class="card-text">Renderização, câmeras, grupos de renderização e mais.</p>
         </div>
         <p class="px-3 mb-4"><a class="stretched-link" href="rendering-and-camera.md">Luzes, câmera, ação!</a></p>
@@ -78,7 +78,7 @@ A comunidade do Stride criou e compartilhou coisas incríveis ao longo dos anos.
 <div class="col-md-6">
     <div class="card h-100">
         <div class="card-body">
-            <h2 class="card-title h5">🪟 Interface de Usuário</h2>
+            <h2 class="card-title h5">🪟 Interface do usuário</h2>
             <p class="card-text">Interfaces, interações e ferramentas de terceiros.</p>
         </div>
         <p class="px-3 mb-4"><a class="stretched-link" href="ui.md">Uai sô, bora conferir</a></p>
@@ -87,7 +87,7 @@ A comunidade do Stride criou e compartilhou coisas incríveis ao longo dos anos.
 <div class="col-md-6">
     <div class="card h-100">
         <div class="card-body">
-            <h2 class="card-title h5">🗠 Programação Visual</h2>
+            <h2 class="card-title h5">🗠 Programação visual</h2>
             <p class="card-text">Programação visual, VVVV.</p>
         </div>
         <p class="px-3 mb-4"><a class="stretched-link" href="visual-programming.md">Comece a ligar os pontos</a></p>
@@ -105,7 +105,7 @@ A comunidade do Stride criou e compartilhou coisas incríveis ao longo dos anos.
 <div class="col-md-6">
     <div class="card h-100">
         <div class="card-body">
-            <h2 class="card-title h5">👨‍💻Programação e Scripting</h2>
+            <h2 class="card-title h5">👨‍💻 Programação e scripting</h2>
             <p class="card-text">Coloque as mãos na massa com código, scripts e muito mais.</p>
         </div>
         <p class="px-3 mb-4"><a class="stretched-link" href="coding.md">Libere o programador que existe em você</a></p>
@@ -114,7 +114,7 @@ A comunidade do Stride criou e compartilhou coisas incríveis ao longo dos anos.
 <div class="col-md-6">
     <div class="card h-100">
         <div class="card-body">
-            <h2 class="card-title h5">🔌Incorporação e Integração</h2>
+            <h2 class="card-title h5">🔌 Incorporação e integração</h2>
             <p class="card-text">Conecte o Stride com outros aplicativos e faça acontecer.
 </p>
         </div>

@@ -15,7 +15,7 @@
 - [XenkoVisualStudioTemplates](https://github.com/tebjan/XenkoTemplates/releases) - Templates de scripts e shaders para Visual Studio
 - [BlenderToXenkoAnimationSeparater](https://github.com/GutterLab/BlenderToXenkoAnimationSeparator)
 
-## Bibliotecas de Extensão
+## Bibliotecas de extensão
 - [Física Bepu no Stride](https://www.nuget.org/packages/Stride.BepuPhysics)
 - [Execute o Stride Gamestudio apenas com Nuget!](https://github.com/Doprez/stride-gamestudio-nuget)
 - [Editor em tempo real do Stride para alterar dados de entidade em tempo de execução](https://github.com/tebjan/StrideLiveEditor)

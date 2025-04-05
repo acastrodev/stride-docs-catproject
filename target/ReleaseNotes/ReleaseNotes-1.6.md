@@ -111,7 +111,7 @@ Release date: 2016/06/09
 
 ### Issues fixed
 
-#### Graphics
+#### Gráficos
 - D3D12: Static sampler didn't properly set comparison func and border, resulting in broken shadow maps
 - OpenGL ES: Improved texture format supports depending on OpenGL ES version and extension presents (esp. for float texture on ES2)
 - OpenGL ES: EXT_sRGB doesn't seem to properly work on Adreno 4xx, but since it is usually available through ES3 context, we use that first when available
@@ -274,7 +274,7 @@ Release date: 2016/04/04
 - Fix a concurrency issue that could make the Game Studio crash occasionally
 - Tooltip with no text were displayed above some properties
 
-#### Graphics
+#### Gráficos
 
 - Fix a potential issue in the lighting code
 
@@ -323,7 +323,7 @@ Release date: 2016/03/30
 - Fix an issue when modifying members of structures in the property grid
 - Prevent the property grid to be cleared when switching from a selection of asset to a selection of entities
 
-#### Graphics
+#### Gráficos
 
 - Structs can now be used in shaders. Switched light shaders to use them
 - Improve `EffectReflection` API
@@ -377,7 +377,7 @@ Then, save back your project in GameStudio. You now can open your project with V
 - The gizmo and camera menus are now displayed in the top-right corner.
 - Entity hierarchy is synchronized (automatically expanded) with the selected entity in the scene.
 
-#### Graphics
+#### Gráficos
 
 - New D3D12 renderer (experimental)
 - New Windows OpenGL and OpenGL ES renderers (experimental)
@@ -409,7 +409,7 @@ Then, save back your project in GameStudio. You now can open your project with V
 - Fix some issues related to folders in scene editor.
 - Redo does not re-open asset picker anymore.
 
-#### Graphics
+#### Gráficos
 
 - Tangents generation was invalid and might have resulted in various swaps
 
@@ -421,7 +421,7 @@ Then, save back your project in GameStudio. You now can open your project with V
 
 ### Breaking changes
 
-#### Graphics
+#### Gráficos
 
 - Extending rendering is quite different from before. Please check SpaceEscape and other samples to have a better idea while we prepare documentation.
 - Many methods of GraphicsDevice have been split off into a second class: CommandList

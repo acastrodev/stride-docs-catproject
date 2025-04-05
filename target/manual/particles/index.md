@@ -15,7 +15,7 @@
         * [Initializers](initializers.md)
         * [Updaters](updaters.md)
 
-### Tutorials
+### Tutoriais
 
 * [Create a trail](tutorials/create-a-trail.md) — Create a motion trail for a sword slash animation
 * [Lasers and lightning](tutorials/lasers-and-lightning.md) — Create laser and lightning effects using particles and custom materials

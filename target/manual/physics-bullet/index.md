@@ -19,7 +19,7 @@ Stride simulates real-world physics such as gravity and collisions. This section
 * [Raycasting](raycasting.md): Trace intersecting objects
 * [Simulation](simulation.md): How Stride controls physics
 
-### Tutorials
+### Tutoriais
 
 * [Create a bouncing ball](create-a-bouncing-ball.md): Use the static collider and rigidbody components to create a ball bouncing on a floor
 * [Script a trigger](script-a-trigger.md): Create a trigger that doubles the size of a ball when the ball passes through it

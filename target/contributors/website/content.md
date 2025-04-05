@@ -1,53 +1,53 @@
 # Website Content
 
-## Content Updates
+## Atualizações de conteúdo
 
-If you want to contribute and update the website, please follow the instructions below.
+Se você deseja contribuir e atualizar o site, siga as instruções abaixo.
 
-Small updates can be done directly in the GitHub web interface, for bigger updates the local development environment is required, which is described in the [Installation](installation.md) section.
+Pequenas atualizações podem ser feitas diretamente pela interface web do GitHub. Já para atualizações maiores, é necessário configurar um ambiente de desenvolvimento local, conforme descrito na seção [Instalação](installation.md).
 
-You can use any text editor to make changes. If you are using **Visual Studio**, you can open `Stride.Web.sln` solution file in the root of the repository and start making your updates directly from this IDE.
+Você pode usar qualquer editor de texto para fazer modificações. If you are using **Visual Studio**, you can open `Stride.Web.sln` solution file in the root of the repository and start making your updates directly from this IDE.
 
-You are always welcome to [create an issue](https://github.com/stride3d/stride-website) to discuss your changes before you start working on them.
+Você também pode [criar uma issue](https://github.com/stride3d/stride-website) para discutir suas alterações antes de começar a trabalhar nelas.
 
-### Small Updates
+### Pequenas atualizações
 
-Creating an issue is not required for small updates, but it is recommended to let others know what you are working on. If you are not sure whether your update is small or not, please create an issue first.
+Criar uma issue não é obrigatório para pequenas atualizações, mas é recomendável avisar outros colaboradores sobre o que você está fazendo. Se estiver em dúvida se sua alteração é pequena ou não, prefira criar uma issue primeiro.
 
-#### What is a small update?
+#### O que é considerado uma pequena atualização?
 
-We can define small updates as changes to the content of the website:
+Consideramos pequenas atualizações aquelas que envolvem alterações no conteúdo do site, como:
 
 - Update the content of an existing page
 - Update the content of an existing blog post
 - Add a [new page](#creating-new-page) or [blog post](#creating-new-post)
-- Fix a typo
+- Corrigir erros de digitação
 - Minor navigation or footer update
     - This will update all pages containing the navigation or footer
 
-#### Steps
+#### Etapas
 
-> [!NOTE]
-> This guide assumes that you are already familiar with updating files on GitHub.
+> [!NOTA]
+> Este guia parte do princípio de que você já está familiarizado com a atualização de arquivos no GitHub.
 
 For the following instructions, use the [Stride Website GitHub repository](https://github.com/stride3d/stride-website):
 
 [!INCLUDE [small-updates](../../includes/small-update-instructions.md)]
 
-### Major Updates
+### Atualizações maiores
 
-[Creating an issue](https://github.com/stride3d/stride-website/issues) is **required** for major updates, so that others can comment on your changes and provide feedback.
+Para atualizações significativas, é **obrigatório** [criar uma issue](https://github.com/stride3d/stride-website/issues), para que outros possam comentar e oferecer sugestões.
 
-Major updates can be defined as significant changes to the website's design, where it's beneficial to preview the impact of your changes to ensure they achieve the desired result. This may include:
+Atualizações maiores envolvem mudanças estruturais no site, onde é útil visualizar o impacto antes de efetivar a alteração. Exemplos:
 
 - Adding new Eleventy shortcodes and Liquid includes
 - Updating the Bootstrap library or other libraries
-- Modifying layouts
-- Revamping design elements
+- Modificações em layouts
+- Reformulação de elementos visuais
 
-Start by setting up your local development environment, as described in the [Installation](installation.md) section. After making and testing your changes locally, you should create a pull request to merge your changes into the `master` branch.
+Comece configurando seu ambiente de desenvolvimento local, conforme descrito na seção [Instalação](installation.md). Após realizar e testar suas mudanças localmente, envie um pull request para mesclá-las na branch `master`.
 
-When submitting a pull request, especially for substantial changes, it's recommended to include **screenshots** or a link to your local deployment. This approach helps maintainers visualize and assess your proposed changes more effectively. If you prefer to use GitHub infrastructure for your demonstrations, refer to our [Deployment to GitHub Pages guide](deployment-azure.md#deployment-to-github-pages) for instructions on deploying via GitHub Actions.
+Ao enviar um pull request, especialmente para mudanças grandes, recomenda-se incluir **capturas de tela** ou um link para a versão local do site. Essa abordagem ajuda os mantenedores a visualizar e avaliar suas alterações propostas de forma mais eficaz. Caso prefira usar a infraestrutura do GitHub para isso, consulte nosso [guia de implantação no GitHub Pages](deployment-azure.md#deployment-to-github-pages).
 
 ## Creating New Post
 
@@ -173,11 +173,11 @@ permalink: /my-features/ # otherwise it would be /features/
 ---
 ```
 
-## Shortcodes and Includes
+## Shortcodes e includes
 
 To enhance the quality and functionality of the content, both pages and posts can incorporate [shortcodes and includes](content-shortcodes-and-includes.md). These tools offer a versatile way to enrich the presentation and interactivity of the content on the Stride website.
 
-## Web Assets
+## Recursos web
 
 Our main web assets are:
 
@@ -193,21 +193,21 @@ Our main web assets are:
 - `search.liquid` - Renders as `search.json` contains search meta
 
 
-## Styling
+## Estilo
 
-### Bootstrap Customization
+### Personalização do Bootstrap
 
 Our website uses the [Bootstrap](https://getbootstrap.com/) framework, version **5.3**.
 
 > [!IMPORTANT]
-> Prioritize the use of Bootstrap's inherent styling before integrating any custom styles. You should be familiar with [Bootstrap Utilities](https://getbootstrap.com/docs/5.3/utilities/api/) which help you to achieve most of the styling requirements.
+> Priorize o uso dos estilos nativos do Bootstrap antes de aplicar quaisquer estilos personalizados. Você deve estar familiarizado com [Utilities do Bootstrap](https://getbootstrap.com/docs/5.3/utilities/api/), que ajudam a atender à maioria dos requisitos de estilo.
 
-### CSS Guidelines
+### Diretrizes de CSS
 
 Our goal is to write as little CSS as possible to ensure the website remains lightweight. We maximize the utilization of the Bootstrap framework to achieve this.
 
 Further, we are using also [FontAwesome](https://fontawesome.com/) free icons. The icons are loaded in the `src/_includes/css/main.css` file.
 
-## Submitting your Changes
+## Submetendo suas alterações
 
 [!INCLUDE [submitting-changes](../../includes/submitting-changes.md)]

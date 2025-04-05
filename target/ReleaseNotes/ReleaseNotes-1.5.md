@@ -187,7 +187,7 @@ Release date: 2015/12/17
 - Use the application icons as window icon on windows
 - Use AssamblyProductAttribute.Product as window title on windows
 
-###### Graphics
+###### Gráficos
 
 - Add support for Gif load and jpeg save for Android
 - Add the possibility to load images and textures as sRGB
@@ -201,7 +201,7 @@ Release date: 2015/12/17
 - Expose AnimationComponent.PlayingAnimations to the editor to be able to set entity initial animation easily.
 - Make connection to editor for shader compilation fail if there is no connection back within 5 seconds
 
-###### Interface de Usuário
+###### Interface do usuário
 
 - Add a tint color to the UI ImageElement.
 

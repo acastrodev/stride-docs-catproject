@@ -1,4 +1,4 @@
-# Asset pipeline
+# Pipeline de assets
 
 This more theoretical tutorial covers the general terminology of the Stride asset pipeline. We learn the differences between them and in what stage of the game making process they come up.
 

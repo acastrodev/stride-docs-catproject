@@ -53,7 +53,7 @@ Release date 2017/3/9
 * Improved keyboard navigation in tree views (eg solution explorer, scene hierarchy): left arrow goes to parent node, right arrow goes to first child (when on a node)
 * Nodes of the entity tree in the scene/prefab editors automatically expand when children are added
 
-##### Graphics
+##### Gráficos
 
 * Improved SetViewport (which has a separate count from render target count)
 * Added SetScissorRectangle (note: viewport and scissors only work well for first viewport) [#521](https://github.com/SiliconStudio/xenko/issues/521)
@@ -101,7 +101,7 @@ Release date 2017/3/9
 * Several crash issues fixed in the Assimp importer
 * SDF fonts and msdfgen have been upgraded to handle overlapping contours
 
-##### Graphics
+##### Gráficos
 
 * Material culling wasn't applied properly
 * Multi Render Target info wasn't kept when doing multithread rendering with multiple command lists

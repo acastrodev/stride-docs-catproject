@@ -1,4 +1,4 @@
-# Graphics
+# Gráficos
 
 This section explains how to use Game Studio and the Stride API for graphics and rendering.
 

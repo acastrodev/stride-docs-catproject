@@ -1,6 +1,6 @@
-# 👨‍💻Programação e Scripting
+# 👨‍💻 Programação e scripting
 
-## Somente Código
+## Somente código
 
 - [CodeOnlySample](https://github.com/xen2/Xenko.CodeOnlySample) - Projeto de exemplo apenas com código
 - [XenkoWindowFromCode](https://github.com/microdee/xenko-window-from-code) - Iniciar uma janela de jogo apenas com código

@@ -1,4 +1,4 @@
-# Programação Visual
+# Programação visual
 
 * [VVVV utiliza o Stride para renderização 3D](https://visualprogramming.net/)
 * [Interface 3D usando Stride e VVVV](https://github.com/tebjan/StrideUIPageDemo)

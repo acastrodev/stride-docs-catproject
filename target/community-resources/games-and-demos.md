@@ -40,6 +40,6 @@
   - [Step up feito por Marian Dziubiak e Youness Kafia](https://manio143.itch.io/project-step-up)
   - [Stopping the Rogue por manio](https://manio143.itch.io/stopping-the-rogue)
   - [Once Upon a LAN por Jarmo](https://jarmo.itch.io/once-upon-a-lan)
-  - [Dozer Dash](https://ldjam.com/events/ludum-dare/54/$374737) - feito com uma abordagem somente código [mais repo](https://github.com/Schossi/LD54/tree/main)
+  - [Dozer Dash](https://ldjam.com/events/ludum-dare/54/$374737) - feito com uma abordagem somente código [mais repositório](https://github.com/Schossi/LD54/tree/main)
 - Projetos
   - [Astroids](https://github.com/mmujic2/StrideAsteroids)

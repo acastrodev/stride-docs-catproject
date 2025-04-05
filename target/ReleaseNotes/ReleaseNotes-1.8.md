@@ -66,7 +66,7 @@ Cel shading (or Toon shading) is now available as a rendering model with both Di
 
 ## How To Upgrade
 
-### Interface de Usuário
+### Interface do usuário
 
 The UIComponent `RootElement`  property has been replaced with the `Page` property. It now expects an instance of the `UIPage` type. Scripts that were setting the `RootElement` property need to be updated:
 
@@ -129,7 +129,7 @@ Release date: 2016/08/31
 - `AudioEmitterComponent` now contains a dictionary of sounds that can be used from the emitter, those can be set from the Game Studio directly!
 - Game Studio sound preview now uses the internal engine, this means that you can directly preview the compression rate!
 
-##### Graphics
+##### Gráficos
 
 - CommandList can now compiled and executed
 - Constant Buffers are now uploaded in a single GPU Buffer and set with offsets on platform/API that support this mode
@@ -166,7 +166,7 @@ Release date: 2016/08/31
 
 #### Breaking changes
 
-##### Interface de Usuário
+##### Interface do usuário
 
 - The UIComponent expect a UI Page in place of the previous Root Element property.
 - Most dependency properties were changed into regular C# properties, except the ones that are attached properties (such as the Column and Row attached property of a Grid).

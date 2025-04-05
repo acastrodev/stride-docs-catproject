@@ -1,4 +1,4 @@
-# 🔌Incorporação e Integração
+# 🔌 Incorporação e integração
 
 - Exemplos de projetos
   - [Stride no Ultralight Blazor](https://github.com/lionfire/LionFire.Stride.Ultralight)

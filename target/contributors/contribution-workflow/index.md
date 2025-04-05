@@ -1,4 +1,4 @@
-# Fluxo de Contribuição para Projetos Stride
+# Fluxo de contribuição para projetos Stride
 
 Este guia descreve o fluxo de trabalho fundamental para contribuir com diversos projetos do Stride, incluindo o motor Stride, o site do Stride e a documentação do Stride. Seja você um colaborador experiente ou esteja começando agora, este fluxo garante que suas contribuições sejam integradas de forma eficaz.
 
